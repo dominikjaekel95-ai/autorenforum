@@ -1,0 +1,80 @@
+# =====================================================================
+# Autorenforum Berlin e.V. – Website-Relaunch
+# Diese Datei verhindert, dass vertrauliche Dateien ins Repo gelangen.
+# Grundregel: Exporte, Backups, Zugangsdaten und personenbezogene Daten
+# gehören NIE ins Repository. Lege solche Dateien in den Ordner privat/.
+# =====================================================================
+
+# --- Ablage für alles Vertrauliche (wird nie committet) ---
+privat/
+import/
+backup/
+backups/
+
+# --- WordPress-Exporte und Datenbank-Dumps ---
+# (WordPress benennt Exporte z. B. "seitenname.WordPress.2026-11-04.xml")
+*.xml
+!phpcs.xml.dist
+*.wxr
+*.sql
+*.sql.gz
+*.sqlite
+*.db
+*.wpress
+
+# --- Archive (Backups, Theme-ZIPs werden bei Bedarf neu gebaut) ---
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*.7z
+*.rar
+
+# --- Zugangsdaten, Schlüssel, Umgebungsvariablen ---
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.ppk
+id_rsa*
+id_ed25519*
+known_hosts
+auth.json
+wp-config.php
+.htpasswd
+*.kdbx
+sftp-config.json
+.ftpconfig
+.vscode/sftp.json
+
+# --- Tabellen mit Mitgliederdaten (nur docs/redirects.csv ist erlaubt) ---
+*.csv
+!docs/redirects.csv
+*.xlsx
+*.xls
+*.ods
+*.vcf
+
+# --- Lokale Testumgebung (WordPress Playground / wp-env / Docker) ---
+node_modules/
+.wp-env.override.json
+.wp-env/
+wordpress/
+wp-content/uploads/
+.playground/
+
+# --- System- und Editor-Dateien ---
+.DS_Store
+Thumbs.db
+desktop.ini
+*.log
+*.swp
+*~
+.idea/
+.vscode/*
+!.vscode/extensions.json
+
+# --- Build-Ausgaben ---
+dist/
+build/
