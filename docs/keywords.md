@@ -57,9 +57,10 @@ So setzen wir es um:
 - **Sofort möglich, schon vor dem Relaunch:** Die Startseite heißt heute
   „Autorenforum Berlin e.V. -“. Der Strich am Ende entsteht, weil der
   Untertitel der Website leer ist. Dominik kann den Titel in Yoast SEO unter
-  Einstellungen → Allgemein → Startseite setzen. Falls die Startseite eine
-  statische Seite ist, steht das Feld in der Yoast-Box dieser Seite. Die
-  Instanz ändert an der Live-Seite nichts.
+  Einstellungen → Inhaltstypen → Startseite setzen, zusammen mit der
+  Meta-Description. Falls die Startseite eine statische Seite ist, führt dort
+  ein Link zu dieser Seite; die Felder stehen dann in deren Yoast-Box unter
+  „Suchdarstellung“. Die Instanz ändert an der Live-Seite nichts.
 
 ## Zuordnung: ein Hauptbegriff pro Seite
 
