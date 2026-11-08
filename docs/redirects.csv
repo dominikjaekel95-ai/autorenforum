@@ -1,530 +1,553 @@
-alt,neu,status,regel,typ,hinweis
-/der-heisse-stuhl/,/textkritik/#heisser-stuhl,301,R1 Seite,Seite,
-/geschichte/,/verein/#geschichte,301,R1 Seite,Seite,
-/organisation/,/verein/#organisation,301,R1 Seite,Seite,
-/kontakt/,/verein/#kontakt,301,R1 Seite,Seite,
-/anfahrt/,/offener-leseabend/#anfahrt,301,R1 Seite,Seite,
-/archiv/,/veroeffentlichungen/,301,R1 Seite,Seite,
-/nikolauslesung/,/verein/#lesungen,301,R1 Seite,Seite,
-/wettbewerbe/,/verein/#wettbewerbe,301,R1 Seite,Seite,
-/wettbewerb-2012/,/verein/#wettbewerbe,301,R1 Seite,Seite,
-/wettbewerb-2014/,/verein/#wettbewerbe,301,R1 Seite,Seite,
-/wettbewerb-2015/,/verein/#wettbewerbe,301,R1 Seite,Seite,
-/wettbewerbe/wettbewerb-2017/,/verein/#wettbewerbe,301,R1 Seite,Seite,
-/wettbewerb-2019/,/verein/#wettbewerbe,301,R1 Seite,Seite,
-/wettbewerb-2019/wettbewerb-2019/,/verein/#wettbewerbe,301,R1 Seite,Seite,
-/wettbewerb-2019/wettbewerbe-2019/,/verein/#wettbewerbe,301,R1 Seite,Seite,
-/wettbewerb-2021/,/verein/#wettbewerbe,301,R1 Seite,Seite,
-/wettbewerb-2024/,/verein/#wettbewerbe,301,R1 Seite,Seite,
-/?page_id=17,/textkritik/#heisser-stuhl,301,R1 Seite,Kurzlink,WordPress-Kurzlink der Seite
-/?page_id=21,/verein/#geschichte,301,R1 Seite,Kurzlink,WordPress-Kurzlink der Seite
-/?page_id=23,/verein/#organisation,301,R1 Seite,Kurzlink,WordPress-Kurzlink der Seite
-/?page_id=61,/verein/#kontakt,301,R1 Seite,Kurzlink,WordPress-Kurzlink der Seite
-/?page_id=63,/offener-leseabend/#anfahrt,301,R1 Seite,Kurzlink,WordPress-Kurzlink der Seite
-/?page_id=435,/veroeffentlichungen/,301,R1 Seite,Kurzlink,WordPress-Kurzlink der Seite
-/?page_id=55,/verein/#lesungen,301,R1 Seite,Kurzlink,WordPress-Kurzlink der Seite
-/?page_id=51,/verein/#wettbewerbe,301,R1 Seite,Kurzlink,WordPress-Kurzlink der Seite
-/?page_id=253,/verein/#wettbewerbe,301,R1 Seite,Kurzlink,WordPress-Kurzlink der Seite
-/?page_id=273,/verein/#wettbewerbe,301,R1 Seite,Kurzlink,WordPress-Kurzlink der Seite
-/?page_id=290,/verein/#wettbewerbe,301,R1 Seite,Kurzlink,WordPress-Kurzlink der Seite
-/?page_id=662,/verein/#wettbewerbe,301,R1 Seite,Kurzlink,WordPress-Kurzlink der Seite
-/?page_id=1123,/verein/#wettbewerbe,301,R1 Seite,Kurzlink,WordPress-Kurzlink der Seite
-/?page_id=1121,/verein/#wettbewerbe,301,R1 Seite,Kurzlink,WordPress-Kurzlink der Seite
-/?page_id=1977,/verein/#wettbewerbe,301,R1 Seite,Kurzlink,WordPress-Kurzlink der Seite
-/?page_id=1993,/verein/#wettbewerbe,301,R1 Seite,Kurzlink,WordPress-Kurzlink der Seite
-/?page_id=1994,/verein/#wettbewerbe,301,R1 Seite,Kurzlink,WordPress-Kurzlink der Seite
-/datenschutz/,/datenschutzerklaerung/,301,R1 Seite,alte Adresse,heute per WordPress-Raten
-/wordpress/,/,301,R2 /wordpress/,alte Adresse,liefert heute 404
-/wordpress/Anfahrt/,/offener-leseabend/#anfahrt,301,R2 /wordpress/,alte Adresse,im Inhalt/Fußzeile verlinkt
-/wordpress/archiv/,/veroeffentlichungen/,301,R2 /wordpress/,alte Adresse,vorsorglich
-/wordpress/datenschutzerklaerung/,/datenschutzerklaerung/,301,R2 /wordpress/,alte Adresse,im Inhalt/Fußzeile verlinkt
-/wordpress/der-heisse-stuhl/,/textkritik/#heisser-stuhl,301,R2 /wordpress/,alte Adresse,vorsorglich
-/wordpress/geschichte/,/verein/#geschichte,301,R2 /wordpress/,alte Adresse,vorsorglich
-/wordpress/Impressum/,/impressum/,301,R2 /wordpress/,alte Adresse,im Inhalt/Fußzeile verlinkt
-/wordpress/Kontakt/,/verein/#kontakt,301,R2 /wordpress/,alte Adresse,im Inhalt/Fußzeile verlinkt
-/wordpress/nikolauslesung/,/verein/#lesungen,301,R2 /wordpress/,alte Adresse,vorsorglich
-/wordpress/offener-leseabend/,/offener-leseabend/,301,R2 /wordpress/,alte Adresse,im Inhalt/Fußzeile verlinkt
-/wordpress/organisation/,/verein/#organisation,301,R2 /wordpress/,alte Adresse,vorsorglich
-/wordpress/termine/,/termine/,301,R2 /wordpress/,alte Adresse,im Inhalt/Fußzeile verlinkt
-/wordpress/verein/,/verein/,301,R2 /wordpress/,alte Adresse,vorsorglich
-/wordpress/wettbewerb-2012/,/verein/#wettbewerbe,301,R2 /wordpress/,alte Adresse,vorsorglich
-/wordpress/wettbewerb-2014/,/verein/#wettbewerbe,301,R2 /wordpress/,alte Adresse,vorsorglich
-/wordpress/wettbewerb-2015/,/verein/#wettbewerbe,301,R2 /wordpress/,alte Adresse,vorsorglich
-/wordpress/wettbewerb-2019/,/verein/#wettbewerbe,301,R2 /wordpress/,alte Adresse,vorsorglich
-/wordpress/wettbewerb-2019/wettbewerb-2019/,/verein/#wettbewerbe,301,R2 /wordpress/,alte Adresse,vorsorglich
-/wordpress/wettbewerb-2019/wettbewerbe-2019/,/verein/#wettbewerbe,301,R2 /wordpress/,alte Adresse,vorsorglich
-/wordpress/wettbewerb-2021/,/verein/#wettbewerbe,301,R2 /wordpress/,alte Adresse,vorsorglich
-/wordpress/wettbewerb-2024/,/verein/#wettbewerbe,301,R2 /wordpress/,alte Adresse,vorsorglich
-/wordpress/wettbewerbe/,/verein/#wettbewerbe,301,R2 /wordpress/,alte Adresse,vorsorglich
-/wordpress/wettbewerbe/wettbewerb-2017/,/verein/#wettbewerbe,301,R2 /wordpress/,alte Adresse,vorsorglich
-/wordpress/datenschutz/,/datenschutzerklaerung/,301,R2 /wordpress/,alte Adresse,vorsorglich
-/2016/01/01/texte-typen-temperamente-25-jahre-autorenforum-berlin/,/texte-typen-temperamente-25-jahre-autorenforum-berlin/,301,R3 Beitrag (Muster),Beitrag,
-/2016/01/02/bea-kemer-starke-bande/,/bea-kemer-starke-bande/,301,R3 Beitrag (Muster),Beitrag,
-/2016/01/02/berlin-crime-dunkle-berlin-geschichten-broschiert/,/berlin-crime-dunkle-berlin-geschichten-broschiert/,301,R3 Beitrag (Muster),Beitrag,
-/2016/01/02/chrisjo-schroeder-texten-taeuschen-toeten/,/chrisjo-schroeder-texten-taeuschen-toeten/,301,R3 Beitrag (Muster),Beitrag,
-/2016/01/02/christoph-schroeder-traumgarten/,/christoph-schroeder-traumgarten/,301,R3 Beitrag (Muster),Beitrag,
-/2016/01/02/die_alte_dame/,/die_alte_dame/,301,R3 Beitrag (Muster),Beitrag,
-/2016/01/02/felicitas-hoppe-hoppe/,/felicitas-hoppe-hoppe/,301,R3 Beitrag (Muster),Beitrag,
-/2016/01/02/gerd-boerner-mitten-im-lachen/,/gerd-boerner-mitten-im-lachen/,301,R3 Beitrag (Muster),Beitrag,
-/2016/01/02/gerd-boerner-morgenkaffee/,/gerd-boerner-morgenkaffee/,301,R3 Beitrag (Muster),Beitrag,
-/2016/01/02/gerd-boerner-morning-glory/,/gerd-boerner-morning-glory/,301,R3 Beitrag (Muster),Beitrag,
-/2016/01/02/jedes-jahr-rast-schneller-vorbei-geschichtensammlung/,/jedes-jahr-rast-schneller-vorbei-geschichtensammlung/,301,R3 Beitrag (Muster),Beitrag,
-/2016/01/02/katrin-deibert-fannys-traum/,/katrin-deibert-fannys-traum/,301,R3 Beitrag (Muster),Beitrag,
-/2016/01/02/leben-am-ball-ein-literrarisches-dribbling-2006/,/leben-am-ball-ein-literrarisches-dribbling-2006/,301,R3 Beitrag (Muster),Beitrag,
-/2016/01/02/mitglieder-des-autorenforum-berlin-veroeffentlichen-in-der-anthologie-smartphone-krimis/,/mitglieder-des-autorenforum-berlin-veroeffentlichen-in-der-anthologie-smartphone-krimis/,301,R3 Beitrag (Muster),Beitrag,
-/2016/01/02/peter-blickle-die-grammatik-der-maenner/,/peter-blickle-die-grammatik-der-maenner/,301,R3 Beitrag (Muster),Beitrag,
-/2016/01/02/peter-blickle-von-einer-liebe-zur-anderen/,/peter-blickle-von-einer-liebe-zur-anderen/,301,R3 Beitrag (Muster),Beitrag,
-/2016/01/02/rainer-schildberger-ein-sonntag-zuviel-erzaehlungen/,/rainer-schildberger-ein-sonntag-zuviel-erzaehlungen/,301,R3 Beitrag (Muster),Beitrag,
-/2016/01/02/rainer-schildberger-honig-und-stachel/,/rainer-schildberger-honig-und-stachel/,301,R3 Beitrag (Muster),Beitrag,
-/2016/01/02/rainer-schildberger-hrsg-brandschatz-die-erfindung-einer-wahren-geschichte/,/rainer-schildberger-hrsg-brandschatz-die-erfindung-einer-wahren-geschichte/,301,R3 Beitrag (Muster),Beitrag,
-/2016/01/02/slavica-klimkowsky-alptraum/,/slavica-klimkowsky-alptraum/,301,R3 Beitrag (Muster),Beitrag,
-/2016/01/02/slavica-klimkowsky-tanz-in-der-sturmnacht/,/slavica-klimkowsky-tanz-in-der-sturmnacht/,301,R3 Beitrag (Muster),Beitrag,
-/2016/01/02/susanne-kliem-das-beweisstueck/,/susanne-kliem-das-beweisstueck/,301,R3 Beitrag (Muster),Beitrag,
-/2016/01/02/susanne-kliem-die-beschuetzerin/,/susanne-kliem-die-beschuetzerin/,301,R3 Beitrag (Muster),Beitrag,
-/2016/01/02/susanne-kliem-die-kalte-zeit-der-erste-deutsche-weihnachtsbaum-krimi/,/susanne-kliem-die-kalte-zeit-der-erste-deutsche-weihnachtsbaum-krimi/,301,R3 Beitrag (Muster),Beitrag,
-/2016/01/02/susanne-kliem-die-liebe-in-den-zeiten-der-praline-kurzkrimi/,/susanne-kliem-die-liebe-in-den-zeiten-der-praline-kurzkrimi/,301,R3 Beitrag (Muster),Beitrag,
-/2016/01/02/susanne-kliem-sekt-im-wasserglas/,/susanne-kliem-sekt-im-wasserglas/,301,R3 Beitrag (Muster),Beitrag,
-/2016/01/02/susanne-kliem-theaterblut-tatort-duesseldorf/,/susanne-kliem-theaterblut-tatort-duesseldorf/,301,R3 Beitrag (Muster),Beitrag,
-/2016/01/02/susanne-kliem-truegerische-naehe/,/susanne-kliem-truegerische-naehe/,301,R3 Beitrag (Muster),Beitrag,
-/2016/01/02/susanne-kliem-wohnen-im-gruenen/,/susanne-kliem-wohnen-im-gruenen/,301,R3 Beitrag (Muster),Beitrag,
-/2016/01/02/ulrich-woelk-was-liebe-ist/,/ulrich-woelk-was-liebe-ist/,301,R3 Beitrag (Muster),Beitrag,
-/2016/01/03/jeden-montag-offener-leseabend/,/jeden-montag-offener-leseabend/,301,R3 Beitrag (Muster),Beitrag,
-/2016/03/03/447/,/wolfgang-rill-gebaeck-fuer-das-volk-und-das-kind/,301,R3 Beitrag (Muster),Beitrag,Slug war nur eine Zahl (447); neuer Slug vorgeschlagen
-/2016/12/13/berlin-und-anderswo-eine-reise/,/berlin-und-anderswo-eine-reise/,301,R3 Beitrag (Muster),Beitrag,
-/2017/03/01/657/,/doris-anselm-und-in-dem-moment-holt-meine-liebe/,301,R3 Beitrag (Muster),Beitrag,Slug war nur eine Zahl (657); neuer Slug vorgeschlagen
-/2017/04/22/susanne-kliem-das-scherbenhaus/,/susanne-kliem-das-scherbenhaus/,301,R3 Beitrag (Muster),Beitrag,
-/2017/09/25/preistraeger-des-wettbewerbs-des-autorenforums-berlin-e-v/,/preistraeger-des-wettbewerbs-des-autorenforums-berlin-e-v/,301,R3 Beitrag (Muster),Beitrag,
-/2018/01/24/wolfgang-rill-alle-lieben-mr-john/,/wolfgang-rill-alle-lieben-mr-john/,301,R3 Beitrag (Muster),Beitrag,
-/2018/07/25/slavica-klimkowsky-und-alexandra-luethen-in-gerettet-geschichten-in-einfacher-sprache/,/slavica-klimkowsky-und-alexandra-luethen-in-gerettet-geschichten-in-einfacher-sprache/,301,R3 Beitrag (Muster),Beitrag,
-/2018/08/22/anne-mueller-sommer-in-super-8/,/anne-mueller-sommer-in-super-8/,301,R3 Beitrag (Muster),Beitrag,
-/2019/01/13/gerd-boerner-das-echo-der-kiefern/,/gerd-boerner-das-echo-der-kiefern/,301,R3 Beitrag (Muster),Beitrag,
-/2019/03/08/susanne-kliem-luegenmeer-13-03-premierenlesung/,/susanne-kliem-luegenmeer-13-03-premierenlesung/,301,R3 Beitrag (Muster),Beitrag,
-/2019/04/07/alexandra-luethen-allen-eine-chance-warum-wir-leichte-sprache-brauchen/,/alexandra-luethen-allen-eine-chance-warum-wir-leichte-sprache-brauchen/,301,R3 Beitrag (Muster),Beitrag,
-/2019/04/07/die-liebe-und-das-kleine-herz-geschichten-in-einfacher-sprache/,/die-liebe-und-das-kleine-herz-geschichten-in-einfacher-sprache/,301,R3 Beitrag (Muster),Beitrag,
-/2019/05/21/28-mai-buchvorstellung-hautfreundin-von-doris-anselm/,/28-mai-buchvorstellung-hautfreundin-von-doris-anselm/,301,R3 Beitrag (Muster),Beitrag,
-/2019/05/29/bea-kemer-buchvorstellung-wuenschen-sollen-moeglichkeiten/,/bea-kemer-buchvorstellung-wuenschen-sollen-moeglichkeiten/,301,R3 Beitrag (Muster),Beitrag,
-/2019/10/27/makellose-maenner-anthologie/,/makellose-maenner-anthologie/,301,R3 Beitrag (Muster),Beitrag,
-/2019/12/01/slavica-klimkowsky-das-maedchen-und-der-pfau-und-pavo-cristatus-und-die-frau-in-der-anthologie-fremd-jede-geschichte-hat-zwei-seiten/,/slavica-klimkowsky-das-maedchen-und-der-pfau-und-pavo-cristatus-und-die-frau-in-der-anthologie-fremd-jede-geschichte-hat-zwei-seiten/,301,R3 Beitrag (Muster),Beitrag,
-/2019/12/09/slavica-klimkowsky-1-platz-fuer-den-kurzkrimi-ein-herz-fuer-rosen-in-der-wortrandale-anthologie-wenn-im-norden-das-licht-schmilzt/,/slavica-klimkowsky-1-platz-fuer-den-kurzkrimi-ein-herz-fuer-rosen-in-der-wortrandale-anthologie-wenn-im-norden-das-licht-schmilzt/,301,R3 Beitrag (Muster),Beitrag,
-/2020/02/23/slavica-klimkowsky-thetis-machtlos-in-entfuehrung-in-die-antike-neue-geschichten-um-griechische-mythen/,/slavica-klimkowsky-thetis-machtlos-in-entfuehrung-in-die-antike-neue-geschichten-um-griechische-mythen/,301,R3 Beitrag (Muster),Beitrag,
-/2020/03/09/unterholz-zwei-jahre-im-wald/,/unterholz-zwei-jahre-im-wald/,301,R3 Beitrag (Muster),Beitrag,
-/2020/04/20/buchveroeffentlichung-anne-mueller-zwei-wochen-im-juni/,/buchveroeffentlichung-anne-mueller-zwei-wochen-im-juni/,301,R3 Beitrag (Muster),Beitrag,
-/2020/05/20/zeichnungen-von-florian-schneider-im-urlaubslesebuch-2020/,/zeichnungen-von-florian-schneider-im-urlaubslesebuch-2020/,301,R3 Beitrag (Muster),Beitrag,
-/2021/02/12/eine-neuerscheinung-unseres-mitglieds-susanne-kliem-kristina-hauff-unter-wasser-nacht/,/eine-neuerscheinung-unseres-mitglieds-susanne-kliem-kristina-hauff-unter-wasser-nacht/,301,R3 Beitrag (Muster),Beitrag,
-/2021/03/04/1-preis-fuer-hasenherz-und-loewenmut-von-alexandra-luethen/,/1-preis-fuer-hasenherz-und-loewenmut-von-alexandra-luethen/,301,R3 Beitrag (Muster),Beitrag,
-/2021/04/29/peter-blickle-andershimmel/,/peter-blickle-andershimmel/,301,R3 Beitrag (Muster),Beitrag,
-/2021/06/07/aurum-die-gewinner-des-wettbewerbs-stehen-fest/,/aurum-die-gewinner-des-wettbewerbs-stehen-fest/,301,R3 Beitrag (Muster),Beitrag,
-/2021/06/11/diktatoren-von-florian-schneider-im-urlaubslesebuch-2021/,/diktatoren-von-florian-schneider-im-urlaubslesebuch-2021/,301,R3 Beitrag (Muster),Beitrag,
-/2021/07/01/hasenherz-und-loewenmut-geschichten-in-einfacher-sprache/,/hasenherz-und-loewenmut-geschichten-in-einfacher-sprache/,301,R3 Beitrag (Muster),Beitrag,
-/2021/08/05/alexandra-luethen-paradiesfedern/,/alexandra-luethen-paradiesfedern/,301,R3 Beitrag (Muster),Beitrag,
-/2021/09/22/wolfgang-rill-ein-besenstiel-und-seine-rolle-beim-atemholen/,/wolfgang-rill-ein-besenstiel-und-seine-rolle-beim-atemholen/,301,R3 Beitrag (Muster),Beitrag,
-/2021/09/29/alexandra-luethen-erhaelt-barnimer-literaturpreis-2021-fuer-kinder-und-jugendliteratur/,/alexandra-luethen-erhaelt-barnimer-literaturpreis-2021-fuer-kinder-und-jugendliteratur/,301,R3 Beitrag (Muster),Beitrag,
-/2021/10/20/preisverleihung-von-aurum-preis-des-autorenforum-2021/,/preisverleihung-von-aurum-preis-des-autorenforum-2021/,301,R3 Beitrag (Muster),Beitrag,
-/2022/03/14/neuerscheinung-das-lied-des-himmels-und-der-meere-von-anne-mueller/,/neuerscheinung-das-lied-des-himmels-und-der-meere-von-anne-mueller/,301,R3 Beitrag (Muster),Beitrag,
-/2022/03/18/neuerscheinung-membranen-von-bea-kemer/,/neuerscheinung-membranen-von-bea-kemer/,301,R3 Beitrag (Muster),Beitrag,
-/2022/05/22/rubikon-kurzgeschichte-von-florian-schneider-im-urlaubslesebuch-2022/,/rubikon-kurzgeschichte-von-florian-schneider-im-urlaubslesebuch-2022/,301,R3 Beitrag (Muster),Beitrag,
-/2022/08/19/zweiter-platz-beim-literaturwettbewerb-die-kunst-der-einfachheit-fuer-alexandra-luethen/,/zweiter-platz-beim-literaturwettbewerb-die-kunst-der-einfachheit-fuer-alexandra-luethen/,301,R3 Beitrag (Muster),Beitrag,
-/2022/08/25/neuerscheinung-ela-von-alexandra-luethen-mary-delaney/,/neuerscheinung-ela-von-alexandra-luethen-mary-delaney/,301,R3 Beitrag (Muster),Beitrag,
-/2022/11/01/neuerscheinung-polarstation-von-florian-schneider/,/neuerscheinung-polarstation-von-florian-schneider/,301,R3 Beitrag (Muster),Beitrag,
-/2023/02/12/neuerscheinung-hugo-und-die-legende-von-burg-drachenhuegel-von-max-kaplan-und-lev-kaplan/,/neuerscheinung-hugo-und-die-legende-von-burg-drachenhuegel-von-max-kaplan-und-lev-kaplan/,301,R3 Beitrag (Muster),Beitrag,
-/2023/02/14/doris-wiesenbach-leinwand-ohne-gesicht/,/doris-wiesenbach-leinwand-ohne-gesicht/,301,R3 Beitrag (Muster),Beitrag,
-/2023/02/18/neuerscheinung-in-blaukalter-tiefe-von-kristina-hauff/,/neuerscheinung-in-blaukalter-tiefe-von-kristina-hauff/,301,R3 Beitrag (Muster),Beitrag,
-/2023/04/07/neuerscheinung-wer-braucht-schon-wunder-von-anne-mueller/,/neuerscheinung-wer-braucht-schon-wunder-von-anne-mueller/,301,R3 Beitrag (Muster),Beitrag,
-/2023/05/29/reliquien-von-florian-schneider-im-dtv-urlaubs-lesebuch/,/reliquien-von-florian-schneider-im-dtv-urlaubs-lesebuch/,301,R3 Beitrag (Muster),Beitrag,
-/2023/07/03/alexandra-luethen-erhaelt-publikumspreis-beim-capito-literaturwettbewerb/,/alexandra-luethen-erhaelt-publikumspreis-beim-capito-literaturwettbewerb/,301,R3 Beitrag (Muster),Beitrag,
-/2023/12/07/dominik-jaekel-erhaelt-den-ersten-preis-beim-a-e-johann-literaturwettbewerb/,/dominik-jaekel-erhaelt-den-ersten-preis-beim-a-e-johann-literaturwettbewerb/,301,R3 Beitrag (Muster),Beitrag,
-/2024/03/21/achmed-und-almira-roman-von-wolfgang-rill/,/achmed-und-almira-roman-von-wolfgang-rill/,301,R3 Beitrag (Muster),Beitrag,
-/2024/03/21/alexandra-luethen-lieben-schreiben-leben/,/alexandra-luethen-lieben-schreiben-leben/,301,R3 Beitrag (Muster),Beitrag,
-/2024/03/21/holzauge-roman-von-wolfgang-rill/,/holzauge-roman-von-wolfgang-rill/,301,R3 Beitrag (Muster),Beitrag,
-/2024/03/21/neuerscheinung-bea-kemer-fast-immer-ein-weiter/,/neuerscheinung-bea-kemer-fast-immer-ein-weiter/,301,R3 Beitrag (Muster),Beitrag,
-/2024/04/10/neuerscheinung-peter-blickle-die-erbschaft/,/neuerscheinung-peter-blickle-die-erbschaft/,301,R3 Beitrag (Muster),Beitrag,
-/2024/06/16/die-raupe-erzaehlung-von-florian-schneider-im-dtv-urlaubslesebuch-2024/,/die-raupe-erzaehlung-von-florian-schneider-im-dtv-urlaubslesebuch-2024/,301,R3 Beitrag (Muster),Beitrag,
-/2024/06/16/neuerscheinung-mittendrin-ent-oder-weder-von-manfred-o-eisner/,/neuerscheinung-mittendrin-ent-oder-weder-von-manfred-o-eisner/,301,R3 Beitrag (Muster),Beitrag,
-/2024/07/01/neuerscheinung-miki-goldberg-disteln-kuessen/,/neuerscheinung-miki-goldberg-disteln-kuessen/,301,R3 Beitrag (Muster),Beitrag,
-/2024/11/12/neuauflage-mit-hoerbuch-leinwand-ohne-gesicht-von-doris-wiesenbach/,/neuauflage-mit-hoerbuch-leinwand-ohne-gesicht-von-doris-wiesenbach/,301,R3 Beitrag (Muster),Beitrag,
-/2025/03/05/neuerscheinung-doris-wiesenbach-das-pure-leben-28-storys/,/neuerscheinung-doris-wiesenbach-das-pure-leben-28-storys/,301,R3 Beitrag (Muster),Beitrag,
-/2025/06/16/neuerscheinung-christiane-carstens-moin-seekind/,/neuerscheinung-christiane-carstens-moin-seekind/,301,R3 Beitrag (Muster),Beitrag,
-/2025/06/25/neuerscheinung-alexandra-luethen-nu-york-nu-jork/,/neuerscheinung-alexandra-luethen-nu-york-nu-jork/,301,R3 Beitrag (Muster),Beitrag,
-/2025/07/21/neuerscheinung-kristina-hauff-schattengruenes-tal/,/neuerscheinung-kristina-hauff-schattengruenes-tal/,301,R3 Beitrag (Muster),Beitrag,
-/2025/10/21/neuerscheinung-hubert-a-walter-festmachen-weit-hinter-dem-horizont/,/neuerscheinung-hubert-a-walter-festmachen-weit-hinter-dem-horizont/,301,R3 Beitrag (Muster),Beitrag,
-/2025/10/29/neuerscheinung-monika-heintze-alles-muss-versteckt-sein/,/neuerscheinung-monika-heintze-alles-muss-versteckt-sein/,301,R3 Beitrag (Muster),Beitrag,
-/2026/03/03/neuerscheinung-bea-kemer-ueberwuensche/,/neuerscheinung-bea-kemer-ueberwuensche/,301,R3 Beitrag (Muster),Beitrag,
-/2026/04/07/neuerscheinung-rainer-schildberger-die-tote-von-clare-island/,/neuerscheinung-rainer-schildberger-die-tote-von-clare-island/,301,R3 Beitrag (Muster),Beitrag,
-/2026/05/11/neuerscheinung-monika-heintze-erstmal-paris/,/neuerscheinung-monika-heintze-erstmal-paris/,301,R3 Beitrag (Muster),Beitrag,
-/0f32d10a-8dfe-4fa9-9b41-6d36ce24bc0b/,/wordpress/wp-content/uploads/2022/12/0F32D10A-8DFE-4FA9-9B41-6D36CE24BC0B.jpeg,301,R4 Anhang (WordPress),Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
-/18-buchnacht-2/,/wordpress/wp-content/uploads/2018/06/18.-Buchnacht.jpg,301,R4 Anhang (WordPress),Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
-/18-buchnacht/,/wordpress/wp-content/uploads/2016/05/18.-Buchnacht.jpg,301,R4 Anhang (WordPress),Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
-/2016/01/01/texte-typen-temperamente-25-jahre-autorenforum-berlin/ttt-klein/,/wordpress/wp-content/uploads/2016/01/ttt-klein.jpg,301,R4 Anhang (einzeln),Anhangseite,
-/2016/01/02/bea-kemer-starke-bande/cover-bea-kemer2/,/wordpress/wp-content/uploads/2016/01/Cover-Bea-Kemer2.jpg,301,R4 Anhang (einzeln),Anhangseite,
-/2016/01/02/berlin-crime-dunkle-berlin-geschichten-broschiert/berlin-crime/,/wordpress/wp-content/uploads/2016/01/Berlin-Crime.jpg,301,R4 Anhang (einzeln),Anhangseite,
-/2016/01/02/berlin-crime-dunkle-berlin-geschichten-broschiert/berlincrime-autorinnen/,/wordpress/wp-content/uploads/2016/01/BerlinCrime-Autorinnen.jpg,301,R4 Anhang (einzeln),Anhangseite,
-/2016/01/02/chrisjo-schroeder-texten-taeuschen-toeten/coverchrisjoschroeder/,/wordpress/wp-content/uploads/2016/01/CoverChrisjoSchroeder.jpg,301,R4 Anhang (einzeln),Anhangseite,
-/2016/01/02/christoph-schroeder-traumgarten/podium-schroeder/,/wordpress/wp-content/uploads/2016/01/podium-Schroeder.jpg,301,R4 Anhang (einzeln),Anhangseite,
-/2016/01/02/christoph-schroeder-traumgarten/schroeder2/,/wordpress/wp-content/uploads/2016/01/Schroeder2.jpg,301,R4 Anhang (einzeln),Anhangseite,
-/2016/01/02/die_alte_dame/cover-der-12-mann/,/wordpress/wp-content/uploads/2016/01/cover-der-12-Mann.jpg,301,R4 Anhang (einzeln),Anhangseite,
-/2016/01/02/die_alte_dame/luethen/,/wordpress/wp-content/uploads/2016/01/Luethen.jpg,301,R4 Anhang (einzeln),Anhangseite,
-/2016/01/02/felicitas-hoppe-hoppe/hoppe-cover/,/wordpress/wp-content/uploads/2016/01/Hoppe-Cover.jpg,301,R4 Anhang (einzeln),Anhangseite,
-/2016/01/02/felicitas-hoppe-hoppe/hoppe_felicitas/,/wordpress/wp-content/uploads/2016/01/Hoppe_Felicitas.jpg,301,R4 Anhang (einzeln),Anhangseite,
-/2016/01/02/gerd-boerner-mitten-im-lachen/cover-mitten-im-lachen/,/wordpress/wp-content/uploads/2016/01/Cover-mitten-im-Lachen.jpg,301,R4 Anhang (einzeln),Anhangseite,
-/2016/01/02/gerd-boerner-morgenkaffee/cover-haiku/,/wordpress/wp-content/uploads/2016/01/Cover-Haiku.jpg,301,R4 Anhang (einzeln),Anhangseite,
-/2016/01/02/gerd-boerner-morning-glory/gb2/,/wordpress/wp-content/uploads/2016/01/GB2.jpg,301,R4 Anhang (einzeln),Anhangseite,
-/2016/01/02/gerd-boerner-morning-glory/menantes08k/,/wordpress/wp-content/uploads/2016/01/menantes08k.jpg,301,R4 Anhang (einzeln),Anhangseite,
-/2016/01/02/jedes-jahr-rast-schneller-vorbei-geschichtensammlung/cover-martin-kobe/,/wordpress/wp-content/uploads/2016/01/Cover-Martin-Kobe.jpg,301,R4 Anhang (einzeln),Anhangseite,
-/2016/01/02/katrin-deibert-fannys-traum/deibert4/,/wordpress/wp-content/uploads/2016/01/Deibert4.jpg,301,R4 Anhang (einzeln),Anhangseite,
-/2016/01/02/leben-am-ball-ein-literrarisches-dribbling-2006/leben-am-ball/,/wordpress/wp-content/uploads/2016/01/Leben-am-Ball.jpg,301,R4 Anhang (einzeln),Anhangseite,
-/2016/01/02/mitglieder-des-autorenforum-berlin-veroeffentlichen-in-der-anthologie-smartphone-krimis/smartphonekrimis/,/wordpress/wp-content/uploads/2016/01/SmartphoneKrimis.jpg,301,R4 Anhang (einzeln),Anhangseite,
-/2016/01/02/peter-blickle-die-grammatik-der-maenner/40814584n/,/wordpress/wp-content/uploads/2016/01/40814584n.jpg,301,R4 Anhang (einzeln),Anhangseite,
-/2016/01/02/peter-blickle-von-einer-liebe-zur-anderen/0f14bd00700269a65c1aed360f5e3852/,/wordpress/wp-content/uploads/2016/01/0f14bd00700269a65c1aed360f5e3852.jpg,301,R4 Anhang (einzeln),Anhangseite,
-/2016/01/02/peter-blickle-von-einer-liebe-zur-anderen/blickle/,/wordpress/wp-content/uploads/2016/01/Blickle-e1451769618137.jpg,301,R4 Anhang (einzeln),Anhangseite,
-/2016/01/02/rainer-schildberger-ein-sonntag-zuviel-erzaehlungen/umschlagseite_ein-sonntag-zuviel/,/wordpress/wp-content/uploads/2016/01/Umschlagseite_ein-Sonntag-zuviel.jpg,301,R4 Anhang (einzeln),Anhangseite,
-/2016/01/02/rainer-schildberger-honig-und-stachel/schildberger-72/,/wordpress/wp-content/uploads/2016/01/Schildberger-72.jpg,301,R4 Anhang (einzeln),Anhangseite,
-/2016/01/02/rainer-schildberger-hrsg-brandschatz-die-erfindung-einer-wahren-geschichte/brandschatz/,/wordpress/wp-content/uploads/2016/01/Brandschatz.jpg,301,R4 Anhang (einzeln),Anhangseite,
-/2016/01/02/slavica-klimkowsky-alptraum/slavica-buchmess-3/,/wordpress/wp-content/uploads/2016/01/Slavica-Buchmess-3.jpg,301,R4 Anhang (einzeln),Anhangseite,
-/2016/01/02/susanne-kliem-das-beweisstueck/cover-kliem-beweisstueck/,/wordpress/wp-content/uploads/2016/01/Cover-Kliem-Beweisstueck.jpg,301,R4 Anhang (einzeln),Anhangseite,
-/2016/01/02/susanne-kliem-die-beschuetzerin/die-beschuetzerin/,/wordpress/wp-content/uploads/2016/01/Die-Beschuetzerin.jpg,301,R4 Anhang (einzeln),Anhangseite,
-/2016/01/02/susanne-kliem-die-kalte-zeit-der-erste-deutsche-weihnachtsbaum-krimi/kaltezeit/,/wordpress/wp-content/uploads/2016/01/kaltezeit.jpg,301,R4 Anhang (einzeln),Anhangseite,
-/2016/01/02/susanne-kliem-die-liebe-in-den-zeiten-der-praline-kurzkrimi/abmurksen-und-tee-trinken/,/wordpress/wp-content/uploads/2016/01/abmurksen-und-tee-trinken.jpg,301,R4 Anhang (einzeln),Anhangseite,
-/2016/01/02/susanne-kliem-theaterblut-tatort-duesseldorf/susanne-kliem/,/wordpress/wp-content/uploads/2016/01/Susanne-Kliem.jpg,301,R4 Anhang (einzeln),Anhangseite,
-/2016/01/02/susanne-kliem-theaterblut-tatort-duesseldorf/theaterblut/,/wordpress/wp-content/uploads/2016/01/theaterblut.jpg,301,R4 Anhang (einzeln),Anhangseite,
-/2016/01/02/susanne-kliem-truegerische-naehe/cover-truegerisch/,/wordpress/wp-content/uploads/2016/01/Cover-Truegerisch.jpg,301,R4 Anhang (einzeln),Anhangseite,
-/2016/01/02/susanne-kliem-wohnen-im-gruenen/cover-muetter-kliem/,/wordpress/wp-content/uploads/2016/01/Cover-Muetter-Kliem.jpg,301,R4 Anhang (einzeln),Anhangseite,
-/2016/01/02/ulrich-woelk-was-liebe-ist/ulrich-woelk/,/wordpress/wp-content/uploads/2016/01/Ulrich-Woelk.jpg,301,R4 Anhang (einzeln),Anhangseite,
-/2016/01/02/ulrich-woelk-was-liebe-ist/was_liebe_ist-cover/,/wordpress/wp-content/uploads/2016/01/was_liebe_ist-cover.jpg,301,R4 Anhang (einzeln),Anhangseite,
-/2016/03/03/447/51bby5gqprl-_sx311_bo1204203200_/,/wordpress/wp-content/uploads/2016/03/51bby5gQPRL._SX311_BO1204203200_.jpg,301,R4 Anhang (einzeln),Anhangseite,
-/2016/03/03/447/51bcezt52wl-_sx311_bo1204203200_/,/wordpress/wp-content/uploads/2016/03/51BcezT52wL._SX311_BO1204203200_.jpg,301,R4 Anhang (einzeln),Anhangseite,
-/2016/12/13/berlin-und-anderswo-eine-reise/cover-berlin-und-anderswo-rosa/,/wordpress/wp-content/uploads/2016/12/Cover-Berlin-und-anderswo-rosa.jpg,301,R4 Anhang (einzeln),Anhangseite,
-/2016/12/13/berlin-und-anderswo-eine-reise/cover-berlin-und-anderswo-schwarz/,/wordpress/wp-content/uploads/2016/12/Cover-Berlin-und-anderswo-schwarz.jpg,301,R4 Anhang (einzeln),Anhangseite,
-/2017/09/25/preistraeger-des-wettbewerbs-des-autorenforums-berlin-e-v/blindenfussball/,/wordpress/wp-content/uploads/2017/07/Blindenfußball.jpg,301,R4 Anhang (einzeln),Anhangseite,
-/2017/09/25/preistraeger-des-wettbewerbs-des-autorenforums-berlin-e-v/cov-schlamm/,/wordpress/wp-content/uploads/2017/09/cov.schlamm.jpg,301,R4 Anhang (einzeln),Anhangseite,
-/2017/09/25/preistraeger-des-wettbewerbs-des-autorenforums-berlin-e-v/gruppenfoto/,/wordpress/wp-content/uploads/2017/09/Gruppenfoto.jpg,301,R4 Anhang (einzeln),Anhangseite,
-/2018/01/24/wolfgang-rill-alle-lieben-mr-john/mr_-john_-titel-2/,/wordpress/wp-content/uploads/2018/01/Mr_-John_-Titel.jpg,301,R4 Anhang (einzeln),Anhangseite,
-/2018/07/25/slavica-klimkowsky-und-alexandra-luethen-in-gerettet-geschichten-in-einfacher-sprache/51qc20rynal/,/wordpress/wp-content/uploads/2018/07/51QC20rynaL.jpg,301,R4 Anhang (einzeln),Anhangseite,
-/2018/08/22/anne-mueller-sommer-in-super-8/anne-mu%cc%88ller-heike-steinweg/,/wordpress/wp-content/uploads/2018/08/Anne-Müller-@Heike-Steinweg.jpeg,301,R4 Anhang (einzeln),Anhangseite,
-/2018/08/22/anne-mueller-sommer-in-super-8/sommer-in-super-8-von-anne-mueller/,/wordpress/wp-content/uploads/2018/08/Mueller_ASommer_in_Super_8_186057_300dpi.jpeg,301,R4 Anhang (einzeln),Anhangseite,
-/2019-08-einfach-as_fin-1/,/wordpress/wp-content/uploads/2019/07/2019-08-Einfach-AS_fin-1.jpg,301,R4 Anhang (WordPress),Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
-/2019-08-einfach-as_fin-2/,/wordpress/wp-content/uploads/2019/07/2019-08-Einfach-AS_fin-2.jpg,301,R4 Anhang (WordPress),Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
-/2019-08-einfach-as_fin/,/wordpress/wp-content/uploads/2019/07/2019-08-Einfach-AS_fin.jpg,301,R4 Anhang (WordPress),Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
-/2019-10-25-jubi-35-kl-1/,/wordpress/wp-content/uploads/2019/10/2019-10-25-Jubi-35-kl-1.jpg,301,R4 Anhang (WordPress),Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
-/2019-10-25-jubi-35-kl/,/wordpress/wp-content/uploads/2019/10/2019-10-25-Jubi-35-kl.jpg,301,R4 Anhang (WordPress),Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
-/2019/01/13/gerd-boerner-das-echo-der-kiefern/cover-echo-der-kiefern-cover-klein1/,/wordpress/wp-content/uploads/2019/01/Cover-Echo-der-Kiefern-Cover-klein1.jpg,301,R4 Anhang (einzeln),Anhangseite,
-/2019/03/08/susanne-kliem-luegenmeer-13-03-premierenlesung/cover-kliem_luegenmeer/,/wordpress/wp-content/uploads/2019/03/Cover-Kliem_Luegenmeer.jpg,301,R4 Anhang (einzeln),Anhangseite,
-/2019/04/07/alexandra-luethen-allen-eine-chance-warum-wir-leichte-sprache-brauchen/duden-front-2/,/wordpress/wp-content/uploads/2019/04/Duden-front-1.png,301,R4 Anhang (einzeln),Anhangseite,
-/2019/04/07/alexandra-luethen-allen-eine-chance-warum-wir-leichte-sprache-brauchen/duden-front-3/,/wordpress/wp-content/uploads/2019/04/Duden-front-2.png,301,R4 Anhang (einzeln),Anhangseite,
-/2019/04/07/alexandra-luethen-allen-eine-chance-warum-wir-leichte-sprache-brauchen/duden-front-4/,/wordpress/wp-content/uploads/2019/04/Duden-front-3.png,301,R4 Anhang (einzeln),Anhangseite,
-/2019/04/07/alexandra-luethen-allen-eine-chance-warum-wir-leichte-sprache-brauchen/duden-front/,/wordpress/wp-content/uploads/2019/04/Duden-front.png,301,R4 Anhang (einzeln),Anhangseite,
-/2019/04/07/die-liebe-und-das-kleine-herz-geschichten-in-einfacher-sprache/kunst-der-einfachheit/,/wordpress/wp-content/uploads/2019/04/Kunst-der-Einfachheit.png,301,R4 Anhang (einzeln),Anhangseite,
-/2019/05/21/28-mai-buchvorstellung-hautfreundin-von-doris-anselm/000_cover-hautfreundin-urhebernennung-bitte-luchterhand-literaturverlag-1/,/wordpress/wp-content/uploads/2019/05/000_COVER-Hautfreundin-Urhebernennung-bitte-Luchterhand-Literaturverlag-1.jpg,301,R4 Anhang (einzeln),Anhangseite,
-/2019/05/21/28-mai-buchvorstellung-hautfreundin-von-doris-anselm/000_cover-hautfreundin-urhebernennung-bitte-luchterhand-literaturverlag/,/wordpress/wp-content/uploads/2019/05/000_COVER-Hautfreundin-Urhebernennung-bitte-Luchterhand-Literaturverlag.jpg,301,R4 Anhang (einzeln),Anhangseite,
-/2019/05/21/28-mai-buchvorstellung-hautfreundin-von-doris-anselm/000_doris-anselm_163018_bitte-urhebernennung-heike-bogenberger-autorenfotos-com_-1/,/wordpress/wp-content/uploads/2019/05/000_Doris-Anselm_163018_bitte-Urhebernennung-Heike-Bogenberger-autorenfotos.com_-1.jpg,301,R4 Anhang (einzeln),Anhangseite,
-/2019/05/21/28-mai-buchvorstellung-hautfreundin-von-doris-anselm/000_doris-anselm_163018_bitte-urhebernennung-heike-bogenberger-autorenfotos-com_-2/,/wordpress/wp-content/uploads/2019/05/000_Doris-Anselm_163018_bitte-Urhebernennung-Heike-Bogenberger-autorenfotos.com_-2.jpg,301,R4 Anhang (einzeln),Anhangseite,
-/2019/05/21/28-mai-buchvorstellung-hautfreundin-von-doris-anselm/000_doris-anselm_163018_bitte-urhebernennung-heike-bogenberger-autorenfotos-com_-3/,/wordpress/wp-content/uploads/2019/05/000_Doris-Anselm_163018_bitte-Urhebernennung-Heike-Bogenberger-autorenfotos.com_-3.jpg,301,R4 Anhang (einzeln),Anhangseite,
-/2019/05/21/28-mai-buchvorstellung-hautfreundin-von-doris-anselm/000_doris-anselm_163018_bitte-urhebernennung-heike-bogenberger-autorenfotos-com_/,/wordpress/wp-content/uploads/2019/05/000_Doris-Anselm_163018_bitte-Urhebernennung-Heike-Bogenberger-autorenfotos.com_.jpg,301,R4 Anhang (einzeln),Anhangseite,
-/2019/05/29/bea-kemer-buchvorstellung-wuenschen-sollen-moeglichkeiten/sollen-wuenschen-moeglichkeiten-cover-1/,/wordpress/wp-content/uploads/2019/05/Sollen-Wünschen-Möglichkeiten-Cover-1.jpg,301,R4 Anhang (einzeln),Anhangseite,
-/2019/10/27/makellose-maenner-anthologie/makellose-kl/,/wordpress/wp-content/uploads/2019/10/makellose-kl.jpg,301,R4 Anhang (einzeln),Anhangseite,
-/2019/12/01/slavica-klimkowsky-das-maedchen-und-der-pfau-und-pavo-cristatus-und-die-frau-in-der-anthologie-fremd-jede-geschichte-hat-zwei-seiten/coverfremd-indd/,/wordpress/wp-content/uploads/2019/12/titel.jpeg,301,R4 Anhang (einzeln),Anhangseite,
-/2019/12/09/slavica-klimkowsky-1-platz-fuer-den-kurzkrimi-ein-herz-fuer-rosen-in-der-wortrandale-anthologie-wenn-im-norden-das-licht-schmilzt/wortrandale/,/wordpress/wp-content/uploads/2019/12/Wortrandale.jpg,301,R4 Anhang (einzeln),Anhangseite,
-/2020-nick-01a-1/,/wordpress/wp-content/uploads/2020/12/2020-nick-01a-1.jpg,301,R4 Anhang (WordPress),Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
-/2020-nick-01a/,/wordpress/wp-content/uploads/2020/12/2020-nick-01a.jpg,301,R4 Anhang (WordPress),Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
-/2020/02/23/slavica-klimkowsky-thetis-machtlos-in-entfuehrung-in-die-antike-neue-geschichten-um-griechische-mythen/antike-cover_-1-1/,/wordpress/wp-content/uploads/2020/02/Antike.Cover_.1.-1.jpg,301,R4 Anhang (einzeln),Anhangseite,
-/2020/02/23/slavica-klimkowsky-thetis-machtlos-in-entfuehrung-in-die-antike-neue-geschichten-um-griechische-mythen/antike-cover_-1/,/wordpress/wp-content/uploads/2020/02/Antike.Cover_.1..jpg,301,R4 Anhang (einzeln),Anhangseite,
-/2020/03/09/unterholz-zwei-jahre-im-wald/unterholz-cover-1/,/wordpress/wp-content/uploads/2020/03/Unterholz-cover-1.png,301,R4 Anhang (einzeln),Anhangseite,
-/2020/03/09/unterholz-zwei-jahre-im-wald/unterholz-cover/,/wordpress/wp-content/uploads/2020/03/Unterholz-cover.png,301,R4 Anhang (einzeln),Anhangseite,
-/2020/04/20/buchveroeffentlichung-anne-mueller-zwei-wochen-im-juni/mu%cc%88ller-anne_30384_hon-frei-cantonina-gern/,/wordpress/wp-content/uploads/2020/04/Müller-Anne_30384_hon.frei-cAntonina-Gern.jpeg,301,R4 Anhang (einzeln),Anhangseite,
-/2020/04/20/buchveroeffentlichung-anne-mueller-zwei-wochen-im-juni/mueller-zwei-wochen-im-juni_300dpi/,/wordpress/wp-content/uploads/2020/04/Müller-Zwei-Wochen-im-Juni_300dpi.jpg,301,R4 Anhang (einzeln),Anhangseite,
-/2020/05/20/zeichnungen-von-florian-schneider-im-urlaubslesebuch-2020/cover_urlaubslesebuch/,/wordpress/wp-content/uploads/2020/05/Cover_Urlaubslesebuch.jpg,301,R4 Anhang (einzeln),Anhangseite,
-/2021/02/12/eine-neuerscheinung-unseres-mitglieds-susanne-kliem-kristina-hauff-unter-wasser-nacht/unter-wasser-nacht/,/wordpress/wp-content/uploads/2021/02/Unter-Wasser-Nacht.jpg,301,R4 Anhang (einzeln),Anhangseite,
-/2021/04/29/peter-blickle-andershimmel/blickle_andershimmel-cover-111120/,/wordpress/wp-content/uploads/2021/04/Blickle_Andershimmel-COVER-111120.jpg,301,R4 Anhang (einzeln),Anhangseite,
-/2021/06/11/diktatoren-von-florian-schneider-im-urlaubslesebuch-2021/florian-6-21/,/wordpress/wp-content/uploads/2021/06/Florian-6.21.jpg,301,R4 Anhang (einzeln),Anhangseite,
-/2021/07/01/hasenherz-und-loewenmut-geschichten-in-einfacher-sprache/csm_600x848px_hasenherz-und-loewenmut_bef1102432-002/,/wordpress/wp-content/uploads/2021/07/csm_600x848px_Hasenherz-und-Loewenmut_bef1102432-002.jpg,301,R4 Anhang (einzeln),Anhangseite,
-/2021/08/05/alexandra-luethen-paradiesfedern/paradiesfedern_9783945653302_-002/,/wordpress/wp-content/uploads/2021/08/paradiesfedern_9783945653302_-002.jpg,301,R4 Anhang (einzeln),Anhangseite,
-/2021/09/22/wolfgang-rill-ein-besenstiel-und-seine-rolle-beim-atemholen/rill/,/wordpress/wp-content/uploads/2021/09/Rill.png,301,R4 Anhang (einzeln),Anhangseite,
-/2021/09/29/alexandra-luethen-erhaelt-barnimer-literaturpreis-2021-fuer-kinder-und-jugendliteratur/csm_literaturpreis-3_df2b33dc8b/,/wordpress/wp-content/uploads/2021/09/csm_Literaturpreis-3_df2b33dc8b.jpg,301,R4 Anhang (einzeln),Anhangseite,
-/2021/10/20/preisverleihung-von-aurum-preis-des-autorenforum-2021/alle2-002/,/wordpress/wp-content/uploads/2021/10/Alle2-002.jpg,301,R4 Anhang (einzeln),Anhangseite,
-/2021/10/20/preisverleihung-von-aurum-preis-des-autorenforum-2021/finalisten-5-002-1/,/wordpress/wp-content/uploads/2021/10/Finalisten-5-002-1.jpg,301,R4 Anhang (einzeln),Anhangseite,
-/2021/10/20/preisverleihung-von-aurum-preis-des-autorenforum-2021/finalisten-5-002/,/wordpress/wp-content/uploads/2021/10/Finalisten-5-002.jpg,301,R4 Anhang (einzeln),Anhangseite,
-/2022/03/14/neuerscheinung-das-lied-des-himmels-und-der-meere-von-anne-mueller/9783328601920-3/,/wordpress/wp-content/uploads/2022/03/9783328601920-3.jpg,301,R4 Anhang (einzeln),Anhangseite,
-/2022/03/14/neuerscheinung-das-lied-des-himmels-und-der-meere-von-anne-mueller/anne-mueller-2/,/wordpress/wp-content/uploads/2022/03/Anne-Mueller.jpg,301,R4 Anhang (einzeln),Anhangseite,
-/2022/03/18/neuerscheinung-membranen-von-bea-kemer/kemer_membranen/,/wordpress/wp-content/uploads/2022/03/kemer_membranen.jpg,301,R4 Anhang (einzeln),Anhangseite,
-/2022/05/22/rubikon-kurzgeschichte-von-florian-schneider-im-urlaubslesebuch-2022/cover_urlaubslesebuch_2022/,/wordpress/wp-content/uploads/2022/05/Cover_Urlaubslesebuch_2022.jpg,301,R4 Anhang (einzeln),Anhangseite,
-/2022/08/25/neuerscheinung-ela-von-alexandra-luethen-mary-delaney/ela_cover_web-700x988-1/,/wordpress/wp-content/uploads/2022/08/Ela_Cover_Web-700x988-1.jpg,301,R4 Anhang (einzeln),Anhangseite,
-/2022/11/01/neuerscheinung-polarstation-von-florian-schneider/cover_polarstation_erzaehlungen_florian_schneider_2022-web-002-1/,/wordpress/wp-content/uploads/2022/11/Cover_Polarstation_Erzaehlungen_Florian_Schneider_2022-web-002-1.jpg,301,R4 Anhang (einzeln),Anhangseite,
-/2023/02/12/neuerscheinung-hugo-und-die-legende-von-burg-drachenhuegel-von-max-kaplan-und-lev-kaplan/544-7_cover_hugo-und-die-legende-von-burg-drachenhuegel_2d_final_yduatm/,/wordpress/wp-content/uploads/2023/02/544-7_cover_hugo-und-die-legende-von-burg-drachenhuegel_2d_final_yduatm.jpg,301,R4 Anhang (einzeln),Anhangseite,
-/2023/02/14/doris-wiesenbach-leinwand-ohne-gesicht/leinwand-ohne-gesicht-002/,/wordpress/wp-content/uploads/2023/02/Leinwand-ohne-Gesicht-002-scaled.jpg,301,R4 Anhang (einzeln),Anhangseite,
-/2023/02/18/neuerscheinung-in-blaukalter-tiefe-von-kristina-hauff/k-hauff-in-blaukalter-tiefe/,/wordpress/wp-content/uploads/2023/02/K.-Hauff-in-blaukalter-Tiefe.jpg,301,R4 Anhang (einzeln),Anhangseite,
-/2023/04/07/neuerscheinung-wer-braucht-schon-wunder-von-anne-mueller/cover/,/wordpress/wp-content/uploads/2023/04/cover.jpg,301,R4 Anhang (einzeln),Anhangseite,
-/2023/04/07/neuerscheinung-wer-braucht-schon-wunder-von-anne-mueller/foto_anne-mueller_honorarfrei_-antonina-gern_300dpi_web/,/wordpress/wp-content/uploads/2023/03/Foto_Anne-Mueller_honorarfrei_©-Antonina-Gern_300dpi_web.jpg,301,R4 Anhang (einzeln),Anhangseite,
-/2023/05/29/reliquien-von-florian-schneider-im-dtv-urlaubs-lesebuch/dtv_urlaub_produktcover-web-klein-002/,/wordpress/wp-content/uploads/2023/05/dtv_Urlaub_Produktcover-Web-klein-002.jpg,301,R4 Anhang (einzeln),Anhangseite,
-/2023/12/07/dominik-jaekel-erhaelt-den-ersten-preis-beim-a-e-johann-literaturwettbewerb/dominik-jaekel/,/wordpress/wp-content/uploads/2023/12/Dominik-Jaekel.jpg,301,R4 Anhang (einzeln),Anhangseite,
-/20230221_ankuendigung_lesung_polarstion_florian_schneider/,/wordpress/wp-content/uploads/2023/02/20230221_Ankuendigung_Lesung_Polarstion_Florian_Schneider.jpeg,301,R4 Anhang (WordPress),Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
-/2024/03/21/achmed-und-almira-roman-von-wolfgang-rill/rill-ahmed-und-almira/,/wordpress/wp-content/uploads/2024/03/Rill-Ahmed-und-Almira.jpg,301,R4 Anhang (einzeln),Anhangseite,
-/2024/03/21/alexandra-luethen-lieben-schreiben-leben/titel-schreiben-lieben/,/wordpress/wp-content/uploads/2024/03/titel-schreiben-lieben-scaled.jpg,301,R4 Anhang (einzeln),Anhangseite,
-/2024/03/21/holzauge-roman-von-wolfgang-rill/rill-holzauge/,/wordpress/wp-content/uploads/2024/03/Rill-Holzauge.jpg,301,R4 Anhang (einzeln),Anhangseite,
-/2024/03/21/neuerscheinung-bea-kemer-fast-immer-ein-weiter/kemer-fast-immer-ein-weiter-1/,/wordpress/wp-content/uploads/2024/03/Kemer-Fast-immer-ein-Weiter-1.jpg,301,R4 Anhang (einzeln),Anhangseite,
-/2024/04/10/neuerscheinung-peter-blickle-die-erbschaft/au_peter-blickle_c_michel-afflerbach/,/wordpress/wp-content/uploads/2024/04/AU_Peter-Blickle_c_Michel-Afflerbach.jpg,301,R4 Anhang (einzeln),Anhangseite,
-/2024/04/10/neuerscheinung-peter-blickle-die-erbschaft/cov_blickle_die-erbschaft/,/wordpress/wp-content/uploads/2024/04/COV_Blickle_Die-Erbschaft.jpg,301,R4 Anhang (einzeln),Anhangseite,
-/2024/06/16/die-raupe-erzaehlung-von-florian-schneider-im-dtv-urlaubslesebuch-2024/urlaubslesebuch-2024/,/wordpress/wp-content/uploads/2024/06/Urlaubslesebuch-2024.jpg,301,R4 Anhang (einzeln),Anhangseite,
-/2024/06/16/neuerscheinung-mittendrin-ent-oder-weder-von-manfred-o-eisner/us_ui_mittendrin/,/wordpress/wp-content/uploads/2024/06/US_UI_mittendrin.jpg,301,R4 Anhang (einzeln),Anhangseite,
-/2024/07/01/neuerscheinung-miki-goldberg-disteln-kuessen/img_1809/,/wordpress/wp-content/uploads/2024/07/IMG_1809.jpg,301,R4 Anhang (einzeln),Anhangseite,
-/2024/11/12/neuauflage-mit-hoerbuch-leinwand-ohne-gesicht-von-doris-wiesenbach/leinwand-ohne-gesicht-002-2/,/wordpress/wp-content/uploads/2024/11/Leinwand-ohne-Gesicht-002.jpg,301,R4 Anhang (einzeln),Anhangseite,
-/2025/03/05/neuerscheinung-doris-wiesenbach-das-pure-leben-28-storys/pures_leben-coverfront/,/wordpress/wp-content/uploads/2025/03/Pures_Leben.CoverFront.jpg,301,R4 Anhang (einzeln),Anhangseite,
-/2025/06/16/neuerscheinung-christiane-carstens-moin-seekind/moin-seekind-cover-3jpg/,/wordpress/wp-content/uploads/2025/06/Moin-Seekind-Cover.-3jpg.jpg,301,R4 Anhang (einzeln),Anhangseite,
-/2025/06/25/neuerscheinung-alexandra-luethen-nu-york-nu-jork/alexandra-luthen-1/,/wordpress/wp-content/uploads/2025/06/alexandra-luthen-1.jpg,301,R4 Anhang (einzeln),Anhangseite,
-/2025/06/25/neuerscheinung-alexandra-luethen-nu-york-nu-jork/alexandra-luthen/,/wordpress/wp-content/uploads/2025/06/alexandra-luthen.jpg,301,R4 Anhang (einzeln),Anhangseite,
-/2025/06/25/neuerscheinung-alexandra-luethen-nu-york-nu-jork/nujork-titelseite/,/wordpress/wp-content/uploads/2025/06/NuJork-Titelseite-scaled.jpg,301,R4 Anhang (einzeln),Anhangseite,
-/2025/07/21/neuerscheinung-kristina-hauff-schattengruenes-tal/kristina-hauff/,/wordpress/wp-content/uploads/2025/07/Kristina-Hauff.jpg,301,R4 Anhang (einzeln),Anhangseite,
-/2025/10/21/neuerscheinung-hubert-a-walter-festmachen-weit-hinter-dem-horizont/festmachen-weit-hinter-dem-horizont-gebundene-ausgabe-hubert-a-walter/,/wordpress/wp-content/uploads/2025/10/festmachen-weit-hinter-dem-horizont-gebundene-ausgabe-hubert-a-walter.webp,301,R4 Anhang (einzeln),Anhangseite,
-/2025/10/21/neuerscheinung-hubert-a-walter-festmachen-weit-hinter-dem-horizont/foto-christa-tschink/,/wordpress/wp-content/uploads/2025/10/Foto-Christa-Tschink-scaled.jpg,301,R4 Anhang (einzeln),Anhangseite,
-/2025/10/29/neuerscheinung-monika-heintze-alles-muss-versteckt-sein/heintze-monika/,/wordpress/wp-content/uploads/2025/10/Heintze-Monika.jpeg,301,R4 Anhang (einzeln),Anhangseite,
-/2025/10/29/neuerscheinung-monika-heintze-alles-muss-versteckt-sein/img_8798/,/wordpress/wp-content/uploads/2025/10/IMG_8798.jpeg,301,R4 Anhang (einzeln),Anhangseite,
-/2026/03/03/neuerscheinung-bea-kemer-ueberwuensche/ueberwuensche/,/wordpress/wp-content/uploads/2026/03/UeberWuensche.jpg,301,R4 Anhang (einzeln),Anhangseite,
-/2026/04/07/neuerscheinung-rainer-schildberger-die-tote-von-clare-island/die-tote-von-clare-island-cover/,/wordpress/wp-content/uploads/2026/04/Die-Tote-von-Clare-Island-Cover-scaled.jpg,301,R4 Anhang (einzeln),Anhangseite,
-/2026/05/11/neuerscheinung-monika-heintze-erstmal-paris/8ff6f1_3507619e0e924d0fad43d7b873c8d532mv2/,/wordpress/wp-content/uploads/2026/05/8ff6f1_3507619e0e924d0fad43d7b873c8d532mv2.jpg,301,R4 Anhang (einzeln),Anhangseite,
-/27_unterholz-7-5-poster/,/wordpress/wp-content/uploads/2020/03/27_Unterholz-7-5-POSTER.jpg,301,R4 Anhang (WordPress),Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
-/9783328601920-1/,/wordpress/wp-content/uploads/2022/03/9783328601920-1.jpg,301,R4 Anhang (WordPress),Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
-/9783328601920-2/,/wordpress/wp-content/uploads/2022/03/9783328601920-2.jpg,301,R4 Anhang (WordPress),Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
-/9783328601920-4/,/wordpress/wp-content/uploads/2022/03/9783328601920-4.jpg,301,R4 Anhang (WordPress),Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
-/9783328601920-5/,/wordpress/wp-content/uploads/2022/03/9783328601920-5.jpg,301,R4 Anhang (WordPress),Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
-/9783328601920-6/,/wordpress/wp-content/uploads/2022/03/9783328601920-6.jpg,301,R4 Anhang (WordPress),Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
-/9783328601920/,/wordpress/wp-content/uploads/2022/03/9783328601920.jpg,301,R4 Anhang (WordPress),Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
-/af-8-buchnacht/,/wordpress/wp-content/uploads/2016/05/AF-8.-Buchnacht.jpg,301,R4 Anhang (WordPress),Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
-/af-ol-es-geht-weiter/,/wordpress/wp-content/uploads/2023/11/AF-oL-es-geht-weiter.jpg,301,R4 Anhang (WordPress),Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
-/anne-blum-hasen/,/wordpress/wp-content/uploads/2016/09/Anne-Blum-Hasen.jpg,301,R4 Anhang (WordPress),Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
-/anne-mueller-1/,/wordpress/wp-content/uploads/2022/03/Anne-Mueller-1.jpg,301,R4 Anhang (WordPress),Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
-/anne-mueller/,/wordpress/wp-content/uploads/2020/07/Anne-Müller.jpg,301,R4 Anhang (WordPress),Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
-/anne_blum_autorin/,/wordpress/wp-content/uploads/2016/09/Anne_Blum_Autorin.pdf,301,R4 Anhang (WordPress),Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
-/antike-cover_-1-2/,/wordpress/wp-content/uploads/2020/02/Antike.Cover_.1.-2.jpg,301,R4 Anhang (WordPress),Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
-/antike-cover_-1-3/,/wordpress/wp-content/uploads/2020/02/Antike.Cover_.1.-3.jpg,301,R4 Anhang (WordPress),Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
-/autfor-plak-a3/,/wordpress/wp-content/uploads/2017/08/Autfor.Plak_.A3.jpg,301,R4 Anhang (WordPress),Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
-/autorenforumberlin-8-3-26/,/wordpress/wp-content/uploads/2026/03/AutorenforumBerlin-8.3.26.jpg,301,R4 Anhang (WordPress),Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
-/bachmann-public-viewing-16-2/,/wordpress/wp-content/uploads/2016/06/Bachmann-Public-Viewing-16-1.jpg,301,R4 Anhang (WordPress),Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
-/bachmann-public-viewing-16/,/wordpress/wp-content/uploads/2016/06/Bachmann-Public-Viewing-16.jpg,301,R4 Anhang (WordPress),Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
-/berliner-morde-kersting/,/wordpress/wp-content/uploads/2016/01/Berliner-Morde-Kersting.jpg,301,R4 Anhang (WordPress),Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
-/biografiearbeit/,/wordpress/wp-content/uploads/2023/01/Biografiearbeit-scaled.jpg,301,R4 Anhang (WordPress),Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
-/buchn/,/wordpress/wp-content/uploads/2017/05/buchn.png,301,R4 Anhang (WordPress),Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
-/buchnacht-16-neu-2/,/wordpress/wp-content/uploads/2016/05/Buchnacht-16-NEU-1.jpg,301,R4 Anhang (WordPress),Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
-/buchnacht-16-neu-3/,/wordpress/wp-content/uploads/2016/05/Buchnacht-16-NEU-2.jpg,301,R4 Anhang (WordPress),Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
-/buchnacht-16-neu/,/wordpress/wp-content/uploads/2016/05/Buchnacht-16-NEU.jpg,301,R4 Anhang (WordPress),Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
-/buchnacht-teaser/,/wordpress/wp-content/uploads/2024/06/Buchnacht-Teaser.png,301,R4 Anhang (WordPress),Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
-/cover-1/,/wordpress/wp-content/uploads/2023/04/cover-1.jpg,301,R4 Anhang (WordPress),Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
-/cover-anthologie-2018/,/wordpress/wp-content/uploads/2018/06/Cover-Anthologie-2018.jpg,301,R4 Anhang (WordPress),Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
-/cover-fruehstueck_/,/wordpress/wp-content/uploads/2016/01/Cover-Fruehstueck_.jpg,301,R4 Anhang (WordPress),Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
-/cover-gute-nacht-carlo-vorderseite/,/wordpress/wp-content/uploads/2017/07/Cover-Gute-Nacht-Carlo-Vorderseite.jpg,301,R4 Anhang (WordPress),Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
-/cover-luftdurchlaessig-2012/,/wordpress/wp-content/uploads/2016/01/Cover-Luftdurchlaessig-2012.jpg,301,R4 Anhang (WordPress),Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
-/cover-rache-brennt-mit-aufkleber/,/wordpress/wp-content/uploads/2018/02/Cover-Rache-brennt-mit-Aufkleber.jpg,301,R4 Anhang (WordPress),Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
-/d-anselm/,/wordpress/wp-content/uploads/2017/03/D-Anselm.jpg,301,R4 Anhang (WordPress),Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
-/d72cf120-2aa0-49a5-b906-c128f6200b9d-002/,/wordpress/wp-content/uploads/2024/05/d72cf120-2aa0-49a5-b906-c128f6200b9d-002.jpg,301,R4 Anhang (WordPress),Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
-/dauerhaft3000-1/,/wordpress/wp-content/uploads/2024/10/DauerHaft3000-1-scaled.jpg,301,R4 Anhang (WordPress),Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
-/deibert-klimkowsy-a3-cdr/,/wordpress/wp-content/uploads/2017/06/1.Slav_.-Plak.jpg,301,R4 Anhang (WordPress),Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
-/dsc04191/,/wordpress/wp-content/uploads/2016/03/DSC04191.jpg,301,R4 Anhang (WordPress),Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
-/dscn8968/,/wordpress/wp-content/uploads/2016/03/DSCN8968.jpg,301,R4 Anhang (WordPress),Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
-/e-27_unterholz-fly/,/wordpress/wp-content/uploads/2020/03/e-27_Unterholz-Fly.jpg,301,R4 Anhang (WordPress),Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
-/e-niko-2019-2/,/wordpress/wp-content/uploads/2019/12/e-Niko-2019.jpg,301,R4 Anhang (WordPress),Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
-/e-niko-2019/,/wordpress/wp-content/uploads/2019/11/e-Niko-2019.jpg,301,R4 Anhang (WordPress),Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
-/e2-2019-bachmann/,/wordpress/wp-content/uploads/2019/06/e2-2019-Bachmann.jpg,301,R4 Anhang (WordPress),Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
-/fehlstellen/,/wordpress/wp-content/uploads/2026/04/Fehlstellen.png,301,R4 Anhang (WordPress),Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
-/flyer-fuer-lesung-27-9-17-bei-primobuch-seite-1/,/wordpress/wp-content/uploads/2017/09/Flyer-für-Lesung-27.9.17-bei-PrimoBuch-Seite-1.png,301,R4 Anhang (WordPress),Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
-/flyer_vorderseite-1/,/wordpress/wp-content/uploads/2024/04/Flyer_Vorderseite-1.jpg,301,R4 Anhang (WordPress),Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
-/flyer_vorderseite/,/wordpress/wp-content/uploads/2024/04/Flyer_Vorderseite.jpg,301,R4 Anhang (WordPress),Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
-/geschichte/villavonrechtsnah/,/wordpress/wp-content/uploads/2015/12/villavonrechtsnah.jpg,301,R4 Anhang (einzeln),Anhangseite,
-/geschichten-fischen/,/wordpress/wp-content/uploads/2023/01/Geschichten-fischen-scaled.jpg,301,R4 Anhang (WordPress),Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
-/henry-kersting-neu/,/wordpress/wp-content/uploads/2016/01/Henry-Kersting-neu.jpg,301,R4 Anhang (WordPress),Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
-/herbstlese-plakat-002/,/wordpress/wp-content/uploads/2025/09/Herbstlese-Plakat-002.png,301,R4 Anhang (WordPress),Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
-/icon/,/wordpress/wp-content/uploads/2015/12/icon.png,301,R4 Anhang (WordPress),Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
-/img-20221115-wa0000-1/,/wordpress/wp-content/uploads/2022/11/IMG-20221115-WA0000-1.jpg,301,R4 Anhang (WordPress),Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
-/img-20221115-wa0000/,/wordpress/wp-content/uploads/2022/11/IMG-20221115-WA0000.jpg,301,R4 Anhang (WordPress),Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
-/img_20230125_103343/,/wordpress/wp-content/uploads/2023/01/IMG_20230125_103343-scaled.jpg,301,R4 Anhang (WordPress),Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
-/img_2066-002/,/wordpress/wp-content/uploads/2019/08/IMG_2066-002.jpg,301,R4 Anhang (WordPress),Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
-/insta-textur_3/,/wordpress/wp-content/uploads/2023/05/INSTA-TEXTUR_3.jpg,301,R4 Anhang (WordPress),Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
-/insta-textur_4/,/wordpress/wp-content/uploads/2023/05/INSTA-TEXTUR_4.jpg,301,R4 Anhang (WordPress),Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
-/jackpot-titel-1/,/wordpress/wp-content/uploads/2016/01/Jackpot-Titel-1.jpg,301,R4 Anhang (WordPress),Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
-/jackpot-titel-2/,/wordpress/wp-content/uploads/2016/01/Jackpot-Titel-2.jpg,301,R4 Anhang (WordPress),Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
-/jackpot-titel-3/,/wordpress/wp-content/uploads/2016/01/Jackpot-Titel-3.jpg,301,R4 Anhang (WordPress),Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
-/jackpot-titel-4/,/wordpress/wp-content/uploads/2016/01/Jackpot-Titel-4.jpg,301,R4 Anhang (WordPress),Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
-/jackpot-titel-5/,/wordpress/wp-content/uploads/2016/01/Jackpot-Titel-5.jpg,301,R4 Anhang (WordPress),Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
-/kemer-fast-immer-ein-weiter/,/wordpress/wp-content/uploads/2024/03/Kemer-Fast-immer-ein-Weiter.jpg,301,R4 Anhang (WordPress),Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
-/kemer_membranen-1/,/wordpress/wp-content/uploads/2022/03/kemer_membranen-1.jpg,301,R4 Anhang (WordPress),Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
-/lange-buchnachtm-oranienstrasse-2024/,/wordpress/wp-content/uploads/2024/06/Lange-Buchnachtm-Oranienstrasse-2024.png,301,R4 Anhang (WordPress),Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
-/lg-buchnacht-23-2/,/wordpress/wp-content/uploads/2023/05/Lg-Buchnacht-23.jpg,301,R4 Anhang (WordPress),Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
-/lg-buchnacht-23/,/wordpress/wp-content/uploads/2023/04/Lg-Buchnacht-23.jpg,301,R4 Anhang (WordPress),Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
-/lg-buchnacht-25-korr/,/wordpress/wp-content/uploads/2025/04/Lg-Buchnacht-25-KORR.jpg,301,R4 Anhang (WordPress),Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
-/lg-buchnacht-25/,/wordpress/wp-content/uploads/2025/04/LG-Buchnacht-25.jpg,301,R4 Anhang (WordPress),Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
-/loesche-front/,/wordpress/wp-content/uploads/2016/03/Lösche-Front.jpg,301,R4 Anhang (WordPress),Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
-/loesche-rueck/,/wordpress/wp-content/uploads/2016/03/Lösche-Rück.jpg,301,R4 Anhang (WordPress),Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
-/logo-1-png/,/wordpress/wp-content/uploads/2015/12/logo-1.png,301,R4 Anhang (WordPress),Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
-/logo-2-png/,/wordpress/wp-content/uploads/2015/12/logo-2.png,301,R4 Anhang (WordPress),Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
-/logo-3-png/,/wordpress/wp-content/uploads/2015/12/logo-3.png,301,R4 Anhang (WordPress),Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
-/logo-png/,/wordpress/wp-content/uploads/2015/12/logo.png,301,R4 Anhang (WordPress),Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
-/mittendrin-disteln-kuessen-21-mai/,/wordpress/wp-content/uploads/2024/05/Mittendrin-Disteln-Kuessen-21.-Mai.jpg,301,R4 Anhang (WordPress),Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
-/mr_-john_-titel/,/wordpress/wp-content/uploads/2015/12/Mr_-John_-Titel.jpg,301,R4 Anhang (WordPress),Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
-/mueller-zwei-wochen-im-juni_300dpi-643x1024-1/,/wordpress/wp-content/uploads/2020/07/Müller-Zwei-Wochen-im-Juni_300dpi-643x1024-1.jpg,301,R4 Anhang (WordPress),Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
-/nick-2021-e-002/,/wordpress/wp-content/uploads/2021/11/Nick-2021-e-002.jpg,301,R4 Anhang (WordPress),Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
-/niko-c-2024-lametta-kopie/,/wordpress/wp-content/uploads/2024/10/Niko-C-2024-Lametta-Kopie.jpg,301,R4 Anhang (WordPress),Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
-/nikolaus-17/,/wordpress/wp-content/uploads/2017/11/nikolaus-17.jpg,301,R4 Anhang (WordPress),Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
-/nikolaus-2025-1/,/wordpress/wp-content/uploads/2025/11/Nikolaus-2025-1.jpg,301,R4 Anhang (WordPress),Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
-/nikolaus-2025/,/wordpress/wp-content/uploads/2025/11/Nikolaus-2025.jpg,301,R4 Anhang (WordPress),Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
-/nikolauslesung-12-16-2/,/wordpress/wp-content/uploads/2016/11/nikolauslesung-12.16-1.jpg,301,R4 Anhang (WordPress),Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
-/nikolauslesung-12-16/,/wordpress/wp-content/uploads/2016/11/nikolauslesung-12.16.jpg,301,R4 Anhang (WordPress),Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
-/nikolauslesung-2018-2/,/wordpress/wp-content/uploads/2018/11/Nikolauslesung-2018-1.jpg,301,R4 Anhang (WordPress),Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
-/nikolauslesung-2018/,/wordpress/wp-content/uploads/2018/11/Nikolauslesung-2018.jpg,301,R4 Anhang (WordPress),Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
-/offener-leseabend/cafe-2-ausschnitt/,/wordpress/wp-content/uploads/2015/12/Cafe-2-Ausschnitt.jpg,301,R4 Anhang (WordPress),Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
-/offener-leseabend/cafe-hinten-abends-3/,/wordpress/wp-content/uploads/2015/12/Cafe-hinten-abends-3.jpg,301,R4 Anhang (WordPress),Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
-/offener-leseabend/lesetisch-1/,/wordpress/wp-content/uploads/2015/12/Lesetisch-1.jpg,301,R4 Anhang (WordPress),Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
-/offener-leseabend/salon-aussen-1-kontrast-7/,/wordpress/wp-content/uploads/2015/12/Salon-aussen-1-Kontrast-7.jpg,301,R4 Anhang (WordPress),Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
-/organisation/228787_131204253623027_5692121_n1-2/,/wordpress/wp-content/uploads/2019/02/228787_131204253623027_5692121_n1-1.jpg,301,R4 Anhang (einzeln),Anhangseite,
-/organisation/228787_131204253623027_5692121_n1/,/wordpress/wp-content/uploads/2019/02/228787_131204253623027_5692121_n1.jpg,301,R4 Anhang (einzeln),Anhangseite,
-/organisation/bea-kemer-neu-klein/,/wordpress/wp-content/uploads/2015/12/Bea-Kemer-neu-klein.jpg,301,R4 Anhang (einzeln),Anhangseite,
-/organisation/beckmann/,/wordpress/wp-content/uploads/2015/12/beckmann-e1588022091945.jpg,301,R4 Anhang (einzeln),Anhangseite,
-/organisation/dsc_0059/,/wordpress/wp-content/uploads/2019/02/DSC_0059.jpeg,301,R4 Anhang (einzeln),Anhangseite,
-/organisation/fptbty/,/wordpress/wp-content/uploads/2023/06/IMG_20230619_175207.jpg,301,R4 Anhang (einzeln),Anhangseite,
-/organisation/illigner/,/wordpress/wp-content/uploads/2016/01/Illigner.jpg,301,R4 Anhang (einzeln),Anhangseite,
-/organisation/img_3523-002/,/wordpress/wp-content/uploads/2025/01/IMG_3523-002-scaled.jpg,301,R4 Anhang (einzeln),Anhangseite,
-/organisation/portraet-3-sw-1/,/wordpress/wp-content/uploads/2023/06/Portraet-3-SW-1.jpg,301,R4 Anhang (einzeln),Anhangseite,
-/organisation/portraet-3-sw/,/wordpress/wp-content/uploads/2023/06/Portraet-3-SW.jpg,301,R4 Anhang (einzeln),Anhangseite,
-/organisation/s-truninger/,/wordpress/wp-content/uploads/2025/01/S-Truninger-scaled.jpg,301,R4 Anhang (einzeln),Anhangseite,
-/organisation/slavica/,/wordpress/wp-content/uploads/2015/12/Slavica.jpg,301,R4 Anhang (einzeln),Anhangseite,
-/organisation/sollen-foto-bea-lange-kante-10-cm-003-1/,/wordpress/wp-content/uploads/2023/06/Sollen-Foto-Bea-lange-kante-10-cm-003-1.jpg,301,R4 Anhang (einzeln),Anhangseite,
-/organisation/sollen-foto-bea-lange-kante-10-cm-003/,/wordpress/wp-content/uploads/2023/06/Sollen-Foto-Bea-lange-kante-10-cm-003.jpg,301,R4 Anhang (einzeln),Anhangseite,
-/photo-2024-05-13-15-06-39-002/,/wordpress/wp-content/uploads/2024/05/PHOTO-2024-05-13-15-06-39-002.jpg,301,R4 Anhang (WordPress),Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
-/plakat-wettbew-2017-10/,/wordpress/wp-content/uploads/2017/08/Plakat-Wettbew-2017-9.pdf,301,R4 Anhang (WordPress),Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
-/plakat-wettbew-2017-11/,/wordpress/wp-content/uploads/2017/08/Plakat-Wettbew-2017-10.pdf,301,R4 Anhang (WordPress),Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
-/plakat-wettbew-2017-2/,/wordpress/wp-content/uploads/2017/08/Plakat-Wettbew-2017-1.pdf,301,R4 Anhang (WordPress),Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
-/plakat-wettbew-2017-3/,/wordpress/wp-content/uploads/2017/08/Plakat-Wettbew-2017-2.pdf,301,R4 Anhang (WordPress),Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
-/plakat-wettbew-2017-4/,/wordpress/wp-content/uploads/2017/08/Plakat-Wettbew-2017-3.pdf,301,R4 Anhang (WordPress),Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
-/plakat-wettbew-2017-5/,/wordpress/wp-content/uploads/2017/08/Plakat-Wettbew-2017-4.pdf,301,R4 Anhang (WordPress),Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
-/plakat-wettbew-2017-6/,/wordpress/wp-content/uploads/2017/08/Plakat-Wettbew-2017-5.pdf,301,R4 Anhang (WordPress),Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
-/plakat-wettbew-2017-7/,/wordpress/wp-content/uploads/2017/08/Plakat-Wettbew-2017-6.pdf,301,R4 Anhang (WordPress),Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
-/plakat-wettbew-2017-8/,/wordpress/wp-content/uploads/2017/08/Plakat-Wettbew-2017-7.pdf,301,R4 Anhang (WordPress),Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
-/plakat-wettbew-2017-9/,/wordpress/wp-content/uploads/2017/08/Plakat-Wettbew-2017-8.pdf,301,R4 Anhang (WordPress),Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
-/plakat-wettbew-2017/,/wordpress/wp-content/uploads/2017/08/Plakat-Wettbew-2017.pdf,301,R4 Anhang (WordPress),Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
-/plakat4_website/,/wordpress/wp-content/uploads/2016/12/plakat4_website.png,301,R4 Anhang (WordPress),Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
-/poster-a3-bea-kemer-closed-fonts-002/,/wordpress/wp-content/uploads/2022/05/poster-A3-BEA-KEMER-closed-fonts-002-scaled.jpg,301,R4 Anhang (WordPress),Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
-/postkarteberlincrime_r03_x3/,/wordpress/wp-content/uploads/2016/03/PostkarteBerlinCrime_r03_X3.pdf,301,R4 Anhang (WordPress),Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
-/pr_textur-2_220813-002/,/wordpress/wp-content/uploads/2022/07/PR_TEXTUR-2_220813-002.jpg,301,R4 Anhang (WordPress),Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
-/qr-uv-autorenforum-buchnacht-2021-web-002/,/wordpress/wp-content/uploads/2021/04/QR-uv-Autorenforum-Buchnacht-2021-WEB-002.jpg,301,R4 Anhang (WordPress),Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
-/rainer-gadl-1/,/wordpress/wp-content/uploads/2020/03/Rainer-GadL-1.jpg,301,R4 Anhang (WordPress),Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
-/rainer-gadl/,/wordpress/wp-content/uploads/2020/03/Rainer-GadL.jpg,301,R4 Anhang (WordPress),Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
-/rainer-greece-2/,/wordpress/wp-content/uploads/2016/05/Rainer-Greece-1.jpg,301,R4 Anhang (WordPress),Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
-/rainer-greece/,/wordpress/wp-content/uploads/2016/05/Rainer-Greece.jpg,301,R4 Anhang (WordPress),Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
-/rainer-lk/,/wordpress/wp-content/uploads/2020/03/Rainer-LK.jpg,301,R4 Anhang (WordPress),Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
-/received_2467106736899609/,/wordpress/wp-content/uploads/2019/10/received_2467106736899609.jpeg,301,R4 Anhang (WordPress),Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
-/scherbenhaus/,/wordpress/wp-content/uploads/2017/04/scherbenhaus.jpg,301,R4 Anhang (WordPress),Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
-/sollen-wuenschen-moeglichkeiten-cover-2/,/wordpress/wp-content/uploads/2019/05/Sollen-Wünschen-Möglichkeiten-Cover.jpg,301,R4 Anhang (WordPress),Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
-/sollen-wuenschen-moeglichkeiten-cover/,/wordpress/wp-content/uploads/2019/03/Sollen-Wünschen-Möglichkeiten-Cover.jpg,301,R4 Anhang (WordPress),Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
-/sonett/,/wordpress/wp-content/uploads/2026/04/SONETT.jpg,301,R4 Anhang (WordPress),Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
-/textur-1/,/wordpress/wp-content/uploads/2022/07/Textur-1.jpeg,301,R4 Anhang (WordPress),Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
-/u1-cover-vorne-1/,/wordpress/wp-content/uploads/2019/12/U1-Cover-vorne-1.jpg,301,R4 Anhang (WordPress),Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
-/u1-cover-vorne/,/wordpress/wp-content/uploads/2019/12/U1-Cover-vorne.jpg,301,R4 Anhang (WordPress),Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
-/untitled-1-copy/,/wordpress/wp-content/uploads/2018/05/Untitled-1-copy.jpg,301,R4 Anhang (WordPress),Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
-/villa-von-vorn/,/wordpress/wp-content/uploads/2015/12/villa-von-vorn.jpg,301,R4 Anhang (WordPress),Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
-/wald8/,/wordpress/wp-content/uploads/2016/08/wald8.png,301,R4 Anhang (WordPress),Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
-/waldplakat-02-mb/,/wordpress/wp-content/uploads/2016/08/Waldplakat-02-MB.jpg,301,R4 Anhang (WordPress),Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
-/wbdz-1/,/wordpress/wp-content/uploads/2026/05/WbdZ-1.png,301,R4 Anhang (WordPress),Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
-/wbdz-2/,/wordpress/wp-content/uploads/2026/05/WbdZ-2.png,301,R4 Anhang (WordPress),Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
-/wbdz-3/,/wordpress/wp-content/uploads/2026/05/WbdZ-3.png,301,R4 Anhang (WordPress),Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
-/wettbewerb-2012/armin-wuehle/,/wordpress/wp-content/uploads/2016/01/Armin-Wuehle.jpg,301,R4 Anhang (einzeln),Anhangseite,
-/wettbewerb-2012/erika-balke/,/wordpress/wp-content/uploads/2016/01/Erika-Balke.jpg,301,R4 Anhang (einzeln),Anhangseite,
-/wettbewerb-2012/georg-kampa/,/wordpress/wp-content/uploads/2016/01/Georg-Kampa.jpg,301,R4 Anhang (einzeln),Anhangseite,
-/wettbewerb-2012/gruppenbild-wettbewerb-zwei/,/wordpress/wp-content/uploads/2016/01/Gruppenbild-Wettbewerb-Zwei.jpg,301,R4 Anhang (einzeln),Anhangseite,
-/wettbewerb-2012/henry-kersting02/,/wordpress/wp-content/uploads/2016/01/Henry-Kersting02.jpg,301,R4 Anhang (einzeln),Anhangseite,
-/wettbewerb-2012/jury-1/,/wordpress/wp-content/uploads/2016/01/Jury-1.jpg,301,R4 Anhang (einzeln),Anhangseite,
-/wettbewerb-2012/maik-froemming-rosa-hase/,/wordpress/wp-content/uploads/2016/01/Maik-Froemming-Rosa-Hase.jpg,301,R4 Anhang (einzeln),Anhangseite,
-/wettbewerb-2012/marion-leuther/,/wordpress/wp-content/uploads/2016/01/Marion-Leuther.jpg,301,R4 Anhang (einzeln),Anhangseite,
-/wettbewerb-2012/publikum1/,/wordpress/wp-content/uploads/2016/01/Publikum1.jpg,301,R4 Anhang (einzeln),Anhangseite,
-/wettbewerb-2012/stephanie-gessner-1/,/wordpress/wp-content/uploads/2016/01/Stephanie-Gessner-1.jpg,301,R4 Anhang (einzeln),Anhangseite,
-/wettbewerb-2012/susanne-kliem1/,/wordpress/wp-content/uploads/2016/01/Susanne-Kliem1.jpg,301,R4 Anhang (einzeln),Anhangseite,
-/wettbewerb-2012/susanne-mathies1/,/wordpress/wp-content/uploads/2016/01/Susanne-Mathies1.jpg,301,R4 Anhang (einzeln),Anhangseite,
-/wettbewerb-2012/susanne-strnadl/,/wordpress/wp-content/uploads/2016/01/Susanne-Strnadl.jpg,301,R4 Anhang (einzeln),Anhangseite,
-/wettbewerb-2012/zwei-cover-anthologie-klein/,/wordpress/wp-content/uploads/2016/01/ZWEI-Cover-Anthologie-klein.jpg,301,R4 Anhang (einzeln),Anhangseite,
-/wettbewerb-2014/cover-30-jahre-anfang/,/wordpress/wp-content/uploads/2016/01/Cover-30-Jahre-Anfang.jpg,301,R4 Anhang (einzeln),Anhangseite,
-/wettbewerb-2014/der-moderator-henry-kersting-50/,/wordpress/wp-content/uploads/2016/01/Der-Moderator-Henry-Kersting-50.jpg,301,R4 Anhang (einzeln),Anhangseite,
-/wettbewerb-2014/image00150/,/wordpress/wp-content/uploads/2016/01/image00150.jpg,301,R4 Anhang (einzeln),Anhangseite,
-/wettbewerb-2014/image00250/,/wordpress/wp-content/uploads/2016/01/image00250.jpg,301,R4 Anhang (einzeln),Anhangseite,
-/wettbewerb-2014/image00350/,/wordpress/wp-content/uploads/2016/01/image00350.jpg,301,R4 Anhang (einzeln),Anhangseite,
-/wettbewerb-2014/image00450/,/wordpress/wp-content/uploads/2016/01/image00450.jpg,301,R4 Anhang (einzeln),Anhangseite,
-/wettbewerb-2014/image00550/,/wordpress/wp-content/uploads/2016/01/image00550.jpg,301,R4 Anhang (einzeln),Anhangseite,
-/wettbewerb-2014/image00650/,/wordpress/wp-content/uploads/2016/01/image00650.jpg,301,R4 Anhang (einzeln),Anhangseite,
-/wettbewerb-2014/image00750/,/wordpress/wp-content/uploads/2016/01/image00750.jpg,301,R4 Anhang (einzeln),Anhangseite,
-/wettbewerb-2014/image00850/,/wordpress/wp-content/uploads/2016/01/image00850.jpg,301,R4 Anhang (einzeln),Anhangseite,
-/wettbewerb-2014/image00950/,/wordpress/wp-content/uploads/2016/01/image00950.jpg,301,R4 Anhang (einzeln),Anhangseite,
-/wettbewerb-2015/cover-kuelschrank/,/wordpress/wp-content/uploads/2016/01/cover-kuelschrank.jpg,301,R4 Anhang (einzeln),Anhangseite,
-/wettbewerb-2015/lesung-gruppewett-2015/,/wordpress/wp-content/uploads/2016/01/Lesung-GruppeWett-2015.jpg,301,R4 Anhang (einzeln),Anhangseite,
-/wettbewerb-2015/luethen-2/,/wordpress/wp-content/uploads/2016/01/Luethen-1.jpg,301,R4 Anhang (einzeln),Anhangseite,
-/wettbewerb-2019/wettbewerb-2019/image/,/wordpress/wp-content/uploads/2024/05/image.png,301,R4 Anhang (einzeln),Anhangseite,
-/wettbewerb-2021/853c497f-736c-486d-98e9-8eb6c3e8f2f9-002/,/wordpress/wp-content/uploads/2024/05/853c497f-736c-486d-98e9-8eb6c3e8f2f9-002.jpg,301,R4 Anhang (einzeln),Anhangseite,
-/wettbewerb-2024/dauerhaft-cover_1080-002/,/wordpress/wp-content/uploads/2024/08/DauerHaft-Cover_1080-002.jpg,301,R4 Anhang (einzeln),Anhangseite,
-/wettbewerb-2024/dauerhaft3000/,/wordpress/wp-content/uploads/2024/10/DauerHaft3000-scaled.jpg,301,R4 Anhang (einzeln),Anhangseite,
-/woelk/,/wordpress/wp-content/uploads/2016/12/Woelk.png,301,R4 Anhang (WordPress),Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
-/xs-af-40-jub-1_eis-002/,/wordpress/wp-content/uploads/2024/09/xs-AF-40-Jub-1_Eis-002.jpg,301,R4 Anhang (WordPress),Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
-/xs-af-v-2403-frauentag/,/wordpress/wp-content/uploads/2024/02/xs-AF-V-2403-FRAUENTAG.jpg,301,R4 Anhang (WordPress),Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
-/xs_textur_2_flyer-neu-2-002-version-2-8/,/wordpress/wp-content/uploads/2022/08/xs_TEXTUR_2_Flyer-neu-2-002-VERSION-2.8..jpg,301,R4 Anhang (WordPress),Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
-/xsi-af-nikolausi-2023-volle-aufloesung-1024x1024-1-1024x1024-1/,/wordpress/wp-content/uploads/2023/11/xsi-AF-Nikolausi-2023-volle-Aufloesung-1024x1024-1-1024x1024-1.jpg,301,R4 Anhang (WordPress),Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
-/xsi-af-nikolausi-2023-volle-aufloesung-1024x1024-1/,/wordpress/wp-content/uploads/2023/11/xsi-AF-Nikolausi-2023-volle-Aufloesung-1024x1024-1.jpg,301,R4 Anhang (WordPress),Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
-/xsi-af-nikolausi-2023-volle-aufloesung/,/wordpress/wp-content/uploads/2023/11/xsi-AF-Nikolausi-2023-volle-Aufloesung.jpg,301,R4 Anhang (WordPress),Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
-/xsi-buchnacht23-katze-regional/,/wordpress/wp-content/uploads/2023/05/xsi-Buchnacht23-Katze-REGIONAL.jpeg,301,R4 Anhang (WordPress),Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
-/yeyadmx7-nuedjzmf8b8/,/wordpress/wp-content/uploads/2018/12/yeyaDmX7-NUEDJzMF8B8.jpg,301,R4 Anhang (WordPress),Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
-/category/veroeffentlichungen_der_mitglieder/,/veroeffentlichungen/,301,R5 Archiv,Kategoriearchiv,
-/category/aktuelles/,/,301,R5 Archiv,Kategoriearchiv,
-/category/wettbewerb-2017/,/verein/#wettbewerbe,301,R5 Archiv,Kategoriearchiv,
-/category/wettbewerb-2019/,/verein/#wettbewerbe,301,R5 Archiv,Kategoriearchiv,
-/category/wettbewerb-2019/wettbewerb-2021/,/verein/#wettbewerbe,301,R5 Archiv,Kategoriearchiv,
-/2016/01/,/veroeffentlichungen/,301,R5 Archiv,Datumsarchiv,
-/2016/01/page/2/,/veroeffentlichungen/,301,R5 Archiv,Datumsarchiv (Folgeseite),
-/2016/03/,/veroeffentlichungen/,301,R5 Archiv,Datumsarchiv,
-/2016/12/,/veroeffentlichungen/,301,R5 Archiv,Datumsarchiv,
-/2017/03/,/veroeffentlichungen/,301,R5 Archiv,Datumsarchiv,
-/2017/04/,/veroeffentlichungen/,301,R5 Archiv,Datumsarchiv,
-/2017/09/,/veroeffentlichungen/,301,R5 Archiv,Datumsarchiv,
-/2018/01/,/veroeffentlichungen/,301,R5 Archiv,Datumsarchiv,
-/2018/07/,/veroeffentlichungen/,301,R5 Archiv,Datumsarchiv,
-/2018/08/,/veroeffentlichungen/,301,R5 Archiv,Datumsarchiv,
-/2019/01/,/veroeffentlichungen/,301,R5 Archiv,Datumsarchiv,
-/2019/03/,/veroeffentlichungen/,301,R5 Archiv,Datumsarchiv,
-/2019/04/,/veroeffentlichungen/,301,R5 Archiv,Datumsarchiv,
-/2019/05/,/veroeffentlichungen/,301,R5 Archiv,Datumsarchiv,
-/2019/10/,/veroeffentlichungen/,301,R5 Archiv,Datumsarchiv,
-/2019/12/,/veroeffentlichungen/,301,R5 Archiv,Datumsarchiv,
-/2020/02/,/veroeffentlichungen/,301,R5 Archiv,Datumsarchiv,
-/2020/03/,/veroeffentlichungen/,301,R5 Archiv,Datumsarchiv,
-/2020/04/,/veroeffentlichungen/,301,R5 Archiv,Datumsarchiv,
-/2020/05/,/veroeffentlichungen/,301,R5 Archiv,Datumsarchiv,
-/2021/02/,/veroeffentlichungen/,301,R5 Archiv,Datumsarchiv,
-/2021/03/,/veroeffentlichungen/,301,R5 Archiv,Datumsarchiv,
-/2021/04/,/veroeffentlichungen/,301,R5 Archiv,Datumsarchiv,
-/2021/06/,/veroeffentlichungen/,301,R5 Archiv,Datumsarchiv,
-/2021/07/,/veroeffentlichungen/,301,R5 Archiv,Datumsarchiv,
-/2021/08/,/veroeffentlichungen/,301,R5 Archiv,Datumsarchiv,
-/2021/09/,/veroeffentlichungen/,301,R5 Archiv,Datumsarchiv,
-/2021/10/,/veroeffentlichungen/,301,R5 Archiv,Datumsarchiv,
-/2022/03/,/veroeffentlichungen/,301,R5 Archiv,Datumsarchiv,
-/2022/05/,/veroeffentlichungen/,301,R5 Archiv,Datumsarchiv,
-/2022/08/,/veroeffentlichungen/,301,R5 Archiv,Datumsarchiv,
-/2022/11/,/veroeffentlichungen/,301,R5 Archiv,Datumsarchiv,
-/2023/02/,/veroeffentlichungen/,301,R5 Archiv,Datumsarchiv,
-/2023/04/,/veroeffentlichungen/,301,R5 Archiv,Datumsarchiv,
-/2023/05/,/veroeffentlichungen/,301,R5 Archiv,Datumsarchiv,
-/2023/07/,/veroeffentlichungen/,301,R5 Archiv,Datumsarchiv,
-/2023/12/,/veroeffentlichungen/,301,R5 Archiv,Datumsarchiv,
-/2024/03/,/veroeffentlichungen/,301,R5 Archiv,Datumsarchiv,
-/2024/04/,/veroeffentlichungen/,301,R5 Archiv,Datumsarchiv,
-/2024/06/,/veroeffentlichungen/,301,R5 Archiv,Datumsarchiv,
-/2024/07/,/veroeffentlichungen/,301,R5 Archiv,Datumsarchiv,
-/2024/11/,/veroeffentlichungen/,301,R5 Archiv,Datumsarchiv,
-/2025/03/,/veroeffentlichungen/,301,R5 Archiv,Datumsarchiv,
-/2025/06/,/veroeffentlichungen/,301,R5 Archiv,Datumsarchiv,
-/2025/07/,/veroeffentlichungen/,301,R5 Archiv,Datumsarchiv,
-/2025/10/,/veroeffentlichungen/,301,R5 Archiv,Datumsarchiv,
-/2026/03/,/veroeffentlichungen/,301,R5 Archiv,Datumsarchiv,
-/2026/04/,/veroeffentlichungen/,301,R5 Archiv,Datumsarchiv,
-/2026/05/,/veroeffentlichungen/,301,R5 Archiv,Datumsarchiv,
-/category/veroeffentlichungen_der_mitglieder/page/2/,/veroeffentlichungen/,301,R5 Archiv,Kategoriearchiv (Folgeseite),
-/category/veroeffentlichungen_der_mitglieder/page/3/,/veroeffentlichungen/,301,R5 Archiv,Kategoriearchiv (Folgeseite),
-/category/veroeffentlichungen_der_mitglieder/page/4/,/veroeffentlichungen/,301,R5 Archiv,Kategoriearchiv (Folgeseite),
-/category/veroeffentlichungen_der_mitglieder/page/5/,/veroeffentlichungen/,301,R5 Archiv,Kategoriearchiv (Folgeseite),
-/<jjjj>/,/veroeffentlichungen/,301,R6 Muster,Datumsarchiv,"Jahr, Monat oder Tag, auch mit /page/<n>/"
-/author/<name>/,/veroeffentlichungen/,301,R6 Muster,Autorenarchiv,2 Konten; Namen stehen nur in privat/
-/author/<name>/page/<n>/,/veroeffentlichungen/,301,R6 Muster,Autorenarchiv (Folgeseite),
-/page/<n>/,/veroeffentlichungen/,301,R6 Muster,Startseite (Folgeseite),Beitragsliste der alten Startseite
-/category/<kategorie>/feed/,/feed/,301,R6 Muster,Feed,
-/author/<name>/feed/,/feed/,301,R6 Muster,Feed,
-/<jjjj>/<mm>/<tt>/<titel>/<rest>/,/<titel>/,301,R6 Muster,Beitrag (Unteradresse),z. B. /feed/ oder /embed/ eines Beitrags
-/wordpress/<jjjj>/<mm>/<tt>/<titel>/,/<titel>/,301,R6 Muster,Beitrag (alte Adresse),falls Beiträge früher unter /wordpress/ lagen
+alt,neu,status,regel,umsetzung,reihenfolge,gilt_bei,typ,hinweis
+/?p=1121,/wettbewerbe/#wettbewerb-2019,301,R1 Kurzlink,einzeln,10,E5a=Wettbewerbsseite,Kurzlink,rel=shortlink der Seite
+/?p=1123,/wettbewerbe/#wettbewerb-2019,301,R1 Kurzlink,einzeln,10,E5a=Wettbewerbsseite,Kurzlink,rel=shortlink der Seite
+/?p=17,/textkritik/#heisser-stuhl,301,R1 Kurzlink,einzeln,10,E4=/textkritik/,Kurzlink,rel=shortlink der Seite
+/?p=1977,/wettbewerbe/#wettbewerb-2019,301,R1 Kurzlink,einzeln,10,E5a=Wettbewerbsseite,Kurzlink,rel=shortlink der Seite
+/?p=1993,/wettbewerbe/#wettbewerb-2021,301,R1 Kurzlink,einzeln,10,E5a=Wettbewerbsseite,Kurzlink,rel=shortlink der Seite
+/?p=1994,/wettbewerbe/#wettbewerb-2024,301,R1 Kurzlink,einzeln,10,E5a=Wettbewerbsseite,Kurzlink,rel=shortlink der Seite
+/?p=21,/verein/#geschichte,301,R1 Kurzlink,einzeln,10,,Kurzlink,rel=shortlink der Seite
+/?p=23,/verein/#organisation,301,R1 Kurzlink,einzeln,10,,Kurzlink,rel=shortlink der Seite
+/?p=253,/wettbewerbe/#wettbewerb-2012,301,R1 Kurzlink,einzeln,10,E5a=Wettbewerbsseite,Kurzlink,rel=shortlink der Seite
+/?p=273,/wettbewerbe/#wettbewerb-2014,301,R1 Kurzlink,einzeln,10,E5a=Wettbewerbsseite,Kurzlink,rel=shortlink der Seite
+/?p=290,/wettbewerbe/#wettbewerb-2015,301,R1 Kurzlink,einzeln,10,E5a=Wettbewerbsseite,Kurzlink,rel=shortlink der Seite
+/?p=335,/offener-leseabend/,301,R1 Kurzlink,einzeln,10,,Kurzlink,Beitrag geht in der Seite auf
+/?p=435,/veroeffentlichungen/,301,R1 Kurzlink,einzeln,10,E2=Seite,Kurzlink,rel=shortlink der Seite
+/?p=55,/verein/#lesungen,301,R1 Kurzlink,einzeln,10,,Kurzlink,rel=shortlink der Seite
+/?p=61,/verein/#kontakt,301,R1 Kurzlink,einzeln,10,E5b=weiterleiten,Kurzlink,rel=shortlink der Seite
+/?p=63,/termine/#anfahrt,301,R1 Kurzlink,einzeln,10,,Kurzlink,rel=shortlink der Seite
+/?p=662,/wettbewerbe/#wettbewerb-2017,301,R1 Kurzlink,einzeln,10,E5a=Wettbewerbsseite,Kurzlink,rel=shortlink der Seite
+/?page_id=1121,/wettbewerbe/#wettbewerb-2019,301,R1 Kurzlink,einzeln,10,E5a=Wettbewerbsseite,Kurzlink,einfache Permalink-Form
+/?page_id=1123,/wettbewerbe/#wettbewerb-2019,301,R1 Kurzlink,einzeln,10,E5a=Wettbewerbsseite,Kurzlink,einfache Permalink-Form
+/?page_id=17,/textkritik/#heisser-stuhl,301,R1 Kurzlink,einzeln,10,E4=/textkritik/,Kurzlink,einfache Permalink-Form
+/?page_id=1977,/wettbewerbe/#wettbewerb-2019,301,R1 Kurzlink,einzeln,10,E5a=Wettbewerbsseite,Kurzlink,einfache Permalink-Form
+/?page_id=1993,/wettbewerbe/#wettbewerb-2021,301,R1 Kurzlink,einzeln,10,E5a=Wettbewerbsseite,Kurzlink,einfache Permalink-Form
+/?page_id=1994,/wettbewerbe/#wettbewerb-2024,301,R1 Kurzlink,einzeln,10,E5a=Wettbewerbsseite,Kurzlink,einfache Permalink-Form
+/?page_id=21,/verein/#geschichte,301,R1 Kurzlink,einzeln,10,,Kurzlink,einfache Permalink-Form
+/?page_id=23,/verein/#organisation,301,R1 Kurzlink,einzeln,10,,Kurzlink,einfache Permalink-Form
+/?page_id=253,/wettbewerbe/#wettbewerb-2012,301,R1 Kurzlink,einzeln,10,E5a=Wettbewerbsseite,Kurzlink,einfache Permalink-Form
+/?page_id=273,/wettbewerbe/#wettbewerb-2014,301,R1 Kurzlink,einzeln,10,E5a=Wettbewerbsseite,Kurzlink,einfache Permalink-Form
+/?page_id=290,/wettbewerbe/#wettbewerb-2015,301,R1 Kurzlink,einzeln,10,E5a=Wettbewerbsseite,Kurzlink,einfache Permalink-Form
+/?page_id=435,/veroeffentlichungen/,301,R1 Kurzlink,einzeln,10,E2=Seite,Kurzlink,einfache Permalink-Form
+/?page_id=55,/verein/#lesungen,301,R1 Kurzlink,einzeln,10,,Kurzlink,einfache Permalink-Form
+/?page_id=61,/verein/#kontakt,301,R1 Kurzlink,einzeln,10,E5b=weiterleiten,Kurzlink,einfache Permalink-Form
+/?page_id=63,/termine/#anfahrt,301,R1 Kurzlink,einzeln,10,,Kurzlink,einfache Permalink-Form
+/?page_id=662,/wettbewerbe/#wettbewerb-2017,301,R1 Kurzlink,einzeln,10,E5a=Wettbewerbsseite,Kurzlink,einfache Permalink-Form
+/anfahrt/,/termine/#anfahrt,301,R1 Seite,einzeln,20,,Seite,
+/archiv/,/veroeffentlichungen/,301,R1 Seite,einzeln,20,E2=Seite,Seite,
+/comments/feed/,/feed/,301,R1 Seite,einzeln,20,,Feed,Kommentare werden abgeschaltet
+/datenschutz/,/datenschutzerklaerung/,301,R1 Seite,einzeln,20,,alte Adresse,heute per WordPress-Raten
+/der-heisse-stuhl/,/textkritik/#heisser-stuhl,301,R1 Seite,einzeln,20,E4=/textkritik/,Seite,
+/geschichte/,/verein/#geschichte,301,R1 Seite,einzeln,20,,Seite,
+/kontakt/,/verein/#kontakt,301,R1 Seite,einzeln,20,E5b=weiterleiten,Seite,
+/nikolauslesung/,/verein/#lesungen,301,R1 Seite,einzeln,20,,Seite,
+/organisation/,/verein/#organisation,301,R1 Seite,einzeln,20,,Seite,
+/wettbewerb-2012/,/wettbewerbe/#wettbewerb-2012,301,R1 Seite,einzeln,20,E5a=Wettbewerbsseite,Seite,
+/wettbewerb-2014/,/wettbewerbe/#wettbewerb-2014,301,R1 Seite,einzeln,20,E5a=Wettbewerbsseite,Seite,
+/wettbewerb-2015/,/wettbewerbe/#wettbewerb-2015,301,R1 Seite,einzeln,20,E5a=Wettbewerbsseite,Seite,
+/wettbewerb-2019/,/wettbewerbe/#wettbewerb-2019,301,R1 Seite,einzeln,20,E5a=Wettbewerbsseite,Seite,
+/wettbewerb-2019/wettbewerb-2019/,/wettbewerbe/#wettbewerb-2019,301,R1 Seite,einzeln,20,E5a=Wettbewerbsseite,Seite,
+/wettbewerb-2019/wettbewerbe-2019/,/wettbewerbe/#wettbewerb-2019,301,R1 Seite,einzeln,20,E5a=Wettbewerbsseite,Seite,
+/wettbewerb-2021/,/wettbewerbe/#wettbewerb-2021,301,R1 Seite,einzeln,20,E5a=Wettbewerbsseite,Seite,
+/wettbewerb-2024/,/wettbewerbe/#wettbewerb-2024,301,R1 Seite,einzeln,20,E5a=Wettbewerbsseite,Seite,
+/wettbewerbe/wettbewerb-2017/,/wettbewerbe/#wettbewerb-2017,301,R1 Seite,einzeln,20,E5a=Wettbewerbsseite,Seite,
+/wordpress/,/,301,R2 /wordpress/,einzeln,20,,alte Adresse,liefert heute 404
+/wordpress/Anfahrt/,/termine/#anfahrt,301,R2 /wordpress/,einzeln,20,,alte Adresse,im Inhalt/Fußzeile verlinkt
+/wordpress/Impressum/,/impressum/,301,R2 /wordpress/,einzeln,20,,alte Adresse,im Inhalt/Fußzeile verlinkt
+/wordpress/Kontakt/,/verein/#kontakt,301,R2 /wordpress/,einzeln,20,E5b=weiterleiten,alte Adresse,im Inhalt/Fußzeile verlinkt
+/wordpress/archiv/,/veroeffentlichungen/,301,R2 /wordpress/,einzeln,20,E2=Seite,alte Adresse,vorsorglich
+/wordpress/datenschutz/,/datenschutzerklaerung/,301,R2 /wordpress/,einzeln,20,,alte Adresse,vorsorglich
+/wordpress/datenschutzerklaerung/,/datenschutzerklaerung/,301,R2 /wordpress/,einzeln,20,,alte Adresse,im Inhalt/Fußzeile verlinkt
+/wordpress/der-heisse-stuhl/,/textkritik/#heisser-stuhl,301,R2 /wordpress/,einzeln,20,E4=/textkritik/,alte Adresse,vorsorglich
+/wordpress/geschichte/,/verein/#geschichte,301,R2 /wordpress/,einzeln,20,,alte Adresse,vorsorglich
+/wordpress/nikolauslesung/,/verein/#lesungen,301,R2 /wordpress/,einzeln,20,,alte Adresse,vorsorglich
+/wordpress/offener-leseabend/,/offener-leseabend/,301,R2 /wordpress/,einzeln,20,,alte Adresse,im Inhalt/Fußzeile verlinkt
+/wordpress/organisation/,/verein/#organisation,301,R2 /wordpress/,einzeln,20,,alte Adresse,vorsorglich
+/wordpress/termine/,/termine/,301,R2 /wordpress/,einzeln,20,,alte Adresse,im Inhalt/Fußzeile verlinkt
+/wordpress/verein/,/verein/,301,R2 /wordpress/,einzeln,20,,alte Adresse,vorsorglich
+/wordpress/wettbewerb-2012/,/wettbewerbe/#wettbewerb-2012,301,R2 /wordpress/,einzeln,20,E5a=Wettbewerbsseite,alte Adresse,vorsorglich
+/wordpress/wettbewerb-2014/,/wettbewerbe/#wettbewerb-2014,301,R2 /wordpress/,einzeln,20,E5a=Wettbewerbsseite,alte Adresse,vorsorglich
+/wordpress/wettbewerb-2015/,/wettbewerbe/#wettbewerb-2015,301,R2 /wordpress/,einzeln,20,E5a=Wettbewerbsseite,alte Adresse,vorsorglich
+/wordpress/wettbewerb-2019/,/wettbewerbe/#wettbewerb-2019,301,R2 /wordpress/,einzeln,20,E5a=Wettbewerbsseite,alte Adresse,vorsorglich
+/wordpress/wettbewerb-2019/wettbewerb-2019/,/wettbewerbe/#wettbewerb-2019,301,R2 /wordpress/,einzeln,20,E5a=Wettbewerbsseite,alte Adresse,vorsorglich
+/wordpress/wettbewerb-2019/wettbewerbe-2019/,/wettbewerbe/#wettbewerb-2019,301,R2 /wordpress/,einzeln,20,E5a=Wettbewerbsseite,alte Adresse,vorsorglich
+/wordpress/wettbewerb-2021/,/wettbewerbe/#wettbewerb-2021,301,R2 /wordpress/,einzeln,20,E5a=Wettbewerbsseite,alte Adresse,vorsorglich
+/wordpress/wettbewerb-2024/,/wettbewerbe/#wettbewerb-2024,301,R2 /wordpress/,einzeln,20,E5a=Wettbewerbsseite,alte Adresse,vorsorglich
+/wordpress/wettbewerbe/,/wettbewerbe/,301,R2 /wordpress/,einzeln,20,,alte Adresse,vorsorglich
+/wordpress/wettbewerbe/wettbewerb-2017/,/wettbewerbe/#wettbewerb-2017,301,R2 /wordpress/,einzeln,20,E5a=Wettbewerbsseite,alte Adresse,vorsorglich
+/2016/01/01/texte-typen-temperamente-25-jahre-autorenforum-berlin/ttt-klein/,/wordpress/wp-content/uploads/2016/01/ttt-klein.jpg,301,R4 Anhang,einzeln,20,E1=B,Anhangseite,bei E1=A übernimmt WordPress
+/2016/01/02/bea-kemer-starke-bande/cover-bea-kemer2/,/wordpress/wp-content/uploads/2016/01/Cover-Bea-Kemer2.jpg,301,R4 Anhang,einzeln,20,E1=B,Anhangseite,bei E1=A übernimmt WordPress
+/2016/01/02/berlin-crime-dunkle-berlin-geschichten-broschiert/berlin-crime/,/wordpress/wp-content/uploads/2016/01/Berlin-Crime.jpg,301,R4 Anhang,einzeln,20,E1=B,Anhangseite,bei E1=A übernimmt WordPress
+/2016/01/02/berlin-crime-dunkle-berlin-geschichten-broschiert/berlincrime-autorinnen/,/wordpress/wp-content/uploads/2016/01/BerlinCrime-Autorinnen.jpg,301,R4 Anhang,einzeln,20,E1=B,Anhangseite,bei E1=A übernimmt WordPress
+/2016/01/02/chrisjo-schroeder-texten-taeuschen-toeten/coverchrisjoschroeder/,/wordpress/wp-content/uploads/2016/01/CoverChrisjoSchroeder.jpg,301,R4 Anhang,einzeln,20,E1=B,Anhangseite,bei E1=A übernimmt WordPress
+/2016/01/02/christoph-schroeder-traumgarten/podium-schroeder/,/wordpress/wp-content/uploads/2016/01/podium-Schroeder.jpg,301,R4 Anhang,einzeln,20,E1=B,Anhangseite,bei E1=A übernimmt WordPress
+/2016/01/02/christoph-schroeder-traumgarten/schroeder2/,/wordpress/wp-content/uploads/2016/01/Schroeder2.jpg,301,R4 Anhang,einzeln,20,E1=B,Anhangseite,bei E1=A übernimmt WordPress
+/2016/01/02/die_alte_dame/cover-der-12-mann/,/wordpress/wp-content/uploads/2016/01/cover-der-12-Mann.jpg,301,R4 Anhang,einzeln,20,E1=B,Anhangseite,bei E1=A übernimmt WordPress
+/2016/01/02/die_alte_dame/luethen/,/wordpress/wp-content/uploads/2016/01/Luethen.jpg,301,R4 Anhang,einzeln,20,E1=B,Anhangseite,bei E1=A übernimmt WordPress
+/2016/01/02/felicitas-hoppe-hoppe/hoppe-cover/,/wordpress/wp-content/uploads/2016/01/Hoppe-Cover.jpg,301,R4 Anhang,einzeln,20,E1=B,Anhangseite,bei E1=A übernimmt WordPress
+/2016/01/02/felicitas-hoppe-hoppe/hoppe_felicitas/,/wordpress/wp-content/uploads/2016/01/Hoppe_Felicitas.jpg,301,R4 Anhang,einzeln,20,E1=B,Anhangseite,bei E1=A übernimmt WordPress
+/2016/01/02/gerd-boerner-mitten-im-lachen/cover-mitten-im-lachen/,/wordpress/wp-content/uploads/2016/01/Cover-mitten-im-Lachen.jpg,301,R4 Anhang,einzeln,20,E1=B,Anhangseite,bei E1=A übernimmt WordPress
+/2016/01/02/gerd-boerner-morgenkaffee/cover-haiku/,/wordpress/wp-content/uploads/2016/01/Cover-Haiku.jpg,301,R4 Anhang,einzeln,20,E1=B,Anhangseite,bei E1=A übernimmt WordPress
+/2016/01/02/gerd-boerner-morning-glory/gb2/,/wordpress/wp-content/uploads/2016/01/GB2.jpg,301,R4 Anhang,einzeln,20,E1=B,Anhangseite,bei E1=A übernimmt WordPress
+/2016/01/02/gerd-boerner-morning-glory/menantes08k/,/wordpress/wp-content/uploads/2016/01/menantes08k.jpg,301,R4 Anhang,einzeln,20,E1=B,Anhangseite,bei E1=A übernimmt WordPress
+/2016/01/02/jedes-jahr-rast-schneller-vorbei-geschichtensammlung/cover-martin-kobe/,/wordpress/wp-content/uploads/2016/01/Cover-Martin-Kobe.jpg,301,R4 Anhang,einzeln,20,E1=B,Anhangseite,bei E1=A übernimmt WordPress
+/2016/01/02/katrin-deibert-fannys-traum/deibert4/,/wordpress/wp-content/uploads/2016/01/Deibert4.jpg,301,R4 Anhang,einzeln,20,E1=B,Anhangseite,bei E1=A übernimmt WordPress
+/2016/01/02/leben-am-ball-ein-literrarisches-dribbling-2006/leben-am-ball/,/wordpress/wp-content/uploads/2016/01/Leben-am-Ball.jpg,301,R4 Anhang,einzeln,20,E1=B,Anhangseite,bei E1=A übernimmt WordPress
+/2016/01/02/mitglieder-des-autorenforum-berlin-veroeffentlichen-in-der-anthologie-smartphone-krimis/smartphonekrimis/,/wordpress/wp-content/uploads/2016/01/SmartphoneKrimis.jpg,301,R4 Anhang,einzeln,20,E1=B,Anhangseite,bei E1=A übernimmt WordPress
+/2016/01/02/peter-blickle-die-grammatik-der-maenner/40814584n/,/wordpress/wp-content/uploads/2016/01/40814584n.jpg,301,R4 Anhang,einzeln,20,E1=B,Anhangseite,bei E1=A übernimmt WordPress
+/2016/01/02/peter-blickle-von-einer-liebe-zur-anderen/0f14bd00700269a65c1aed360f5e3852/,/wordpress/wp-content/uploads/2016/01/0f14bd00700269a65c1aed360f5e3852.jpg,301,R4 Anhang,einzeln,20,E1=B,Anhangseite,bei E1=A übernimmt WordPress
+/2016/01/02/peter-blickle-von-einer-liebe-zur-anderen/blickle/,/wordpress/wp-content/uploads/2016/01/Blickle-e1451769618137.jpg,301,R4 Anhang,einzeln,20,E1=B,Anhangseite,bei E1=A übernimmt WordPress
+/2016/01/02/rainer-schildberger-ein-sonntag-zuviel-erzaehlungen/umschlagseite_ein-sonntag-zuviel/,/wordpress/wp-content/uploads/2016/01/Umschlagseite_ein-Sonntag-zuviel.jpg,301,R4 Anhang,einzeln,20,E1=B,Anhangseite,bei E1=A übernimmt WordPress
+/2016/01/02/rainer-schildberger-honig-und-stachel/schildberger-72/,/wordpress/wp-content/uploads/2016/01/Schildberger-72.jpg,301,R4 Anhang,einzeln,20,E1=B,Anhangseite,bei E1=A übernimmt WordPress
+/2016/01/02/rainer-schildberger-hrsg-brandschatz-die-erfindung-einer-wahren-geschichte/brandschatz/,/wordpress/wp-content/uploads/2016/01/Brandschatz.jpg,301,R4 Anhang,einzeln,20,E1=B,Anhangseite,bei E1=A übernimmt WordPress
+/2016/01/02/slavica-klimkowsky-alptraum/slavica-buchmess-3/,/wordpress/wp-content/uploads/2016/01/Slavica-Buchmess-3.jpg,301,R4 Anhang,einzeln,20,E1=B,Anhangseite,bei E1=A übernimmt WordPress
+/2016/01/02/susanne-kliem-das-beweisstueck/cover-kliem-beweisstueck/,/wordpress/wp-content/uploads/2016/01/Cover-Kliem-Beweisstueck.jpg,301,R4 Anhang,einzeln,20,E1=B,Anhangseite,bei E1=A übernimmt WordPress
+/2016/01/02/susanne-kliem-die-beschuetzerin/die-beschuetzerin/,/wordpress/wp-content/uploads/2016/01/Die-Beschuetzerin.jpg,301,R4 Anhang,einzeln,20,E1=B,Anhangseite,bei E1=A übernimmt WordPress
+/2016/01/02/susanne-kliem-die-kalte-zeit-der-erste-deutsche-weihnachtsbaum-krimi/kaltezeit/,/wordpress/wp-content/uploads/2016/01/kaltezeit.jpg,301,R4 Anhang,einzeln,20,E1=B,Anhangseite,bei E1=A übernimmt WordPress
+/2016/01/02/susanne-kliem-die-liebe-in-den-zeiten-der-praline-kurzkrimi/abmurksen-und-tee-trinken/,/wordpress/wp-content/uploads/2016/01/abmurksen-und-tee-trinken.jpg,301,R4 Anhang,einzeln,20,E1=B,Anhangseite,bei E1=A übernimmt WordPress
+/2016/01/02/susanne-kliem-theaterblut-tatort-duesseldorf/susanne-kliem/,/wordpress/wp-content/uploads/2016/01/Susanne-Kliem.jpg,301,R4 Anhang,einzeln,20,E1=B,Anhangseite,bei E1=A übernimmt WordPress
+/2016/01/02/susanne-kliem-theaterblut-tatort-duesseldorf/theaterblut/,/wordpress/wp-content/uploads/2016/01/theaterblut.jpg,301,R4 Anhang,einzeln,20,E1=B,Anhangseite,bei E1=A übernimmt WordPress
+/2016/01/02/susanne-kliem-truegerische-naehe/cover-truegerisch/,/wordpress/wp-content/uploads/2016/01/Cover-Truegerisch.jpg,301,R4 Anhang,einzeln,20,E1=B,Anhangseite,bei E1=A übernimmt WordPress
+/2016/01/02/susanne-kliem-wohnen-im-gruenen/cover-muetter-kliem/,/wordpress/wp-content/uploads/2016/01/Cover-Muetter-Kliem.jpg,301,R4 Anhang,einzeln,20,E1=B,Anhangseite,bei E1=A übernimmt WordPress
+/2016/01/02/ulrich-woelk-was-liebe-ist/ulrich-woelk/,/wordpress/wp-content/uploads/2016/01/Ulrich-Woelk.jpg,301,R4 Anhang,einzeln,20,E1=B,Anhangseite,bei E1=A übernimmt WordPress
+/2016/01/02/ulrich-woelk-was-liebe-ist/was_liebe_ist-cover/,/wordpress/wp-content/uploads/2016/01/was_liebe_ist-cover.jpg,301,R4 Anhang,einzeln,20,E1=B,Anhangseite,bei E1=A übernimmt WordPress
+/2016/03/03/447/51bby5gqprl-_sx311_bo1204203200_/,/wordpress/wp-content/uploads/2016/03/51bby5gQPRL._SX311_BO1204203200_.jpg,301,R4 Anhang,einzeln,20,E1=B,Anhangseite,bei E1=A übernimmt WordPress
+/2016/03/03/447/51bcezt52wl-_sx311_bo1204203200_/,/wordpress/wp-content/uploads/2016/03/51BcezT52wL._SX311_BO1204203200_.jpg,301,R4 Anhang,einzeln,20,E1=B,Anhangseite,bei E1=A übernimmt WordPress
+/2016/12/13/berlin-und-anderswo-eine-reise/cover-berlin-und-anderswo-rosa/,/wordpress/wp-content/uploads/2016/12/Cover-Berlin-und-anderswo-rosa.jpg,301,R4 Anhang,einzeln,20,E1=B,Anhangseite,bei E1=A übernimmt WordPress
+/2016/12/13/berlin-und-anderswo-eine-reise/cover-berlin-und-anderswo-schwarz/,/wordpress/wp-content/uploads/2016/12/Cover-Berlin-und-anderswo-schwarz.jpg,301,R4 Anhang,einzeln,20,E1=B,Anhangseite,bei E1=A übernimmt WordPress
+/2017/09/25/preistraeger-des-wettbewerbs-des-autorenforums-berlin-e-v/blindenfussball/,/wordpress/wp-content/uploads/2017/07/Blindenfußball.jpg,301,R4 Anhang,einzeln,20,E1=B,Anhangseite,bei E1=A übernimmt WordPress
+/2017/09/25/preistraeger-des-wettbewerbs-des-autorenforums-berlin-e-v/cov-schlamm/,/wordpress/wp-content/uploads/2017/09/cov.schlamm.jpg,301,R4 Anhang,einzeln,20,E1=B,Anhangseite,bei E1=A übernimmt WordPress
+/2017/09/25/preistraeger-des-wettbewerbs-des-autorenforums-berlin-e-v/gruppenfoto/,/wordpress/wp-content/uploads/2017/09/Gruppenfoto.jpg,301,R4 Anhang,einzeln,20,E1=B,Anhangseite,bei E1=A übernimmt WordPress
+/2018/01/24/wolfgang-rill-alle-lieben-mr-john/mr_-john_-titel-2/,/wordpress/wp-content/uploads/2018/01/Mr_-John_-Titel.jpg,301,R4 Anhang,einzeln,20,E1=B,Anhangseite,bei E1=A übernimmt WordPress
+/2018/07/25/slavica-klimkowsky-und-alexandra-luethen-in-gerettet-geschichten-in-einfacher-sprache/51qc20rynal/,/wordpress/wp-content/uploads/2018/07/51QC20rynaL.jpg,301,R4 Anhang,einzeln,20,E1=B,Anhangseite,bei E1=A übernimmt WordPress
+/2018/08/22/anne-mueller-sommer-in-super-8/anne-mu%cc%88ller-heike-steinweg/,/wordpress/wp-content/uploads/2018/08/Anne-Müller-@Heike-Steinweg.jpeg,301,R4 Anhang,einzeln,20,E1=B,Anhangseite,bei E1=A übernimmt WordPress
+/2018/08/22/anne-mueller-sommer-in-super-8/sommer-in-super-8-von-anne-mueller/,/wordpress/wp-content/uploads/2018/08/Mueller_ASommer_in_Super_8_186057_300dpi.jpeg,301,R4 Anhang,einzeln,20,E1=B,Anhangseite,bei E1=A übernimmt WordPress
+/2019/01/13/gerd-boerner-das-echo-der-kiefern/cover-echo-der-kiefern-cover-klein1/,/wordpress/wp-content/uploads/2019/01/Cover-Echo-der-Kiefern-Cover-klein1.jpg,301,R4 Anhang,einzeln,20,E1=B,Anhangseite,bei E1=A übernimmt WordPress
+/2019/03/08/susanne-kliem-luegenmeer-13-03-premierenlesung/cover-kliem_luegenmeer/,/wordpress/wp-content/uploads/2019/03/Cover-Kliem_Luegenmeer.jpg,301,R4 Anhang,einzeln,20,E1=B,Anhangseite,bei E1=A übernimmt WordPress
+/2019/04/07/alexandra-luethen-allen-eine-chance-warum-wir-leichte-sprache-brauchen/duden-front-2/,/wordpress/wp-content/uploads/2019/04/Duden-front-1.png,301,R4 Anhang,einzeln,20,E1=B,Anhangseite,bei E1=A übernimmt WordPress
+/2019/04/07/alexandra-luethen-allen-eine-chance-warum-wir-leichte-sprache-brauchen/duden-front-3/,/wordpress/wp-content/uploads/2019/04/Duden-front-2.png,301,R4 Anhang,einzeln,20,E1=B,Anhangseite,bei E1=A übernimmt WordPress
+/2019/04/07/alexandra-luethen-allen-eine-chance-warum-wir-leichte-sprache-brauchen/duden-front-4/,/wordpress/wp-content/uploads/2019/04/Duden-front-3.png,301,R4 Anhang,einzeln,20,E1=B,Anhangseite,bei E1=A übernimmt WordPress
+/2019/04/07/alexandra-luethen-allen-eine-chance-warum-wir-leichte-sprache-brauchen/duden-front/,/wordpress/wp-content/uploads/2019/04/Duden-front.png,301,R4 Anhang,einzeln,20,E1=B,Anhangseite,bei E1=A übernimmt WordPress
+/2019/04/07/die-liebe-und-das-kleine-herz-geschichten-in-einfacher-sprache/kunst-der-einfachheit/,/wordpress/wp-content/uploads/2019/04/Kunst-der-Einfachheit.png,301,R4 Anhang,einzeln,20,E1=B,Anhangseite,bei E1=A übernimmt WordPress
+/2019/05/21/28-mai-buchvorstellung-hautfreundin-von-doris-anselm/000_cover-hautfreundin-urhebernennung-bitte-luchterhand-literaturverlag-1/,/wordpress/wp-content/uploads/2019/05/000_COVER-Hautfreundin-Urhebernennung-bitte-Luchterhand-Literaturverlag-1.jpg,301,R4 Anhang,einzeln,20,E1=B,Anhangseite,bei E1=A übernimmt WordPress
+/2019/05/21/28-mai-buchvorstellung-hautfreundin-von-doris-anselm/000_cover-hautfreundin-urhebernennung-bitte-luchterhand-literaturverlag/,/wordpress/wp-content/uploads/2019/05/000_COVER-Hautfreundin-Urhebernennung-bitte-Luchterhand-Literaturverlag.jpg,301,R4 Anhang,einzeln,20,E1=B,Anhangseite,bei E1=A übernimmt WordPress
+/2019/05/21/28-mai-buchvorstellung-hautfreundin-von-doris-anselm/000_doris-anselm_163018_bitte-urhebernennung-heike-bogenberger-autorenfotos-com_-1/,/wordpress/wp-content/uploads/2019/05/000_Doris-Anselm_163018_bitte-Urhebernennung-Heike-Bogenberger-autorenfotos.com_-1.jpg,301,R4 Anhang,einzeln,20,E1=B,Anhangseite,bei E1=A übernimmt WordPress
+/2019/05/21/28-mai-buchvorstellung-hautfreundin-von-doris-anselm/000_doris-anselm_163018_bitte-urhebernennung-heike-bogenberger-autorenfotos-com_-2/,/wordpress/wp-content/uploads/2019/05/000_Doris-Anselm_163018_bitte-Urhebernennung-Heike-Bogenberger-autorenfotos.com_-2.jpg,301,R4 Anhang,einzeln,20,E1=B,Anhangseite,bei E1=A übernimmt WordPress
+/2019/05/21/28-mai-buchvorstellung-hautfreundin-von-doris-anselm/000_doris-anselm_163018_bitte-urhebernennung-heike-bogenberger-autorenfotos-com_-3/,/wordpress/wp-content/uploads/2019/05/000_Doris-Anselm_163018_bitte-Urhebernennung-Heike-Bogenberger-autorenfotos.com_-3.jpg,301,R4 Anhang,einzeln,20,E1=B,Anhangseite,bei E1=A übernimmt WordPress
+/2019/05/21/28-mai-buchvorstellung-hautfreundin-von-doris-anselm/000_doris-anselm_163018_bitte-urhebernennung-heike-bogenberger-autorenfotos-com_/,/wordpress/wp-content/uploads/2019/05/000_Doris-Anselm_163018_bitte-Urhebernennung-Heike-Bogenberger-autorenfotos.com_.jpg,301,R4 Anhang,einzeln,20,E1=B,Anhangseite,bei E1=A übernimmt WordPress
+/2019/05/29/bea-kemer-buchvorstellung-wuenschen-sollen-moeglichkeiten/sollen-wuenschen-moeglichkeiten-cover-1/,/wordpress/wp-content/uploads/2019/05/Sollen-Wünschen-Möglichkeiten-Cover-1.jpg,301,R4 Anhang,einzeln,20,E1=B,Anhangseite,bei E1=A übernimmt WordPress
+/2019/10/27/makellose-maenner-anthologie/makellose-kl/,/wordpress/wp-content/uploads/2019/10/makellose-kl.jpg,301,R4 Anhang,einzeln,20,E1=B,Anhangseite,bei E1=A übernimmt WordPress
+/2019/12/01/slavica-klimkowsky-das-maedchen-und-der-pfau-und-pavo-cristatus-und-die-frau-in-der-anthologie-fremd-jede-geschichte-hat-zwei-seiten/coverfremd-indd/,/wordpress/wp-content/uploads/2019/12/titel.jpeg,301,R4 Anhang,einzeln,20,E1=B,Anhangseite,bei E1=A übernimmt WordPress
+/2019/12/09/slavica-klimkowsky-1-platz-fuer-den-kurzkrimi-ein-herz-fuer-rosen-in-der-wortrandale-anthologie-wenn-im-norden-das-licht-schmilzt/wortrandale/,/wordpress/wp-content/uploads/2019/12/Wortrandale.jpg,301,R4 Anhang,einzeln,20,E1=B,Anhangseite,bei E1=A übernimmt WordPress
+/2020/02/23/slavica-klimkowsky-thetis-machtlos-in-entfuehrung-in-die-antike-neue-geschichten-um-griechische-mythen/antike-cover_-1-1/,/wordpress/wp-content/uploads/2020/02/Antike.Cover_.1.-1.jpg,301,R4 Anhang,einzeln,20,E1=B,Anhangseite,bei E1=A übernimmt WordPress
+/2020/02/23/slavica-klimkowsky-thetis-machtlos-in-entfuehrung-in-die-antike-neue-geschichten-um-griechische-mythen/antike-cover_-1/,/wordpress/wp-content/uploads/2020/02/Antike.Cover_.1..jpg,301,R4 Anhang,einzeln,20,E1=B,Anhangseite,bei E1=A übernimmt WordPress
+/2020/03/09/unterholz-zwei-jahre-im-wald/unterholz-cover-1/,/wordpress/wp-content/uploads/2020/03/Unterholz-cover-1.png,301,R4 Anhang,einzeln,20,E1=B,Anhangseite,bei E1=A übernimmt WordPress
+/2020/03/09/unterholz-zwei-jahre-im-wald/unterholz-cover/,/wordpress/wp-content/uploads/2020/03/Unterholz-cover.png,301,R4 Anhang,einzeln,20,E1=B,Anhangseite,bei E1=A übernimmt WordPress
+/2020/04/20/buchveroeffentlichung-anne-mueller-zwei-wochen-im-juni/mu%cc%88ller-anne_30384_hon-frei-cantonina-gern/,/wordpress/wp-content/uploads/2020/04/Müller-Anne_30384_hon.frei-cAntonina-Gern.jpeg,301,R4 Anhang,einzeln,20,E1=B,Anhangseite,bei E1=A übernimmt WordPress
+/2020/04/20/buchveroeffentlichung-anne-mueller-zwei-wochen-im-juni/mueller-zwei-wochen-im-juni_300dpi/,/wordpress/wp-content/uploads/2020/04/Müller-Zwei-Wochen-im-Juni_300dpi.jpg,301,R4 Anhang,einzeln,20,E1=B,Anhangseite,bei E1=A übernimmt WordPress
+/2020/05/20/zeichnungen-von-florian-schneider-im-urlaubslesebuch-2020/cover_urlaubslesebuch/,/wordpress/wp-content/uploads/2020/05/Cover_Urlaubslesebuch.jpg,301,R4 Anhang,einzeln,20,E1=B,Anhangseite,bei E1=A übernimmt WordPress
+/2021/02/12/eine-neuerscheinung-unseres-mitglieds-susanne-kliem-kristina-hauff-unter-wasser-nacht/unter-wasser-nacht/,/wordpress/wp-content/uploads/2021/02/Unter-Wasser-Nacht.jpg,301,R4 Anhang,einzeln,20,E1=B,Anhangseite,bei E1=A übernimmt WordPress
+/2021/04/29/peter-blickle-andershimmel/blickle_andershimmel-cover-111120/,/wordpress/wp-content/uploads/2021/04/Blickle_Andershimmel-COVER-111120.jpg,301,R4 Anhang,einzeln,20,E1=B,Anhangseite,bei E1=A übernimmt WordPress
+/2021/06/11/diktatoren-von-florian-schneider-im-urlaubslesebuch-2021/florian-6-21/,/wordpress/wp-content/uploads/2021/06/Florian-6.21.jpg,301,R4 Anhang,einzeln,20,E1=B,Anhangseite,bei E1=A übernimmt WordPress
+/2021/07/01/hasenherz-und-loewenmut-geschichten-in-einfacher-sprache/csm_600x848px_hasenherz-und-loewenmut_bef1102432-002/,/wordpress/wp-content/uploads/2021/07/csm_600x848px_Hasenherz-und-Loewenmut_bef1102432-002.jpg,301,R4 Anhang,einzeln,20,E1=B,Anhangseite,bei E1=A übernimmt WordPress
+/2021/08/05/alexandra-luethen-paradiesfedern/paradiesfedern_9783945653302_-002/,/wordpress/wp-content/uploads/2021/08/paradiesfedern_9783945653302_-002.jpg,301,R4 Anhang,einzeln,20,E1=B,Anhangseite,bei E1=A übernimmt WordPress
+/2021/09/22/wolfgang-rill-ein-besenstiel-und-seine-rolle-beim-atemholen/rill/,/wordpress/wp-content/uploads/2021/09/Rill.png,301,R4 Anhang,einzeln,20,E1=B,Anhangseite,bei E1=A übernimmt WordPress
+/2021/09/29/alexandra-luethen-erhaelt-barnimer-literaturpreis-2021-fuer-kinder-und-jugendliteratur/csm_literaturpreis-3_df2b33dc8b/,/wordpress/wp-content/uploads/2021/09/csm_Literaturpreis-3_df2b33dc8b.jpg,301,R4 Anhang,einzeln,20,E1=B,Anhangseite,bei E1=A übernimmt WordPress
+/2021/10/20/preisverleihung-von-aurum-preis-des-autorenforum-2021/alle2-002/,/wordpress/wp-content/uploads/2021/10/Alle2-002.jpg,301,R4 Anhang,einzeln,20,E1=B,Anhangseite,bei E1=A übernimmt WordPress
+/2021/10/20/preisverleihung-von-aurum-preis-des-autorenforum-2021/finalisten-5-002-1/,/wordpress/wp-content/uploads/2021/10/Finalisten-5-002-1.jpg,301,R4 Anhang,einzeln,20,E1=B,Anhangseite,bei E1=A übernimmt WordPress
+/2021/10/20/preisverleihung-von-aurum-preis-des-autorenforum-2021/finalisten-5-002/,/wordpress/wp-content/uploads/2021/10/Finalisten-5-002.jpg,301,R4 Anhang,einzeln,20,E1=B,Anhangseite,bei E1=A übernimmt WordPress
+/2022/03/14/neuerscheinung-das-lied-des-himmels-und-der-meere-von-anne-mueller/9783328601920-3/,/wordpress/wp-content/uploads/2022/03/9783328601920-3.jpg,301,R4 Anhang,einzeln,20,E1=B,Anhangseite,bei E1=A übernimmt WordPress
+/2022/03/14/neuerscheinung-das-lied-des-himmels-und-der-meere-von-anne-mueller/anne-mueller-2/,/wordpress/wp-content/uploads/2022/03/Anne-Mueller.jpg,301,R4 Anhang,einzeln,20,E1=B,Anhangseite,bei E1=A übernimmt WordPress
+/2022/03/18/neuerscheinung-membranen-von-bea-kemer/kemer_membranen/,/wordpress/wp-content/uploads/2022/03/kemer_membranen.jpg,301,R4 Anhang,einzeln,20,E1=B,Anhangseite,bei E1=A übernimmt WordPress
+/2022/05/22/rubikon-kurzgeschichte-von-florian-schneider-im-urlaubslesebuch-2022/cover_urlaubslesebuch_2022/,/wordpress/wp-content/uploads/2022/05/Cover_Urlaubslesebuch_2022.jpg,301,R4 Anhang,einzeln,20,E1=B,Anhangseite,bei E1=A übernimmt WordPress
+/2022/08/25/neuerscheinung-ela-von-alexandra-luethen-mary-delaney/ela_cover_web-700x988-1/,/wordpress/wp-content/uploads/2022/08/Ela_Cover_Web-700x988-1.jpg,301,R4 Anhang,einzeln,20,E1=B,Anhangseite,bei E1=A übernimmt WordPress
+/2022/11/01/neuerscheinung-polarstation-von-florian-schneider/cover_polarstation_erzaehlungen_florian_schneider_2022-web-002-1/,/wordpress/wp-content/uploads/2022/11/Cover_Polarstation_Erzaehlungen_Florian_Schneider_2022-web-002-1.jpg,301,R4 Anhang,einzeln,20,E1=B,Anhangseite,bei E1=A übernimmt WordPress
+/2023/02/12/neuerscheinung-hugo-und-die-legende-von-burg-drachenhuegel-von-max-kaplan-und-lev-kaplan/544-7_cover_hugo-und-die-legende-von-burg-drachenhuegel_2d_final_yduatm/,/wordpress/wp-content/uploads/2023/02/544-7_cover_hugo-und-die-legende-von-burg-drachenhuegel_2d_final_yduatm.jpg,301,R4 Anhang,einzeln,20,E1=B,Anhangseite,bei E1=A übernimmt WordPress
+/2023/02/14/doris-wiesenbach-leinwand-ohne-gesicht/leinwand-ohne-gesicht-002/,/wordpress/wp-content/uploads/2023/02/Leinwand-ohne-Gesicht-002-scaled.jpg,301,R4 Anhang,einzeln,20,E1=B,Anhangseite,bei E1=A übernimmt WordPress
+/2023/02/18/neuerscheinung-in-blaukalter-tiefe-von-kristina-hauff/k-hauff-in-blaukalter-tiefe/,/wordpress/wp-content/uploads/2023/02/K.-Hauff-in-blaukalter-Tiefe.jpg,301,R4 Anhang,einzeln,20,E1=B,Anhangseite,bei E1=A übernimmt WordPress
+/2023/04/07/neuerscheinung-wer-braucht-schon-wunder-von-anne-mueller/cover/,/wordpress/wp-content/uploads/2023/04/cover.jpg,301,R4 Anhang,einzeln,20,E1=B,Anhangseite,bei E1=A übernimmt WordPress
+/2023/04/07/neuerscheinung-wer-braucht-schon-wunder-von-anne-mueller/foto_anne-mueller_honorarfrei_-antonina-gern_300dpi_web/,/wordpress/wp-content/uploads/2023/03/Foto_Anne-Mueller_honorarfrei_©-Antonina-Gern_300dpi_web.jpg,301,R4 Anhang,einzeln,20,E1=B,Anhangseite,bei E1=A übernimmt WordPress
+/2023/05/29/reliquien-von-florian-schneider-im-dtv-urlaubs-lesebuch/dtv_urlaub_produktcover-web-klein-002/,/wordpress/wp-content/uploads/2023/05/dtv_Urlaub_Produktcover-Web-klein-002.jpg,301,R4 Anhang,einzeln,20,E1=B,Anhangseite,bei E1=A übernimmt WordPress
+/2023/12/07/dominik-jaekel-erhaelt-den-ersten-preis-beim-a-e-johann-literaturwettbewerb/dominik-jaekel/,/wordpress/wp-content/uploads/2023/12/Dominik-Jaekel.jpg,301,R4 Anhang,einzeln,20,E1=B,Anhangseite,bei E1=A übernimmt WordPress
+/2024/03/21/achmed-und-almira-roman-von-wolfgang-rill/rill-ahmed-und-almira/,/wordpress/wp-content/uploads/2024/03/Rill-Ahmed-und-Almira.jpg,301,R4 Anhang,einzeln,20,E1=B,Anhangseite,bei E1=A übernimmt WordPress
+/2024/03/21/alexandra-luethen-lieben-schreiben-leben/titel-schreiben-lieben/,/wordpress/wp-content/uploads/2024/03/titel-schreiben-lieben-scaled.jpg,301,R4 Anhang,einzeln,20,E1=B,Anhangseite,bei E1=A übernimmt WordPress
+/2024/03/21/holzauge-roman-von-wolfgang-rill/rill-holzauge/,/wordpress/wp-content/uploads/2024/03/Rill-Holzauge.jpg,301,R4 Anhang,einzeln,20,E1=B,Anhangseite,bei E1=A übernimmt WordPress
+/2024/03/21/neuerscheinung-bea-kemer-fast-immer-ein-weiter/kemer-fast-immer-ein-weiter-1/,/wordpress/wp-content/uploads/2024/03/Kemer-Fast-immer-ein-Weiter-1.jpg,301,R4 Anhang,einzeln,20,E1=B,Anhangseite,bei E1=A übernimmt WordPress
+/2024/04/10/neuerscheinung-peter-blickle-die-erbschaft/au_peter-blickle_c_michel-afflerbach/,/wordpress/wp-content/uploads/2024/04/AU_Peter-Blickle_c_Michel-Afflerbach.jpg,301,R4 Anhang,einzeln,20,E1=B,Anhangseite,bei E1=A übernimmt WordPress
+/2024/04/10/neuerscheinung-peter-blickle-die-erbschaft/cov_blickle_die-erbschaft/,/wordpress/wp-content/uploads/2024/04/COV_Blickle_Die-Erbschaft.jpg,301,R4 Anhang,einzeln,20,E1=B,Anhangseite,bei E1=A übernimmt WordPress
+/2024/06/16/die-raupe-erzaehlung-von-florian-schneider-im-dtv-urlaubslesebuch-2024/urlaubslesebuch-2024/,/wordpress/wp-content/uploads/2024/06/Urlaubslesebuch-2024.jpg,301,R4 Anhang,einzeln,20,E1=B,Anhangseite,bei E1=A übernimmt WordPress
+/2024/06/16/neuerscheinung-mittendrin-ent-oder-weder-von-manfred-o-eisner/us_ui_mittendrin/,/wordpress/wp-content/uploads/2024/06/US_UI_mittendrin.jpg,301,R4 Anhang,einzeln,20,E1=B,Anhangseite,bei E1=A übernimmt WordPress
+/2024/07/01/neuerscheinung-miki-goldberg-disteln-kuessen/img_1809/,/wordpress/wp-content/uploads/2024/07/IMG_1809.jpg,301,R4 Anhang,einzeln,20,E1=B,Anhangseite,bei E1=A übernimmt WordPress
+/2024/11/12/neuauflage-mit-hoerbuch-leinwand-ohne-gesicht-von-doris-wiesenbach/leinwand-ohne-gesicht-002-2/,/wordpress/wp-content/uploads/2024/11/Leinwand-ohne-Gesicht-002.jpg,301,R4 Anhang,einzeln,20,E1=B,Anhangseite,bei E1=A übernimmt WordPress
+/2025/03/05/neuerscheinung-doris-wiesenbach-das-pure-leben-28-storys/pures_leben-coverfront/,/wordpress/wp-content/uploads/2025/03/Pures_Leben.CoverFront.jpg,301,R4 Anhang,einzeln,20,E1=B,Anhangseite,bei E1=A übernimmt WordPress
+/2025/06/16/neuerscheinung-christiane-carstens-moin-seekind/moin-seekind-cover-3jpg/,/wordpress/wp-content/uploads/2025/06/Moin-Seekind-Cover.-3jpg.jpg,301,R4 Anhang,einzeln,20,E1=B,Anhangseite,bei E1=A übernimmt WordPress
+/2025/06/25/neuerscheinung-alexandra-luethen-nu-york-nu-jork/alexandra-luthen-1/,/wordpress/wp-content/uploads/2025/06/alexandra-luthen-1.jpg,301,R4 Anhang,einzeln,20,E1=B,Anhangseite,bei E1=A übernimmt WordPress
+/2025/06/25/neuerscheinung-alexandra-luethen-nu-york-nu-jork/alexandra-luthen/,/wordpress/wp-content/uploads/2025/06/alexandra-luthen.jpg,301,R4 Anhang,einzeln,20,E1=B,Anhangseite,bei E1=A übernimmt WordPress
+/2025/06/25/neuerscheinung-alexandra-luethen-nu-york-nu-jork/nujork-titelseite/,/wordpress/wp-content/uploads/2025/06/NuJork-Titelseite-scaled.jpg,301,R4 Anhang,einzeln,20,E1=B,Anhangseite,bei E1=A übernimmt WordPress
+/2025/07/21/neuerscheinung-kristina-hauff-schattengruenes-tal/kristina-hauff/,/wordpress/wp-content/uploads/2025/07/Kristina-Hauff.jpg,301,R4 Anhang,einzeln,20,E1=B,Anhangseite,bei E1=A übernimmt WordPress
+/2025/10/21/neuerscheinung-hubert-a-walter-festmachen-weit-hinter-dem-horizont/festmachen-weit-hinter-dem-horizont-gebundene-ausgabe-hubert-a-walter/,/wordpress/wp-content/uploads/2025/10/festmachen-weit-hinter-dem-horizont-gebundene-ausgabe-hubert-a-walter.webp,301,R4 Anhang,einzeln,20,E1=B,Anhangseite,bei E1=A übernimmt WordPress
+/2025/10/21/neuerscheinung-hubert-a-walter-festmachen-weit-hinter-dem-horizont/foto-christa-tschink/,/wordpress/wp-content/uploads/2025/10/Foto-Christa-Tschink-scaled.jpg,301,R4 Anhang,einzeln,20,E1=B,Anhangseite,bei E1=A übernimmt WordPress
+/2025/10/29/neuerscheinung-monika-heintze-alles-muss-versteckt-sein/heintze-monika/,/wordpress/wp-content/uploads/2025/10/Heintze-Monika.jpeg,301,R4 Anhang,einzeln,20,E1=B,Anhangseite,bei E1=A übernimmt WordPress
+/2025/10/29/neuerscheinung-monika-heintze-alles-muss-versteckt-sein/img_8798/,/wordpress/wp-content/uploads/2025/10/IMG_8798.jpeg,301,R4 Anhang,einzeln,20,E1=B,Anhangseite,bei E1=A übernimmt WordPress
+/2026/03/03/neuerscheinung-bea-kemer-ueberwuensche/ueberwuensche/,/wordpress/wp-content/uploads/2026/03/UeberWuensche.jpg,301,R4 Anhang,einzeln,20,E1=B,Anhangseite,bei E1=A übernimmt WordPress
+/2026/04/07/neuerscheinung-rainer-schildberger-die-tote-von-clare-island/die-tote-von-clare-island-cover/,/wordpress/wp-content/uploads/2026/04/Die-Tote-von-Clare-Island-Cover-scaled.jpg,301,R4 Anhang,einzeln,20,E1=B,Anhangseite,bei E1=A übernimmt WordPress
+/2026/05/11/neuerscheinung-monika-heintze-erstmal-paris/8ff6f1_3507619e0e924d0fad43d7b873c8d532mv2/,/wordpress/wp-content/uploads/2026/05/8ff6f1_3507619e0e924d0fad43d7b873c8d532mv2.jpg,301,R4 Anhang,einzeln,20,E1=B,Anhangseite,bei E1=A übernimmt WordPress
+/geschichte/villavonrechtsnah/,/wordpress/wp-content/uploads/2015/12/villavonrechtsnah.jpg,301,R4 Anhang,einzeln,20,,Anhangseite,Elternseite fällt weg
+/organisation/228787_131204253623027_5692121_n1-2/,/wordpress/wp-content/uploads/2019/02/228787_131204253623027_5692121_n1-1.jpg,301,R4 Anhang,einzeln,20,,Anhangseite,Elternseite fällt weg
+/organisation/228787_131204253623027_5692121_n1/,/wordpress/wp-content/uploads/2019/02/228787_131204253623027_5692121_n1.jpg,301,R4 Anhang,einzeln,20,,Anhangseite,Elternseite fällt weg
+/organisation/bea-kemer-neu-klein/,/wordpress/wp-content/uploads/2015/12/Bea-Kemer-neu-klein.jpg,301,R4 Anhang,einzeln,20,,Anhangseite,Elternseite fällt weg
+/organisation/beckmann/,/wordpress/wp-content/uploads/2015/12/beckmann-e1588022091945.jpg,301,R4 Anhang,einzeln,20,,Anhangseite,Elternseite fällt weg
+/organisation/dsc_0059/,/wordpress/wp-content/uploads/2019/02/DSC_0059.jpeg,301,R4 Anhang,einzeln,20,,Anhangseite,Elternseite fällt weg
+/organisation/fptbty/,/wordpress/wp-content/uploads/2023/06/IMG_20230619_175207.jpg,301,R4 Anhang,einzeln,20,,Anhangseite,Elternseite fällt weg
+/organisation/illigner/,/wordpress/wp-content/uploads/2016/01/Illigner.jpg,301,R4 Anhang,einzeln,20,,Anhangseite,Elternseite fällt weg
+/organisation/img_3523-002/,/wordpress/wp-content/uploads/2025/01/IMG_3523-002-scaled.jpg,301,R4 Anhang,einzeln,20,,Anhangseite,Elternseite fällt weg
+/organisation/portraet-3-sw-1/,/wordpress/wp-content/uploads/2023/06/Portraet-3-SW-1.jpg,301,R4 Anhang,einzeln,20,,Anhangseite,Elternseite fällt weg
+/organisation/portraet-3-sw/,/wordpress/wp-content/uploads/2023/06/Portraet-3-SW.jpg,301,R4 Anhang,einzeln,20,,Anhangseite,Elternseite fällt weg
+/organisation/s-truninger/,/wordpress/wp-content/uploads/2025/01/S-Truninger-scaled.jpg,301,R4 Anhang,einzeln,20,,Anhangseite,Elternseite fällt weg
+/organisation/slavica/,/wordpress/wp-content/uploads/2015/12/Slavica.jpg,301,R4 Anhang,einzeln,20,,Anhangseite,Elternseite fällt weg
+/organisation/sollen-foto-bea-lange-kante-10-cm-003-1/,/wordpress/wp-content/uploads/2023/06/Sollen-Foto-Bea-lange-kante-10-cm-003-1.jpg,301,R4 Anhang,einzeln,20,,Anhangseite,Elternseite fällt weg
+/organisation/sollen-foto-bea-lange-kante-10-cm-003/,/wordpress/wp-content/uploads/2023/06/Sollen-Foto-Bea-lange-kante-10-cm-003.jpg,301,R4 Anhang,einzeln,20,,Anhangseite,Elternseite fällt weg
+/wettbewerb-2012/armin-wuehle/,/wordpress/wp-content/uploads/2016/01/Armin-Wuehle.jpg,301,R4 Anhang,einzeln,20,,Anhangseite,Elternseite fällt weg
+/wettbewerb-2012/erika-balke/,/wordpress/wp-content/uploads/2016/01/Erika-Balke.jpg,301,R4 Anhang,einzeln,20,,Anhangseite,Elternseite fällt weg
+/wettbewerb-2012/georg-kampa/,/wordpress/wp-content/uploads/2016/01/Georg-Kampa.jpg,301,R4 Anhang,einzeln,20,,Anhangseite,Elternseite fällt weg
+/wettbewerb-2012/gruppenbild-wettbewerb-zwei/,/wordpress/wp-content/uploads/2016/01/Gruppenbild-Wettbewerb-Zwei.jpg,301,R4 Anhang,einzeln,20,,Anhangseite,Elternseite fällt weg
+/wettbewerb-2012/henry-kersting02/,/wordpress/wp-content/uploads/2016/01/Henry-Kersting02.jpg,301,R4 Anhang,einzeln,20,,Anhangseite,Elternseite fällt weg
+/wettbewerb-2012/jury-1/,/wordpress/wp-content/uploads/2016/01/Jury-1.jpg,301,R4 Anhang,einzeln,20,,Anhangseite,Elternseite fällt weg
+/wettbewerb-2012/maik-froemming-rosa-hase/,/wordpress/wp-content/uploads/2016/01/Maik-Froemming-Rosa-Hase.jpg,301,R4 Anhang,einzeln,20,,Anhangseite,Elternseite fällt weg
+/wettbewerb-2012/marion-leuther/,/wordpress/wp-content/uploads/2016/01/Marion-Leuther.jpg,301,R4 Anhang,einzeln,20,,Anhangseite,Elternseite fällt weg
+/wettbewerb-2012/publikum1/,/wordpress/wp-content/uploads/2016/01/Publikum1.jpg,301,R4 Anhang,einzeln,20,,Anhangseite,Elternseite fällt weg
+/wettbewerb-2012/stephanie-gessner-1/,/wordpress/wp-content/uploads/2016/01/Stephanie-Gessner-1.jpg,301,R4 Anhang,einzeln,20,,Anhangseite,Elternseite fällt weg
+/wettbewerb-2012/susanne-kliem1/,/wordpress/wp-content/uploads/2016/01/Susanne-Kliem1.jpg,301,R4 Anhang,einzeln,20,,Anhangseite,Elternseite fällt weg
+/wettbewerb-2012/susanne-mathies1/,/wordpress/wp-content/uploads/2016/01/Susanne-Mathies1.jpg,301,R4 Anhang,einzeln,20,,Anhangseite,Elternseite fällt weg
+/wettbewerb-2012/susanne-strnadl/,/wordpress/wp-content/uploads/2016/01/Susanne-Strnadl.jpg,301,R4 Anhang,einzeln,20,,Anhangseite,Elternseite fällt weg
+/wettbewerb-2012/zwei-cover-anthologie-klein/,/wordpress/wp-content/uploads/2016/01/ZWEI-Cover-Anthologie-klein.jpg,301,R4 Anhang,einzeln,20,,Anhangseite,Elternseite fällt weg
+/wettbewerb-2014/cover-30-jahre-anfang/,/wordpress/wp-content/uploads/2016/01/Cover-30-Jahre-Anfang.jpg,301,R4 Anhang,einzeln,20,,Anhangseite,Elternseite fällt weg
+/wettbewerb-2014/der-moderator-henry-kersting-50/,/wordpress/wp-content/uploads/2016/01/Der-Moderator-Henry-Kersting-50.jpg,301,R4 Anhang,einzeln,20,,Anhangseite,Elternseite fällt weg
+/wettbewerb-2014/image00150/,/wordpress/wp-content/uploads/2016/01/image00150.jpg,301,R4 Anhang,einzeln,20,,Anhangseite,Elternseite fällt weg
+/wettbewerb-2014/image00250/,/wordpress/wp-content/uploads/2016/01/image00250.jpg,301,R4 Anhang,einzeln,20,,Anhangseite,Elternseite fällt weg
+/wettbewerb-2014/image00350/,/wordpress/wp-content/uploads/2016/01/image00350.jpg,301,R4 Anhang,einzeln,20,,Anhangseite,Elternseite fällt weg
+/wettbewerb-2014/image00450/,/wordpress/wp-content/uploads/2016/01/image00450.jpg,301,R4 Anhang,einzeln,20,,Anhangseite,Elternseite fällt weg
+/wettbewerb-2014/image00550/,/wordpress/wp-content/uploads/2016/01/image00550.jpg,301,R4 Anhang,einzeln,20,,Anhangseite,Elternseite fällt weg
+/wettbewerb-2014/image00650/,/wordpress/wp-content/uploads/2016/01/image00650.jpg,301,R4 Anhang,einzeln,20,,Anhangseite,Elternseite fällt weg
+/wettbewerb-2014/image00750/,/wordpress/wp-content/uploads/2016/01/image00750.jpg,301,R4 Anhang,einzeln,20,,Anhangseite,Elternseite fällt weg
+/wettbewerb-2014/image00850/,/wordpress/wp-content/uploads/2016/01/image00850.jpg,301,R4 Anhang,einzeln,20,,Anhangseite,Elternseite fällt weg
+/wettbewerb-2014/image00950/,/wordpress/wp-content/uploads/2016/01/image00950.jpg,301,R4 Anhang,einzeln,20,,Anhangseite,Elternseite fällt weg
+/wettbewerb-2015/cover-kuelschrank/,/wordpress/wp-content/uploads/2016/01/cover-kuelschrank.jpg,301,R4 Anhang,einzeln,20,,Anhangseite,Elternseite fällt weg
+/wettbewerb-2015/lesung-gruppewett-2015/,/wordpress/wp-content/uploads/2016/01/Lesung-GruppeWett-2015.jpg,301,R4 Anhang,einzeln,20,,Anhangseite,Elternseite fällt weg
+/wettbewerb-2015/luethen-2/,/wordpress/wp-content/uploads/2016/01/Luethen-1.jpg,301,R4 Anhang,einzeln,20,,Anhangseite,Elternseite fällt weg
+/wettbewerb-2019/wettbewerb-2019/image/,/wordpress/wp-content/uploads/2024/05/image.png,301,R4 Anhang,einzeln,20,,Anhangseite,Elternseite fällt weg
+/wettbewerb-2021/853c497f-736c-486d-98e9-8eb6c3e8f2f9-002/,/wordpress/wp-content/uploads/2024/05/853c497f-736c-486d-98e9-8eb6c3e8f2f9-002.jpg,301,R4 Anhang,einzeln,20,,Anhangseite,Elternseite fällt weg
+/wettbewerb-2024/dauerhaft-cover_1080-002/,/wordpress/wp-content/uploads/2024/08/DauerHaft-Cover_1080-002.jpg,301,R4 Anhang,einzeln,20,,Anhangseite,Elternseite fällt weg
+/wettbewerb-2024/dauerhaft3000/,/wordpress/wp-content/uploads/2024/10/DauerHaft3000-scaled.jpg,301,R4 Anhang,einzeln,20,,Anhangseite,Elternseite fällt weg
+/category/aktuelles/,/,301,R5 Archiv,einzeln,20,,Kategoriearchiv,
+/category/veroeffentlichungen_der_mitglieder/,/veroeffentlichungen/,301,R5 Archiv,einzeln,20,E2=Seite,Kategoriearchiv,
+/category/wettbewerb-2017/,/wettbewerbe/#wettbewerb-2017,301,R5 Archiv,einzeln,20,E5a=Wettbewerbsseite,Kategoriearchiv,
+/category/wettbewerb-2019/,/wettbewerbe/#wettbewerb-2019,301,R5 Archiv,einzeln,20,E5a=Wettbewerbsseite,Kategoriearchiv,
+/category/wettbewerb-2019/wettbewerb-2021/,/wettbewerbe/#wettbewerb-2021,301,R5 Archiv,einzeln,20,E5a=Wettbewerbsseite,Kategoriearchiv,
+/2016/01/03/jeden-montag-offener-leseabend/,/offener-leseabend/,301,R3 Beitrag,einzeln,25,,Beitrag,dünner Beitrag zum selben Thema; Inhalt geht in der Seite auf
+/2016/03/03/447/,/wolfgang-rill-gebaeck-fuer-das-volk-und-das-kind/,301,R3 Beitrag,einzeln,25,E1=B,Beitrag,Slug war nur eine Zahl (447); sprechender Slug vorgeschlagen; Ausnahme vor dem Muster
+/2017/03/01/657/,/doris-anselm-und-in-dem-moment-holt-meine-liebe/,301,R3 Beitrag,einzeln,25,E1=B,Beitrag,Slug war nur eine Zahl (657); sprechender Slug vorgeschlagen; Ausnahme vor dem Muster
+/2016/01/01/texte-typen-temperamente-25-jahre-autorenforum-berlin/,/texte-typen-temperamente-25-jahre-autorenforum-berlin/,301,R3 Beitrag,muster,30,E1=B,Beitrag,
+/2016/01/02/bea-kemer-starke-bande/,/bea-kemer-starke-bande/,301,R3 Beitrag,muster,30,E1=B,Beitrag,
+/2016/01/02/berlin-crime-dunkle-berlin-geschichten-broschiert/,/berlin-crime-dunkle-berlin-geschichten-broschiert/,301,R3 Beitrag,muster,30,E1=B,Beitrag,
+/2016/01/02/chrisjo-schroeder-texten-taeuschen-toeten/,/chrisjo-schroeder-texten-taeuschen-toeten/,301,R3 Beitrag,muster,30,E1=B,Beitrag,
+/2016/01/02/christoph-schroeder-traumgarten/,/christoph-schroeder-traumgarten/,301,R3 Beitrag,muster,30,E1=B,Beitrag,
+/2016/01/02/die_alte_dame/,/die_alte_dame/,301,R3 Beitrag,muster,30,E1=B,Beitrag,
+/2016/01/02/felicitas-hoppe-hoppe/,/felicitas-hoppe-hoppe/,301,R3 Beitrag,muster,30,E1=B,Beitrag,
+/2016/01/02/gerd-boerner-mitten-im-lachen/,/gerd-boerner-mitten-im-lachen/,301,R3 Beitrag,muster,30,E1=B,Beitrag,
+/2016/01/02/gerd-boerner-morgenkaffee/,/gerd-boerner-morgenkaffee/,301,R3 Beitrag,muster,30,E1=B,Beitrag,
+/2016/01/02/gerd-boerner-morning-glory/,/gerd-boerner-morning-glory/,301,R3 Beitrag,muster,30,E1=B,Beitrag,
+/2016/01/02/jedes-jahr-rast-schneller-vorbei-geschichtensammlung/,/jedes-jahr-rast-schneller-vorbei-geschichtensammlung/,301,R3 Beitrag,muster,30,E1=B,Beitrag,
+/2016/01/02/katrin-deibert-fannys-traum/,/katrin-deibert-fannys-traum/,301,R3 Beitrag,muster,30,E1=B,Beitrag,
+/2016/01/02/leben-am-ball-ein-literrarisches-dribbling-2006/,/leben-am-ball-ein-literrarisches-dribbling-2006/,301,R3 Beitrag,muster,30,E1=B,Beitrag,
+/2016/01/02/mitglieder-des-autorenforum-berlin-veroeffentlichen-in-der-anthologie-smartphone-krimis/,/mitglieder-des-autorenforum-berlin-veroeffentlichen-in-der-anthologie-smartphone-krimis/,301,R3 Beitrag,muster,30,E1=B,Beitrag,
+/2016/01/02/peter-blickle-die-grammatik-der-maenner/,/peter-blickle-die-grammatik-der-maenner/,301,R3 Beitrag,muster,30,E1=B,Beitrag,
+/2016/01/02/peter-blickle-von-einer-liebe-zur-anderen/,/peter-blickle-von-einer-liebe-zur-anderen/,301,R3 Beitrag,muster,30,E1=B,Beitrag,
+/2016/01/02/rainer-schildberger-ein-sonntag-zuviel-erzaehlungen/,/rainer-schildberger-ein-sonntag-zuviel-erzaehlungen/,301,R3 Beitrag,muster,30,E1=B,Beitrag,
+/2016/01/02/rainer-schildberger-honig-und-stachel/,/rainer-schildberger-honig-und-stachel/,301,R3 Beitrag,muster,30,E1=B,Beitrag,
+/2016/01/02/rainer-schildberger-hrsg-brandschatz-die-erfindung-einer-wahren-geschichte/,/rainer-schildberger-hrsg-brandschatz-die-erfindung-einer-wahren-geschichte/,301,R3 Beitrag,muster,30,E1=B,Beitrag,
+/2016/01/02/slavica-klimkowsky-alptraum/,/slavica-klimkowsky-alptraum/,301,R3 Beitrag,muster,30,E1=B,Beitrag,
+/2016/01/02/slavica-klimkowsky-tanz-in-der-sturmnacht/,/slavica-klimkowsky-tanz-in-der-sturmnacht/,301,R3 Beitrag,muster,30,E1=B,Beitrag,
+/2016/01/02/susanne-kliem-das-beweisstueck/,/susanne-kliem-das-beweisstueck/,301,R3 Beitrag,muster,30,E1=B,Beitrag,
+/2016/01/02/susanne-kliem-die-beschuetzerin/,/susanne-kliem-die-beschuetzerin/,301,R3 Beitrag,muster,30,E1=B,Beitrag,
+/2016/01/02/susanne-kliem-die-kalte-zeit-der-erste-deutsche-weihnachtsbaum-krimi/,/susanne-kliem-die-kalte-zeit-der-erste-deutsche-weihnachtsbaum-krimi/,301,R3 Beitrag,muster,30,E1=B,Beitrag,
+/2016/01/02/susanne-kliem-die-liebe-in-den-zeiten-der-praline-kurzkrimi/,/susanne-kliem-die-liebe-in-den-zeiten-der-praline-kurzkrimi/,301,R3 Beitrag,muster,30,E1=B,Beitrag,
+/2016/01/02/susanne-kliem-sekt-im-wasserglas/,/susanne-kliem-sekt-im-wasserglas/,301,R3 Beitrag,muster,30,E1=B,Beitrag,
+/2016/01/02/susanne-kliem-theaterblut-tatort-duesseldorf/,/susanne-kliem-theaterblut-tatort-duesseldorf/,301,R3 Beitrag,muster,30,E1=B,Beitrag,
+/2016/01/02/susanne-kliem-truegerische-naehe/,/susanne-kliem-truegerische-naehe/,301,R3 Beitrag,muster,30,E1=B,Beitrag,
+/2016/01/02/susanne-kliem-wohnen-im-gruenen/,/susanne-kliem-wohnen-im-gruenen/,301,R3 Beitrag,muster,30,E1=B,Beitrag,
+/2016/01/02/ulrich-woelk-was-liebe-ist/,/ulrich-woelk-was-liebe-ist/,301,R3 Beitrag,muster,30,E1=B,Beitrag,
+/2016/12/13/berlin-und-anderswo-eine-reise/,/berlin-und-anderswo-eine-reise/,301,R3 Beitrag,muster,30,E1=B,Beitrag,
+/2017/04/22/susanne-kliem-das-scherbenhaus/,/susanne-kliem-das-scherbenhaus/,301,R3 Beitrag,muster,30,E1=B,Beitrag,
+/2017/09/25/preistraeger-des-wettbewerbs-des-autorenforums-berlin-e-v/,/preistraeger-des-wettbewerbs-des-autorenforums-berlin-e-v/,301,R3 Beitrag,muster,30,E1=B,Beitrag,
+/2018/01/24/wolfgang-rill-alle-lieben-mr-john/,/wolfgang-rill-alle-lieben-mr-john/,301,R3 Beitrag,muster,30,E1=B,Beitrag,
+/2018/07/25/slavica-klimkowsky-und-alexandra-luethen-in-gerettet-geschichten-in-einfacher-sprache/,/slavica-klimkowsky-und-alexandra-luethen-in-gerettet-geschichten-in-einfacher-sprache/,301,R3 Beitrag,muster,30,E1=B,Beitrag,
+/2018/08/22/anne-mueller-sommer-in-super-8/,/anne-mueller-sommer-in-super-8/,301,R3 Beitrag,muster,30,E1=B,Beitrag,
+/2019/01/13/gerd-boerner-das-echo-der-kiefern/,/gerd-boerner-das-echo-der-kiefern/,301,R3 Beitrag,muster,30,E1=B,Beitrag,
+/2019/03/08/susanne-kliem-luegenmeer-13-03-premierenlesung/,/susanne-kliem-luegenmeer-13-03-premierenlesung/,301,R3 Beitrag,muster,30,E1=B,Beitrag,
+/2019/04/07/alexandra-luethen-allen-eine-chance-warum-wir-leichte-sprache-brauchen/,/alexandra-luethen-allen-eine-chance-warum-wir-leichte-sprache-brauchen/,301,R3 Beitrag,muster,30,E1=B,Beitrag,
+/2019/04/07/die-liebe-und-das-kleine-herz-geschichten-in-einfacher-sprache/,/die-liebe-und-das-kleine-herz-geschichten-in-einfacher-sprache/,301,R3 Beitrag,muster,30,E1=B,Beitrag,
+/2019/05/21/28-mai-buchvorstellung-hautfreundin-von-doris-anselm/,/28-mai-buchvorstellung-hautfreundin-von-doris-anselm/,301,R3 Beitrag,muster,30,E1=B,Beitrag,
+/2019/05/29/bea-kemer-buchvorstellung-wuenschen-sollen-moeglichkeiten/,/bea-kemer-buchvorstellung-wuenschen-sollen-moeglichkeiten/,301,R3 Beitrag,muster,30,E1=B,Beitrag,
+/2019/10/27/makellose-maenner-anthologie/,/makellose-maenner-anthologie/,301,R3 Beitrag,muster,30,E1=B,Beitrag,
+/2019/12/01/slavica-klimkowsky-das-maedchen-und-der-pfau-und-pavo-cristatus-und-die-frau-in-der-anthologie-fremd-jede-geschichte-hat-zwei-seiten/,/slavica-klimkowsky-das-maedchen-und-der-pfau-und-pavo-cristatus-und-die-frau-in-der-anthologie-fremd-jede-geschichte-hat-zwei-seiten/,301,R3 Beitrag,muster,30,E1=B,Beitrag,
+/2019/12/09/slavica-klimkowsky-1-platz-fuer-den-kurzkrimi-ein-herz-fuer-rosen-in-der-wortrandale-anthologie-wenn-im-norden-das-licht-schmilzt/,/slavica-klimkowsky-1-platz-fuer-den-kurzkrimi-ein-herz-fuer-rosen-in-der-wortrandale-anthologie-wenn-im-norden-das-licht-schmilzt/,301,R3 Beitrag,muster,30,E1=B,Beitrag,
+/2020/02/23/slavica-klimkowsky-thetis-machtlos-in-entfuehrung-in-die-antike-neue-geschichten-um-griechische-mythen/,/slavica-klimkowsky-thetis-machtlos-in-entfuehrung-in-die-antike-neue-geschichten-um-griechische-mythen/,301,R3 Beitrag,muster,30,E1=B,Beitrag,
+/2020/03/09/unterholz-zwei-jahre-im-wald/,/unterholz-zwei-jahre-im-wald/,301,R3 Beitrag,muster,30,E1=B,Beitrag,
+/2020/04/20/buchveroeffentlichung-anne-mueller-zwei-wochen-im-juni/,/buchveroeffentlichung-anne-mueller-zwei-wochen-im-juni/,301,R3 Beitrag,muster,30,E1=B,Beitrag,
+/2020/05/20/zeichnungen-von-florian-schneider-im-urlaubslesebuch-2020/,/zeichnungen-von-florian-schneider-im-urlaubslesebuch-2020/,301,R3 Beitrag,muster,30,E1=B,Beitrag,
+/2021/02/12/eine-neuerscheinung-unseres-mitglieds-susanne-kliem-kristina-hauff-unter-wasser-nacht/,/eine-neuerscheinung-unseres-mitglieds-susanne-kliem-kristina-hauff-unter-wasser-nacht/,301,R3 Beitrag,muster,30,E1=B,Beitrag,
+/2021/03/04/1-preis-fuer-hasenherz-und-loewenmut-von-alexandra-luethen/,/1-preis-fuer-hasenherz-und-loewenmut-von-alexandra-luethen/,301,R3 Beitrag,muster,30,E1=B,Beitrag,
+/2021/04/29/peter-blickle-andershimmel/,/peter-blickle-andershimmel/,301,R3 Beitrag,muster,30,E1=B,Beitrag,
+/2021/06/07/aurum-die-gewinner-des-wettbewerbs-stehen-fest/,/aurum-die-gewinner-des-wettbewerbs-stehen-fest/,301,R3 Beitrag,muster,30,E1=B,Beitrag,
+/2021/06/11/diktatoren-von-florian-schneider-im-urlaubslesebuch-2021/,/diktatoren-von-florian-schneider-im-urlaubslesebuch-2021/,301,R3 Beitrag,muster,30,E1=B,Beitrag,
+/2021/07/01/hasenherz-und-loewenmut-geschichten-in-einfacher-sprache/,/hasenherz-und-loewenmut-geschichten-in-einfacher-sprache/,301,R3 Beitrag,muster,30,E1=B,Beitrag,
+/2021/08/05/alexandra-luethen-paradiesfedern/,/alexandra-luethen-paradiesfedern/,301,R3 Beitrag,muster,30,E1=B,Beitrag,
+/2021/09/22/wolfgang-rill-ein-besenstiel-und-seine-rolle-beim-atemholen/,/wolfgang-rill-ein-besenstiel-und-seine-rolle-beim-atemholen/,301,R3 Beitrag,muster,30,E1=B,Beitrag,
+/2021/09/29/alexandra-luethen-erhaelt-barnimer-literaturpreis-2021-fuer-kinder-und-jugendliteratur/,/alexandra-luethen-erhaelt-barnimer-literaturpreis-2021-fuer-kinder-und-jugendliteratur/,301,R3 Beitrag,muster,30,E1=B,Beitrag,
+/2021/10/20/preisverleihung-von-aurum-preis-des-autorenforum-2021/,/preisverleihung-von-aurum-preis-des-autorenforum-2021/,301,R3 Beitrag,muster,30,E1=B,Beitrag,
+/2022/03/14/neuerscheinung-das-lied-des-himmels-und-der-meere-von-anne-mueller/,/neuerscheinung-das-lied-des-himmels-und-der-meere-von-anne-mueller/,301,R3 Beitrag,muster,30,E1=B,Beitrag,
+/2022/03/18/neuerscheinung-membranen-von-bea-kemer/,/neuerscheinung-membranen-von-bea-kemer/,301,R3 Beitrag,muster,30,E1=B,Beitrag,
+/2022/05/22/rubikon-kurzgeschichte-von-florian-schneider-im-urlaubslesebuch-2022/,/rubikon-kurzgeschichte-von-florian-schneider-im-urlaubslesebuch-2022/,301,R3 Beitrag,muster,30,E1=B,Beitrag,
+/2022/08/19/zweiter-platz-beim-literaturwettbewerb-die-kunst-der-einfachheit-fuer-alexandra-luethen/,/zweiter-platz-beim-literaturwettbewerb-die-kunst-der-einfachheit-fuer-alexandra-luethen/,301,R3 Beitrag,muster,30,E1=B,Beitrag,
+/2022/08/25/neuerscheinung-ela-von-alexandra-luethen-mary-delaney/,/neuerscheinung-ela-von-alexandra-luethen-mary-delaney/,301,R3 Beitrag,muster,30,E1=B,Beitrag,
+/2022/11/01/neuerscheinung-polarstation-von-florian-schneider/,/neuerscheinung-polarstation-von-florian-schneider/,301,R3 Beitrag,muster,30,E1=B,Beitrag,
+/2023/02/12/neuerscheinung-hugo-und-die-legende-von-burg-drachenhuegel-von-max-kaplan-und-lev-kaplan/,/neuerscheinung-hugo-und-die-legende-von-burg-drachenhuegel-von-max-kaplan-und-lev-kaplan/,301,R3 Beitrag,muster,30,E1=B,Beitrag,
+/2023/02/14/doris-wiesenbach-leinwand-ohne-gesicht/,/doris-wiesenbach-leinwand-ohne-gesicht/,301,R3 Beitrag,muster,30,E1=B,Beitrag,
+/2023/02/18/neuerscheinung-in-blaukalter-tiefe-von-kristina-hauff/,/neuerscheinung-in-blaukalter-tiefe-von-kristina-hauff/,301,R3 Beitrag,muster,30,E1=B,Beitrag,
+/2023/04/07/neuerscheinung-wer-braucht-schon-wunder-von-anne-mueller/,/neuerscheinung-wer-braucht-schon-wunder-von-anne-mueller/,301,R3 Beitrag,muster,30,E1=B,Beitrag,
+/2023/05/29/reliquien-von-florian-schneider-im-dtv-urlaubs-lesebuch/,/reliquien-von-florian-schneider-im-dtv-urlaubs-lesebuch/,301,R3 Beitrag,muster,30,E1=B,Beitrag,
+/2023/07/03/alexandra-luethen-erhaelt-publikumspreis-beim-capito-literaturwettbewerb/,/alexandra-luethen-erhaelt-publikumspreis-beim-capito-literaturwettbewerb/,301,R3 Beitrag,muster,30,E1=B,Beitrag,
+/2023/12/07/dominik-jaekel-erhaelt-den-ersten-preis-beim-a-e-johann-literaturwettbewerb/,/dominik-jaekel-erhaelt-den-ersten-preis-beim-a-e-johann-literaturwettbewerb/,301,R3 Beitrag,muster,30,E1=B,Beitrag,
+/2024/03/21/achmed-und-almira-roman-von-wolfgang-rill/,/achmed-und-almira-roman-von-wolfgang-rill/,301,R3 Beitrag,muster,30,E1=B,Beitrag,
+/2024/03/21/alexandra-luethen-lieben-schreiben-leben/,/alexandra-luethen-lieben-schreiben-leben/,301,R3 Beitrag,muster,30,E1=B,Beitrag,
+/2024/03/21/holzauge-roman-von-wolfgang-rill/,/holzauge-roman-von-wolfgang-rill/,301,R3 Beitrag,muster,30,E1=B,Beitrag,
+/2024/03/21/neuerscheinung-bea-kemer-fast-immer-ein-weiter/,/neuerscheinung-bea-kemer-fast-immer-ein-weiter/,301,R3 Beitrag,muster,30,E1=B,Beitrag,
+/2024/04/10/neuerscheinung-peter-blickle-die-erbschaft/,/neuerscheinung-peter-blickle-die-erbschaft/,301,R3 Beitrag,muster,30,E1=B,Beitrag,
+/2024/06/16/die-raupe-erzaehlung-von-florian-schneider-im-dtv-urlaubslesebuch-2024/,/die-raupe-erzaehlung-von-florian-schneider-im-dtv-urlaubslesebuch-2024/,301,R3 Beitrag,muster,30,E1=B,Beitrag,
+/2024/06/16/neuerscheinung-mittendrin-ent-oder-weder-von-manfred-o-eisner/,/neuerscheinung-mittendrin-ent-oder-weder-von-manfred-o-eisner/,301,R3 Beitrag,muster,30,E1=B,Beitrag,
+/2024/07/01/neuerscheinung-miki-goldberg-disteln-kuessen/,/neuerscheinung-miki-goldberg-disteln-kuessen/,301,R3 Beitrag,muster,30,E1=B,Beitrag,
+/2024/11/12/neuauflage-mit-hoerbuch-leinwand-ohne-gesicht-von-doris-wiesenbach/,/neuauflage-mit-hoerbuch-leinwand-ohne-gesicht-von-doris-wiesenbach/,301,R3 Beitrag,muster,30,E1=B,Beitrag,
+/2025/03/05/neuerscheinung-doris-wiesenbach-das-pure-leben-28-storys/,/neuerscheinung-doris-wiesenbach-das-pure-leben-28-storys/,301,R3 Beitrag,muster,30,E1=B,Beitrag,
+/2025/06/16/neuerscheinung-christiane-carstens-moin-seekind/,/neuerscheinung-christiane-carstens-moin-seekind/,301,R3 Beitrag,muster,30,E1=B,Beitrag,
+/2025/06/25/neuerscheinung-alexandra-luethen-nu-york-nu-jork/,/neuerscheinung-alexandra-luethen-nu-york-nu-jork/,301,R3 Beitrag,muster,30,E1=B,Beitrag,
+/2025/07/21/neuerscheinung-kristina-hauff-schattengruenes-tal/,/neuerscheinung-kristina-hauff-schattengruenes-tal/,301,R3 Beitrag,muster,30,E1=B,Beitrag,
+/2025/10/21/neuerscheinung-hubert-a-walter-festmachen-weit-hinter-dem-horizont/,/neuerscheinung-hubert-a-walter-festmachen-weit-hinter-dem-horizont/,301,R3 Beitrag,muster,30,E1=B,Beitrag,
+/2025/10/29/neuerscheinung-monika-heintze-alles-muss-versteckt-sein/,/neuerscheinung-monika-heintze-alles-muss-versteckt-sein/,301,R3 Beitrag,muster,30,E1=B,Beitrag,
+/2026/03/03/neuerscheinung-bea-kemer-ueberwuensche/,/neuerscheinung-bea-kemer-ueberwuensche/,301,R3 Beitrag,muster,30,E1=B,Beitrag,
+/2026/04/07/neuerscheinung-rainer-schildberger-die-tote-von-clare-island/,/neuerscheinung-rainer-schildberger-die-tote-von-clare-island/,301,R3 Beitrag,muster,30,E1=B,Beitrag,
+/2026/05/11/neuerscheinung-monika-heintze-erstmal-paris/,/neuerscheinung-monika-heintze-erstmal-paris/,301,R3 Beitrag,muster,30,E1=B,Beitrag,
+/<jjjj>/<mm>/<tt>/<titel>/,/<titel>/,301,R6 Muster,muster-definition,30,E1=B,Beitrag,nach den Ausnahmen der Reihenfolge 25
+/2021/06/07/aurum-die-gewinner-des-wettbewerbs-stehen-fest/feed/,/aurum-die-gewinner-des-wettbewerbs-stehen-fest/,301,R6 Muster,muster,31,E1=B,Beitrag (Unteradresse),Beispiel zum Testen des Musters
+/<jjjj>/<mm>/<tt>/<titel>/(feed|embed|trackback)/,/<titel>/,301,R6 Muster,muster-definition,31,E1=B,Beitrag (Unteradresse),
+/2016/01/,/veroeffentlichungen/,301,R5 Archiv,muster,40,E2=Seite,Datumsarchiv,
+/2016/01/page/2/,/veroeffentlichungen/,301,R5 Archiv,muster,40,E2=Seite,Datumsarchiv (Folgeseite),
+/2016/03/,/veroeffentlichungen/,301,R5 Archiv,muster,40,E2=Seite,Datumsarchiv,
+/2016/12/,/veroeffentlichungen/,301,R5 Archiv,muster,40,E2=Seite,Datumsarchiv,
+/2017/03/,/veroeffentlichungen/,301,R5 Archiv,muster,40,E2=Seite,Datumsarchiv,
+/2017/04/,/veroeffentlichungen/,301,R5 Archiv,muster,40,E2=Seite,Datumsarchiv,
+/2017/09/,/veroeffentlichungen/,301,R5 Archiv,muster,40,E2=Seite,Datumsarchiv,
+/2018/01/,/veroeffentlichungen/,301,R5 Archiv,muster,40,E2=Seite,Datumsarchiv,
+/2018/07/,/veroeffentlichungen/,301,R5 Archiv,muster,40,E2=Seite,Datumsarchiv,
+/2018/08/,/veroeffentlichungen/,301,R5 Archiv,muster,40,E2=Seite,Datumsarchiv,
+/2019/01/,/veroeffentlichungen/,301,R5 Archiv,muster,40,E2=Seite,Datumsarchiv,
+/2019/03/,/veroeffentlichungen/,301,R5 Archiv,muster,40,E2=Seite,Datumsarchiv,
+/2019/04/,/veroeffentlichungen/,301,R5 Archiv,muster,40,E2=Seite,Datumsarchiv,
+/2019/05/,/veroeffentlichungen/,301,R5 Archiv,muster,40,E2=Seite,Datumsarchiv,
+/2019/10/,/veroeffentlichungen/,301,R5 Archiv,muster,40,E2=Seite,Datumsarchiv,
+/2019/12/,/veroeffentlichungen/,301,R5 Archiv,muster,40,E2=Seite,Datumsarchiv,
+/2020/02/,/veroeffentlichungen/,301,R5 Archiv,muster,40,E2=Seite,Datumsarchiv,
+/2020/03/,/veroeffentlichungen/,301,R5 Archiv,muster,40,E2=Seite,Datumsarchiv,
+/2020/04/,/veroeffentlichungen/,301,R5 Archiv,muster,40,E2=Seite,Datumsarchiv,
+/2020/05/,/veroeffentlichungen/,301,R5 Archiv,muster,40,E2=Seite,Datumsarchiv,
+/2021/02/,/veroeffentlichungen/,301,R5 Archiv,muster,40,E2=Seite,Datumsarchiv,
+/2021/03/,/veroeffentlichungen/,301,R5 Archiv,muster,40,E2=Seite,Datumsarchiv,
+/2021/04/,/veroeffentlichungen/,301,R5 Archiv,muster,40,E2=Seite,Datumsarchiv,
+/2021/06/,/veroeffentlichungen/,301,R5 Archiv,muster,40,E2=Seite,Datumsarchiv,
+/2021/07/,/veroeffentlichungen/,301,R5 Archiv,muster,40,E2=Seite,Datumsarchiv,
+/2021/08/,/veroeffentlichungen/,301,R5 Archiv,muster,40,E2=Seite,Datumsarchiv,
+/2021/09/,/veroeffentlichungen/,301,R5 Archiv,muster,40,E2=Seite,Datumsarchiv,
+/2021/10/,/veroeffentlichungen/,301,R5 Archiv,muster,40,E2=Seite,Datumsarchiv,
+/2022/03/,/veroeffentlichungen/,301,R5 Archiv,muster,40,E2=Seite,Datumsarchiv,
+/2022/05/,/veroeffentlichungen/,301,R5 Archiv,muster,40,E2=Seite,Datumsarchiv,
+/2022/08/,/veroeffentlichungen/,301,R5 Archiv,muster,40,E2=Seite,Datumsarchiv,
+/2022/11/,/veroeffentlichungen/,301,R5 Archiv,muster,40,E2=Seite,Datumsarchiv,
+/2023/02/,/veroeffentlichungen/,301,R5 Archiv,muster,40,E2=Seite,Datumsarchiv,
+/2023/04/,/veroeffentlichungen/,301,R5 Archiv,muster,40,E2=Seite,Datumsarchiv,
+/2023/05/,/veroeffentlichungen/,301,R5 Archiv,muster,40,E2=Seite,Datumsarchiv,
+/2023/07/,/veroeffentlichungen/,301,R5 Archiv,muster,40,E2=Seite,Datumsarchiv,
+/2023/12/,/veroeffentlichungen/,301,R5 Archiv,muster,40,E2=Seite,Datumsarchiv,
+/2024/03/,/veroeffentlichungen/,301,R5 Archiv,muster,40,E2=Seite,Datumsarchiv,
+/2024/04/,/veroeffentlichungen/,301,R5 Archiv,muster,40,E2=Seite,Datumsarchiv,
+/2024/06/,/veroeffentlichungen/,301,R5 Archiv,muster,40,E2=Seite,Datumsarchiv,
+/2024/07/,/veroeffentlichungen/,301,R5 Archiv,muster,40,E2=Seite,Datumsarchiv,
+/2024/11/,/veroeffentlichungen/,301,R5 Archiv,muster,40,E2=Seite,Datumsarchiv,
+/2025/03/,/veroeffentlichungen/,301,R5 Archiv,muster,40,E2=Seite,Datumsarchiv,
+/2025/06/,/veroeffentlichungen/,301,R5 Archiv,muster,40,E2=Seite,Datumsarchiv,
+/2025/07/,/veroeffentlichungen/,301,R5 Archiv,muster,40,E2=Seite,Datumsarchiv,
+/2025/10/,/veroeffentlichungen/,301,R5 Archiv,muster,40,E2=Seite,Datumsarchiv,
+/2026/03/,/veroeffentlichungen/,301,R5 Archiv,muster,40,E2=Seite,Datumsarchiv,
+/2026/04/,/veroeffentlichungen/,301,R5 Archiv,muster,40,E2=Seite,Datumsarchiv,
+/2026/05/,/veroeffentlichungen/,301,R5 Archiv,muster,40,E2=Seite,Datumsarchiv,
+/2016/,/veroeffentlichungen/,301,R6 Muster,muster,40,E2=Seite,Datumsarchiv (Jahr),Beispiel zum Testen des Musters
+/2016/01/02/,/veroeffentlichungen/,301,R6 Muster,muster,40,E2=Seite,Datumsarchiv (Tag),Beispiel zum Testen des Musters
+/<jjjj>/[<mm>/[<tt>/]][page/<n>/],/veroeffentlichungen/,301,R6 Muster,muster-definition,40,E2=Seite,Datumsarchiv,nur ohne Query-String
+/2016/01/feed/,/feed/,301,R6 Muster,muster,41,,Feed,Beispiel zum Testen des Musters
+/<jjjj>/[<mm>/[<tt>/]]feed/,/feed/,301,R6 Muster,muster-definition,41,,Feed,
+/author/<name>/[page/<n>/],/veroeffentlichungen/,301,R6 Muster,muster-definition,42,E2=Seite,Autorenarchiv,nur ohne Query-String; Namen stehen nur in privat/
+/author/<name>/feed/,/feed/,301,R6 Muster,muster-definition,43,,Feed,
+/category/veroeffentlichungen_der_mitglieder/page/2/,/veroeffentlichungen/,301,R5 Archiv,muster,44,E2=Seite,Kategoriearchiv (Folgeseite),
+/category/veroeffentlichungen_der_mitglieder/page/3/,/veroeffentlichungen/,301,R5 Archiv,muster,44,E2=Seite,Kategoriearchiv (Folgeseite),
+/category/veroeffentlichungen_der_mitglieder/page/4/,/veroeffentlichungen/,301,R5 Archiv,muster,44,E2=Seite,Kategoriearchiv (Folgeseite),
+/category/veroeffentlichungen_der_mitglieder/page/5/,/veroeffentlichungen/,301,R5 Archiv,muster,44,E2=Seite,Kategoriearchiv (Folgeseite),
+/category/<kategorie>/page/<n>/,<Ziel der Kategorie>,301,R6 Muster,muster-definition,44,,Kategoriearchiv (Folgeseite),
+/category/<kategorie>/feed/,/feed/,301,R6 Muster,muster-definition,45,,Feed,
+/category/aktuelles/feed/,/feed/,301,R6 Muster,muster,45,,Feed,Beispiel zum Testen des Musters
+/page/2/,/veroeffentlichungen/,301,R6 Muster,muster,46,E2=Seite,Startseite (Folgeseite),Beispiel zum Testen des Musters
+/page/<n>/,/veroeffentlichungen/,301,R6 Muster,muster-definition,46,E2=Seite,Startseite (Folgeseite),"nur ohne Query-String, sonst bricht das Blättern in der Suche"
+/0f32d10a-8dfe-4fa9-9b41-6d36ce24bc0b/,/wordpress/wp-content/uploads/2022/12/0F32D10A-8DFE-4FA9-9B41-6D36CE24BC0B.jpeg,301,R4 Anhang,wordpress,90,,Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
+/18-buchnacht-2/,/wordpress/wp-content/uploads/2018/06/18.-Buchnacht.jpg,301,R4 Anhang,wordpress,90,,Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
+/18-buchnacht/,/wordpress/wp-content/uploads/2016/05/18.-Buchnacht.jpg,301,R4 Anhang,wordpress,90,,Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
+/2019-08-einfach-as_fin-1/,/wordpress/wp-content/uploads/2019/07/2019-08-Einfach-AS_fin-1.jpg,301,R4 Anhang,wordpress,90,,Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
+/2019-08-einfach-as_fin-2/,/wordpress/wp-content/uploads/2019/07/2019-08-Einfach-AS_fin-2.jpg,301,R4 Anhang,wordpress,90,,Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
+/2019-08-einfach-as_fin/,/wordpress/wp-content/uploads/2019/07/2019-08-Einfach-AS_fin.jpg,301,R4 Anhang,wordpress,90,,Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
+/2019-10-25-jubi-35-kl-1/,/wordpress/wp-content/uploads/2019/10/2019-10-25-Jubi-35-kl-1.jpg,301,R4 Anhang,wordpress,90,,Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
+/2019-10-25-jubi-35-kl/,/wordpress/wp-content/uploads/2019/10/2019-10-25-Jubi-35-kl.jpg,301,R4 Anhang,wordpress,90,,Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
+/2020-nick-01a-1/,/wordpress/wp-content/uploads/2020/12/2020-nick-01a-1.jpg,301,R4 Anhang,wordpress,90,,Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
+/2020-nick-01a/,/wordpress/wp-content/uploads/2020/12/2020-nick-01a.jpg,301,R4 Anhang,wordpress,90,,Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
+/20230221_ankuendigung_lesung_polarstion_florian_schneider/,/wordpress/wp-content/uploads/2023/02/20230221_Ankuendigung_Lesung_Polarstion_Florian_Schneider.jpeg,301,R4 Anhang,wordpress,90,,Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
+/27_unterholz-7-5-poster/,/wordpress/wp-content/uploads/2020/03/27_Unterholz-7-5-POSTER.jpg,301,R4 Anhang,wordpress,90,,Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
+/9783328601920-1/,/wordpress/wp-content/uploads/2022/03/9783328601920-1.jpg,301,R4 Anhang,wordpress,90,,Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
+/9783328601920-2/,/wordpress/wp-content/uploads/2022/03/9783328601920-2.jpg,301,R4 Anhang,wordpress,90,,Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
+/9783328601920-4/,/wordpress/wp-content/uploads/2022/03/9783328601920-4.jpg,301,R4 Anhang,wordpress,90,,Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
+/9783328601920-5/,/wordpress/wp-content/uploads/2022/03/9783328601920-5.jpg,301,R4 Anhang,wordpress,90,,Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
+/9783328601920-6/,/wordpress/wp-content/uploads/2022/03/9783328601920-6.jpg,301,R4 Anhang,wordpress,90,,Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
+/9783328601920/,/wordpress/wp-content/uploads/2022/03/9783328601920.jpg,301,R4 Anhang,wordpress,90,,Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
+/af-8-buchnacht/,/wordpress/wp-content/uploads/2016/05/AF-8.-Buchnacht.jpg,301,R4 Anhang,wordpress,90,,Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
+/af-ol-es-geht-weiter/,/wordpress/wp-content/uploads/2023/11/AF-oL-es-geht-weiter.jpg,301,R4 Anhang,wordpress,90,,Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
+/anne-blum-hasen/,/wordpress/wp-content/uploads/2016/09/Anne-Blum-Hasen.jpg,301,R4 Anhang,wordpress,90,,Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
+/anne-mueller-1/,/wordpress/wp-content/uploads/2022/03/Anne-Mueller-1.jpg,301,R4 Anhang,wordpress,90,,Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
+/anne-mueller/,/wordpress/wp-content/uploads/2020/07/Anne-Müller.jpg,301,R4 Anhang,wordpress,90,,Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
+/anne_blum_autorin/,/wordpress/wp-content/uploads/2016/09/Anne_Blum_Autorin.pdf,301,R4 Anhang,wordpress,90,,Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
+/antike-cover_-1-2/,/wordpress/wp-content/uploads/2020/02/Antike.Cover_.1.-2.jpg,301,R4 Anhang,wordpress,90,,Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
+/antike-cover_-1-3/,/wordpress/wp-content/uploads/2020/02/Antike.Cover_.1.-3.jpg,301,R4 Anhang,wordpress,90,,Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
+/autfor-plak-a3/,/wordpress/wp-content/uploads/2017/08/Autfor.Plak_.A3.jpg,301,R4 Anhang,wordpress,90,,Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
+/autorenforumberlin-8-3-26/,/wordpress/wp-content/uploads/2026/03/AutorenforumBerlin-8.3.26.jpg,301,R4 Anhang,wordpress,90,,Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
+/bachmann-public-viewing-16-2/,/wordpress/wp-content/uploads/2016/06/Bachmann-Public-Viewing-16-1.jpg,301,R4 Anhang,wordpress,90,,Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
+/bachmann-public-viewing-16/,/wordpress/wp-content/uploads/2016/06/Bachmann-Public-Viewing-16.jpg,301,R4 Anhang,wordpress,90,,Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
+/berliner-morde-kersting/,/wordpress/wp-content/uploads/2016/01/Berliner-Morde-Kersting.jpg,301,R4 Anhang,wordpress,90,,Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
+/biografiearbeit/,/wordpress/wp-content/uploads/2023/01/Biografiearbeit-scaled.jpg,301,R4 Anhang,wordpress,90,,Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
+/buchn/,/wordpress/wp-content/uploads/2017/05/buchn.png,301,R4 Anhang,wordpress,90,,Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
+/buchnacht-16-neu-2/,/wordpress/wp-content/uploads/2016/05/Buchnacht-16-NEU-1.jpg,301,R4 Anhang,wordpress,90,,Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
+/buchnacht-16-neu-3/,/wordpress/wp-content/uploads/2016/05/Buchnacht-16-NEU-2.jpg,301,R4 Anhang,wordpress,90,,Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
+/buchnacht-16-neu/,/wordpress/wp-content/uploads/2016/05/Buchnacht-16-NEU.jpg,301,R4 Anhang,wordpress,90,,Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
+/buchnacht-teaser/,/wordpress/wp-content/uploads/2024/06/Buchnacht-Teaser.png,301,R4 Anhang,wordpress,90,,Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
+/cover-1/,/wordpress/wp-content/uploads/2023/04/cover-1.jpg,301,R4 Anhang,wordpress,90,,Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
+/cover-anthologie-2018/,/wordpress/wp-content/uploads/2018/06/Cover-Anthologie-2018.jpg,301,R4 Anhang,wordpress,90,,Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
+/cover-fruehstueck_/,/wordpress/wp-content/uploads/2016/01/Cover-Fruehstueck_.jpg,301,R4 Anhang,wordpress,90,,Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
+/cover-gute-nacht-carlo-vorderseite/,/wordpress/wp-content/uploads/2017/07/Cover-Gute-Nacht-Carlo-Vorderseite.jpg,301,R4 Anhang,wordpress,90,,Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
+/cover-luftdurchlaessig-2012/,/wordpress/wp-content/uploads/2016/01/Cover-Luftdurchlaessig-2012.jpg,301,R4 Anhang,wordpress,90,,Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
+/cover-rache-brennt-mit-aufkleber/,/wordpress/wp-content/uploads/2018/02/Cover-Rache-brennt-mit-Aufkleber.jpg,301,R4 Anhang,wordpress,90,,Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
+/d-anselm/,/wordpress/wp-content/uploads/2017/03/D-Anselm.jpg,301,R4 Anhang,wordpress,90,,Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
+/d72cf120-2aa0-49a5-b906-c128f6200b9d-002/,/wordpress/wp-content/uploads/2024/05/d72cf120-2aa0-49a5-b906-c128f6200b9d-002.jpg,301,R4 Anhang,wordpress,90,,Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
+/dauerhaft3000-1/,/wordpress/wp-content/uploads/2024/10/DauerHaft3000-1-scaled.jpg,301,R4 Anhang,wordpress,90,,Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
+/deibert-klimkowsy-a3-cdr/,/wordpress/wp-content/uploads/2017/06/1.Slav_.-Plak.jpg,301,R4 Anhang,wordpress,90,,Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
+/dsc04191/,/wordpress/wp-content/uploads/2016/03/DSC04191.jpg,301,R4 Anhang,wordpress,90,,Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
+/dscn8968/,/wordpress/wp-content/uploads/2016/03/DSCN8968.jpg,301,R4 Anhang,wordpress,90,,Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
+/e-27_unterholz-fly/,/wordpress/wp-content/uploads/2020/03/e-27_Unterholz-Fly.jpg,301,R4 Anhang,wordpress,90,,Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
+/e-niko-2019-2/,/wordpress/wp-content/uploads/2019/12/e-Niko-2019.jpg,301,R4 Anhang,wordpress,90,,Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
+/e-niko-2019/,/wordpress/wp-content/uploads/2019/11/e-Niko-2019.jpg,301,R4 Anhang,wordpress,90,,Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
+/e2-2019-bachmann/,/wordpress/wp-content/uploads/2019/06/e2-2019-Bachmann.jpg,301,R4 Anhang,wordpress,90,,Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
+/fehlstellen/,/wordpress/wp-content/uploads/2026/04/Fehlstellen.png,301,R4 Anhang,wordpress,90,,Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
+/flyer-fuer-lesung-27-9-17-bei-primobuch-seite-1/,/wordpress/wp-content/uploads/2017/09/Flyer-für-Lesung-27.9.17-bei-PrimoBuch-Seite-1.png,301,R4 Anhang,wordpress,90,,Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
+/flyer_vorderseite-1/,/wordpress/wp-content/uploads/2024/04/Flyer_Vorderseite-1.jpg,301,R4 Anhang,wordpress,90,,Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
+/flyer_vorderseite/,/wordpress/wp-content/uploads/2024/04/Flyer_Vorderseite.jpg,301,R4 Anhang,wordpress,90,,Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
+/geschichten-fischen/,/wordpress/wp-content/uploads/2023/01/Geschichten-fischen-scaled.jpg,301,R4 Anhang,wordpress,90,,Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
+/henry-kersting-neu/,/wordpress/wp-content/uploads/2016/01/Henry-Kersting-neu.jpg,301,R4 Anhang,wordpress,90,,Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
+/herbstlese-plakat-002/,/wordpress/wp-content/uploads/2025/09/Herbstlese-Plakat-002.png,301,R4 Anhang,wordpress,90,,Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
+/icon/,/wordpress/wp-content/uploads/2015/12/icon.png,301,R4 Anhang,wordpress,90,,Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
+/img-20221115-wa0000-1/,/wordpress/wp-content/uploads/2022/11/IMG-20221115-WA0000-1.jpg,301,R4 Anhang,wordpress,90,,Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
+/img-20221115-wa0000/,/wordpress/wp-content/uploads/2022/11/IMG-20221115-WA0000.jpg,301,R4 Anhang,wordpress,90,,Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
+/img_20230125_103343/,/wordpress/wp-content/uploads/2023/01/IMG_20230125_103343-scaled.jpg,301,R4 Anhang,wordpress,90,,Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
+/img_2066-002/,/wordpress/wp-content/uploads/2019/08/IMG_2066-002.jpg,301,R4 Anhang,wordpress,90,,Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
+/insta-textur_3/,/wordpress/wp-content/uploads/2023/05/INSTA-TEXTUR_3.jpg,301,R4 Anhang,wordpress,90,,Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
+/insta-textur_4/,/wordpress/wp-content/uploads/2023/05/INSTA-TEXTUR_4.jpg,301,R4 Anhang,wordpress,90,,Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
+/jackpot-titel-1/,/wordpress/wp-content/uploads/2016/01/Jackpot-Titel-1.jpg,301,R4 Anhang,wordpress,90,,Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
+/jackpot-titel-2/,/wordpress/wp-content/uploads/2016/01/Jackpot-Titel-2.jpg,301,R4 Anhang,wordpress,90,,Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
+/jackpot-titel-3/,/wordpress/wp-content/uploads/2016/01/Jackpot-Titel-3.jpg,301,R4 Anhang,wordpress,90,,Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
+/jackpot-titel-4/,/wordpress/wp-content/uploads/2016/01/Jackpot-Titel-4.jpg,301,R4 Anhang,wordpress,90,,Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
+/jackpot-titel-5/,/wordpress/wp-content/uploads/2016/01/Jackpot-Titel-5.jpg,301,R4 Anhang,wordpress,90,,Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
+/kemer-fast-immer-ein-weiter/,/wordpress/wp-content/uploads/2024/03/Kemer-Fast-immer-ein-Weiter.jpg,301,R4 Anhang,wordpress,90,,Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
+/kemer_membranen-1/,/wordpress/wp-content/uploads/2022/03/kemer_membranen-1.jpg,301,R4 Anhang,wordpress,90,,Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
+/lange-buchnachtm-oranienstrasse-2024/,/wordpress/wp-content/uploads/2024/06/Lange-Buchnachtm-Oranienstrasse-2024.png,301,R4 Anhang,wordpress,90,,Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
+/lg-buchnacht-23-2/,/wordpress/wp-content/uploads/2023/05/Lg-Buchnacht-23.jpg,301,R4 Anhang,wordpress,90,,Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
+/lg-buchnacht-23/,/wordpress/wp-content/uploads/2023/04/Lg-Buchnacht-23.jpg,301,R4 Anhang,wordpress,90,,Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
+/lg-buchnacht-25-korr/,/wordpress/wp-content/uploads/2025/04/Lg-Buchnacht-25-KORR.jpg,301,R4 Anhang,wordpress,90,,Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
+/lg-buchnacht-25/,/wordpress/wp-content/uploads/2025/04/LG-Buchnacht-25.jpg,301,R4 Anhang,wordpress,90,,Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
+/loesche-front/,/wordpress/wp-content/uploads/2016/03/Lösche-Front.jpg,301,R4 Anhang,wordpress,90,,Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
+/loesche-rueck/,/wordpress/wp-content/uploads/2016/03/Lösche-Rück.jpg,301,R4 Anhang,wordpress,90,,Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
+/logo-1-png/,/wordpress/wp-content/uploads/2015/12/logo-1.png,301,R4 Anhang,wordpress,90,,Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
+/logo-2-png/,/wordpress/wp-content/uploads/2015/12/logo-2.png,301,R4 Anhang,wordpress,90,,Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
+/logo-3-png/,/wordpress/wp-content/uploads/2015/12/logo-3.png,301,R4 Anhang,wordpress,90,,Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
+/logo-png/,/wordpress/wp-content/uploads/2015/12/logo.png,301,R4 Anhang,wordpress,90,,Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
+/mittendrin-disteln-kuessen-21-mai/,/wordpress/wp-content/uploads/2024/05/Mittendrin-Disteln-Kuessen-21.-Mai.jpg,301,R4 Anhang,wordpress,90,,Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
+/mr_-john_-titel/,/wordpress/wp-content/uploads/2015/12/Mr_-John_-Titel.jpg,301,R4 Anhang,wordpress,90,,Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
+/mueller-zwei-wochen-im-juni_300dpi-643x1024-1/,/wordpress/wp-content/uploads/2020/07/Müller-Zwei-Wochen-im-Juni_300dpi-643x1024-1.jpg,301,R4 Anhang,wordpress,90,,Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
+/nick-2021-e-002/,/wordpress/wp-content/uploads/2021/11/Nick-2021-e-002.jpg,301,R4 Anhang,wordpress,90,,Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
+/niko-c-2024-lametta-kopie/,/wordpress/wp-content/uploads/2024/10/Niko-C-2024-Lametta-Kopie.jpg,301,R4 Anhang,wordpress,90,,Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
+/nikolaus-17/,/wordpress/wp-content/uploads/2017/11/nikolaus-17.jpg,301,R4 Anhang,wordpress,90,,Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
+/nikolaus-2025-1/,/wordpress/wp-content/uploads/2025/11/Nikolaus-2025-1.jpg,301,R4 Anhang,wordpress,90,,Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
+/nikolaus-2025/,/wordpress/wp-content/uploads/2025/11/Nikolaus-2025.jpg,301,R4 Anhang,wordpress,90,,Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
+/nikolauslesung-12-16-2/,/wordpress/wp-content/uploads/2016/11/nikolauslesung-12.16-1.jpg,301,R4 Anhang,wordpress,90,,Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
+/nikolauslesung-12-16/,/wordpress/wp-content/uploads/2016/11/nikolauslesung-12.16.jpg,301,R4 Anhang,wordpress,90,,Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
+/nikolauslesung-2018-2/,/wordpress/wp-content/uploads/2018/11/Nikolauslesung-2018-1.jpg,301,R4 Anhang,wordpress,90,,Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
+/nikolauslesung-2018/,/wordpress/wp-content/uploads/2018/11/Nikolauslesung-2018.jpg,301,R4 Anhang,wordpress,90,,Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
+/offener-leseabend/cafe-2-ausschnitt/,/wordpress/wp-content/uploads/2015/12/Cafe-2-Ausschnitt.jpg,301,R4 Anhang,wordpress,90,,Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
+/offener-leseabend/cafe-hinten-abends-3/,/wordpress/wp-content/uploads/2015/12/Cafe-hinten-abends-3.jpg,301,R4 Anhang,wordpress,90,,Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
+/offener-leseabend/lesetisch-1/,/wordpress/wp-content/uploads/2015/12/Lesetisch-1.jpg,301,R4 Anhang,wordpress,90,,Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
+/offener-leseabend/salon-aussen-1-kontrast-7/,/wordpress/wp-content/uploads/2015/12/Salon-aussen-1-Kontrast-7.jpg,301,R4 Anhang,wordpress,90,,Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
+/photo-2024-05-13-15-06-39-002/,/wordpress/wp-content/uploads/2024/05/PHOTO-2024-05-13-15-06-39-002.jpg,301,R4 Anhang,wordpress,90,,Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
+/plakat-wettbew-2017-10/,/wordpress/wp-content/uploads/2017/08/Plakat-Wettbew-2017-9.pdf,301,R4 Anhang,wordpress,90,,Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
+/plakat-wettbew-2017-11/,/wordpress/wp-content/uploads/2017/08/Plakat-Wettbew-2017-10.pdf,301,R4 Anhang,wordpress,90,,Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
+/plakat-wettbew-2017-2/,/wordpress/wp-content/uploads/2017/08/Plakat-Wettbew-2017-1.pdf,301,R4 Anhang,wordpress,90,,Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
+/plakat-wettbew-2017-3/,/wordpress/wp-content/uploads/2017/08/Plakat-Wettbew-2017-2.pdf,301,R4 Anhang,wordpress,90,,Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
+/plakat-wettbew-2017-4/,/wordpress/wp-content/uploads/2017/08/Plakat-Wettbew-2017-3.pdf,301,R4 Anhang,wordpress,90,,Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
+/plakat-wettbew-2017-5/,/wordpress/wp-content/uploads/2017/08/Plakat-Wettbew-2017-4.pdf,301,R4 Anhang,wordpress,90,,Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
+/plakat-wettbew-2017-6/,/wordpress/wp-content/uploads/2017/08/Plakat-Wettbew-2017-5.pdf,301,R4 Anhang,wordpress,90,,Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
+/plakat-wettbew-2017-7/,/wordpress/wp-content/uploads/2017/08/Plakat-Wettbew-2017-6.pdf,301,R4 Anhang,wordpress,90,,Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
+/plakat-wettbew-2017-8/,/wordpress/wp-content/uploads/2017/08/Plakat-Wettbew-2017-7.pdf,301,R4 Anhang,wordpress,90,,Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
+/plakat-wettbew-2017-9/,/wordpress/wp-content/uploads/2017/08/Plakat-Wettbew-2017-8.pdf,301,R4 Anhang,wordpress,90,,Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
+/plakat-wettbew-2017/,/wordpress/wp-content/uploads/2017/08/Plakat-Wettbew-2017.pdf,301,R4 Anhang,wordpress,90,,Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
+/plakat4_website/,/wordpress/wp-content/uploads/2016/12/plakat4_website.png,301,R4 Anhang,wordpress,90,,Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
+/poster-a3-bea-kemer-closed-fonts-002/,/wordpress/wp-content/uploads/2022/05/poster-A3-BEA-KEMER-closed-fonts-002-scaled.jpg,301,R4 Anhang,wordpress,90,,Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
+/postkarteberlincrime_r03_x3/,/wordpress/wp-content/uploads/2016/03/PostkarteBerlinCrime_r03_X3.pdf,301,R4 Anhang,wordpress,90,,Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
+/pr_textur-2_220813-002/,/wordpress/wp-content/uploads/2022/07/PR_TEXTUR-2_220813-002.jpg,301,R4 Anhang,wordpress,90,,Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
+/qr-uv-autorenforum-buchnacht-2021-web-002/,/wordpress/wp-content/uploads/2021/04/QR-uv-Autorenforum-Buchnacht-2021-WEB-002.jpg,301,R4 Anhang,wordpress,90,,Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
+/rainer-gadl-1/,/wordpress/wp-content/uploads/2020/03/Rainer-GadL-1.jpg,301,R4 Anhang,wordpress,90,,Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
+/rainer-gadl/,/wordpress/wp-content/uploads/2020/03/Rainer-GadL.jpg,301,R4 Anhang,wordpress,90,,Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
+/rainer-greece-2/,/wordpress/wp-content/uploads/2016/05/Rainer-Greece-1.jpg,301,R4 Anhang,wordpress,90,,Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
+/rainer-greece/,/wordpress/wp-content/uploads/2016/05/Rainer-Greece.jpg,301,R4 Anhang,wordpress,90,,Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
+/rainer-lk/,/wordpress/wp-content/uploads/2020/03/Rainer-LK.jpg,301,R4 Anhang,wordpress,90,,Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
+/received_2467106736899609/,/wordpress/wp-content/uploads/2019/10/received_2467106736899609.jpeg,301,R4 Anhang,wordpress,90,,Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
+/scherbenhaus/,/wordpress/wp-content/uploads/2017/04/scherbenhaus.jpg,301,R4 Anhang,wordpress,90,,Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
+/sollen-wuenschen-moeglichkeiten-cover-2/,/wordpress/wp-content/uploads/2019/05/Sollen-Wünschen-Möglichkeiten-Cover.jpg,301,R4 Anhang,wordpress,90,,Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
+/sollen-wuenschen-moeglichkeiten-cover/,/wordpress/wp-content/uploads/2019/03/Sollen-Wünschen-Möglichkeiten-Cover.jpg,301,R4 Anhang,wordpress,90,,Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
+/sonett/,/wordpress/wp-content/uploads/2026/04/SONETT.jpg,301,R4 Anhang,wordpress,90,,Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
+/textur-1/,/wordpress/wp-content/uploads/2022/07/Textur-1.jpeg,301,R4 Anhang,wordpress,90,,Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
+/u1-cover-vorne-1/,/wordpress/wp-content/uploads/2019/12/U1-Cover-vorne-1.jpg,301,R4 Anhang,wordpress,90,,Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
+/u1-cover-vorne/,/wordpress/wp-content/uploads/2019/12/U1-Cover-vorne.jpg,301,R4 Anhang,wordpress,90,,Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
+/untitled-1-copy/,/wordpress/wp-content/uploads/2018/05/Untitled-1-copy.jpg,301,R4 Anhang,wordpress,90,,Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
+/villa-von-vorn/,/wordpress/wp-content/uploads/2015/12/villa-von-vorn.jpg,301,R4 Anhang,wordpress,90,,Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
+/wald8/,/wordpress/wp-content/uploads/2016/08/wald8.png,301,R4 Anhang,wordpress,90,,Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
+/waldplakat-02-mb/,/wordpress/wp-content/uploads/2016/08/Waldplakat-02-MB.jpg,301,R4 Anhang,wordpress,90,,Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
+/wbdz-1/,/wordpress/wp-content/uploads/2026/05/WbdZ-1.png,301,R4 Anhang,wordpress,90,,Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
+/wbdz-2/,/wordpress/wp-content/uploads/2026/05/WbdZ-2.png,301,R4 Anhang,wordpress,90,,Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
+/wbdz-3/,/wordpress/wp-content/uploads/2026/05/WbdZ-3.png,301,R4 Anhang,wordpress,90,,Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
+/woelk/,/wordpress/wp-content/uploads/2016/12/Woelk.png,301,R4 Anhang,wordpress,90,,Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
+/xs-af-40-jub-1_eis-002/,/wordpress/wp-content/uploads/2024/09/xs-AF-40-Jub-1_Eis-002.jpg,301,R4 Anhang,wordpress,90,,Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
+/xs-af-v-2403-frauentag/,/wordpress/wp-content/uploads/2024/02/xs-AF-V-2403-FRAUENTAG.jpg,301,R4 Anhang,wordpress,90,,Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
+/xs_textur_2_flyer-neu-2-002-version-2-8/,/wordpress/wp-content/uploads/2022/08/xs_TEXTUR_2_Flyer-neu-2-002-VERSION-2.8..jpg,301,R4 Anhang,wordpress,90,,Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
+/xsi-af-nikolausi-2023-volle-aufloesung-1024x1024-1-1024x1024-1/,/wordpress/wp-content/uploads/2023/11/xsi-AF-Nikolausi-2023-volle-Aufloesung-1024x1024-1-1024x1024-1.jpg,301,R4 Anhang,wordpress,90,,Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
+/xsi-af-nikolausi-2023-volle-aufloesung-1024x1024-1/,/wordpress/wp-content/uploads/2023/11/xsi-AF-Nikolausi-2023-volle-Aufloesung-1024x1024-1.jpg,301,R4 Anhang,wordpress,90,,Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
+/xsi-af-nikolausi-2023-volle-aufloesung/,/wordpress/wp-content/uploads/2023/11/xsi-AF-Nikolausi-2023-volle-Aufloesung.jpg,301,R4 Anhang,wordpress,90,,Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
+/xsi-buchnacht23-katze-regional/,/wordpress/wp-content/uploads/2023/05/xsi-Buchnacht23-Katze-REGIONAL.jpeg,301,R4 Anhang,wordpress,90,,Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"
+/yeyadmx7-nuedjzmf8b8/,/wordpress/wp-content/uploads/2018/12/yeyaDmX7-NUEDJzMF8B8.jpg,301,R4 Anhang,wordpress,90,,Anhangseite,"WordPress leitet selbst weiter, sobald Medienseiten abgeschaltet sind"

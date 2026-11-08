@@ -14,7 +14,7 @@ Plugins und Theme sind von außen abgeleitet. Bitte im WP-Admin bestätigen
 |---|---|
 | Adresse | `https://autorenforum-berlin.de/`. `www.` leitet per 301 hierher. |
 | WordPress | liegt in `/wordpress/`. Die Website-Adresse ist die Domain-Wurzel. |
-| Theme | Ordner `autorenforum`: eine angepasste Kopie von Arras 1.6.2, kein Child-Theme |
+| Theme | Ordner `autorenforum`: eine angepasste Kopie des Themes Arras, kein Child-Theme |
 | Startseite | Beitragsliste „Aktuelles“. Folgeseiten `/page/2/` usw. existieren, sind aber nicht verlinkt. |
 | Permalinks | Beiträge `/JJJJ/MM/TT/titel/` (vier Ebenen), Seiten `/titel/` |
 | Sprache | `de-DE` auf allen Seiten |
@@ -109,8 +109,8 @@ weiterleitet. Das Gleiche gilt für `/wordpress/offener-leseabend/` und
   (als Unterkategorie von 2019 angelegt)
 - **Jahre:** 2016: 33 (Massenimport älterer Titel), 2017: 3, 2018: 3, 2019: 9,
   2020: 4, 2021: 10, 2022: 6, 2023: 7, 2024: 9, 2025: 6, 2026: 3
-- Kein Beitrag hat eine eigene Meta-Beschreibung (siehe Abschnitt 7). Ein
-  Beitrag hat die Zahl als Slug (`/2016/03/03/447/`).
+- Kein Beitrag hat eine eigene Meta-Beschreibung (siehe Abschnitt 7). Zwei
+  Beiträge haben eine Zahl als Slug (`/2016/03/03/447/`, `/2017/03/01/657/`).
 - Es gibt keine Schlagwörter und keine Slug-Gleichheit zwischen Beiträgen und
   Seiten. Eine Umstellung der Beiträge auf `/titel/` wäre ohne Kollision
   möglich.

@@ -27,7 +27,7 @@ Die Exporte gehören in den Ordner `privat/`. Sie werden nicht committet.
 ## 2. URLs: so wenig wie möglich ändern
 
 - **Die beste Weiterleitung ist keine.** Gute bestehende URLs mit nur einer
-  Pfadebene (z. B. `/kontakt/`) behalten wir genau so.
+  Pfadebene (z. B. `/termine/`) behalten wir genau so.
 - Jede wegfallende URL bekommt eine **301-Weiterleitung auf die thematisch
   passende neue Seite**. Eine Pauschal-Weiterleitung auf die Startseite wertet
   Google wie eine fehlende Seite („Soft 404“).
@@ -47,7 +47,9 @@ Die Exporte gehören in den Ordner `privat/`. Sie werden nicht committet.
   `xmlrpc.php` dürfen nie von einer Weiterleitung erfasst werden.
 - Die Weiterleitungen bleiben **dauerhaft** bestehen, mindestens aber ein Jahr.
 - Umsetzung: Ich empfehle Regeln in der `.htaccess` im Wurzelverzeichnis, die
-  vor dem WordPress-Block stehen. Das ist schnell und kommt ohne Plugin aus.
+  ganz oben stehen, vor dem Block von WP Super Cache und vor dem
+  WordPress-Block. Das ist schnell und kommt ohne Plugin aus. Beim Umschalten
+  wird der Cache geleert.
   Die Regeln werden aus `docs/redirects.csv` erzeugt. Die Alternative ist das
   Plugin „Redirection“: Es lässt sich ohne SFTP pflegen, ist aber langsamer und
   ein zusätzliches Plugin, das gewartet werden muss.
