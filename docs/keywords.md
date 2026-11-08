@@ -15,9 +15,11 @@ Abschnitt 1).
 
 ## Neue Struktur laut Verein
 
-- Startseite
+- **Aktuelles** als Startseite, mit dem nächsten Montagabend ganz oben
+  (Details in `docs/anforderungen.md`)
 - **Werkstattbühne**: neuer Name für den Leseabend, Untertitel „Lesung und
-  Diskussion von unveröffentlichten Texten“
+  Diskussion von unveröffentlichten Texten“. Im Menü nennt der Verein den
+  Punkt auch „Werkstattabend“; der Name ist noch abzustimmen.
 - **Anregungen zur Textkritik**: eigene Seite. Die Fragen stehen heute mit auf
   `/offener-leseabend/`.
 - **Termine**: das Quartal mit Moderation. Sichtbar sein sollen Montag, Beginn
@@ -66,12 +68,13 @@ So setzen wir es um:
 
 - **Seitentitel** (57 Zeichen): `Autorenforum Berlin: Lesebühne für Autorinnen und Autoren`
 - Alternative ohne „Lesebühne“ (55 Zeichen): `Autorenforum Berlin – Verein für Autorinnen und Autoren`
-- **Meta-Description** (143 Zeichen): `Offene Lesebühne in Berlin: Montags lesen
-  Autorinnen und Autoren unveröffentlichte Texte, das Publikum diskutiert.
-  Komm zum Zuhören oder Lesen.`
-- **H1:** „Werkstattbühne für Autorinnen und Autoren in Berlin“, darunter der
-  Untertitel „Lesung und Diskussion von unveröffentlichten Texten“. Im ersten
-  Absatz steht „offene Lesebühne“.
+- **Meta-Description** (146 Zeichen), aus vorhandenen Sätzen des Vereins:
+  `Berlins älteste wöchentliche Lesebühne: Kein Applaus. Konstruktive Kritik.
+  Bessere Texte. Immer montags, immer 20 Uhr, in der Schwartzschen Villa.`
+- **H1:** „Berlins älteste wöchentliche Lesebühne“ (aus dem Meetup-Text des
+  Vereins), darunter „Kein Applaus. Konstruktive Kritik. Bessere Texte.“ (aus
+  der heutigen Meta-Description). „Autorinnen und Autoren“ steht im ersten
+  Satz des Textes.
 - **Interne Links:** Die Startseite verlinkt die Werkstattbühne, die Termine,
   die Anregungen zur Textkritik und die Veröffentlichungen, mit Linktexten, die
   sagen, wohin sie führen.
@@ -131,8 +134,8 @@ So setzen wir es um:
 - **Meta-Description** (147 Zeichen): `Das Autorenforum Berlin e. V. fördert
   seit über 40 Jahren unbekannte Autorinnen und Autoren: mit der
   Werkstattbühne, mit Lesungen und Wettbewerben.`
-- Offen: Die heutige Meta-Description sagt „seit 1987“. Das wären keine 40
-  Jahre. Die Jahreszahl klärt der Verein, die Description passt sich an.
+- Gründungsjahr ist 1984 (40-jähriges Jubiläum 2024). Die heutige
+  Meta-Description mit „seit 1987“ ist falsch.
 
 ### Veröffentlichungen der Mitglieder
 

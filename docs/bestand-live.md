@@ -32,7 +32,7 @@ Pfade ohne Hostnamen beziehen sich auf `https://autorenforum-berlin.de`. Mailadr
 - **Menüpunkte ohne Link:** „Veranstaltungsformate“ und „über uns“ öffnen nur Untermenüs.
 - **Wettbewerbe 2019:** Neben `/wettbewerbe/` gibt es eine zweite Seite „Wettbewerbe“ unter `/wettbewerb-2019/`, mit den Unterseiten `/wettbewerb-2019/wettbewerb-2019/` und `/wettbewerb-2019/wettbewerbe-2019/`.
 - **Seitenleiste:** Die Widgets „Welcome to Arras!“ und „Tag Cloud“ sind leer.
-- **Gründungsjahr:** Die Meta-Description sagt „seit 1987“, `/verein/` sagt „seit nunmehr 40 Jahren“. Vor neuen Texten klären.
+- **Gründungsjahr:** Die Meta-Description sagt „seit 1987“. Richtig ist laut Dominik 1984 (40-jähriges Jubiläum 2024).
 
 ## 1. robots.txt
 
