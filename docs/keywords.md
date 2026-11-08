@@ -8,8 +8,8 @@ Stand: 08.11.2026. **Vorschlag, die Entscheidung treffen Dominik und der
 Verein.** Grundlage sind Stichproben der Suchergebnisse (mit einem
 Suchwerkzeug, nicht direkt bei Google), der Bestand der Live-Seite
 (`docs/bestand-live.md`) und die Planung des Vereins für die neue Struktur.
-Suchvolumen fehlen hier mit Absicht, weil niemand sie gemessen hat. Für kleine
-lokale Begriffe zeigen Tools wie Semrush oft gar keine oder nur grobe Werte.
+Suchvolumen stehen nur da, wo Dominik sie aus Semrush geliefert hat. Für kleine
+lokale Begriffe sind diese Werte grob.
 Die verlässlichste Quelle ist der Search-Console-Export (siehe `docs/seo.md`,
 Abschnitt 1).
 
@@ -47,7 +47,9 @@ Abschnitt 2).
 
 ## Startseite `/`
 
-**Hauptbegriffe: „Autoren Berlin“ und „Lesebühne Berlin“.**
+**Hauptbegriff: „Autoren Berlin“, Nebenbegriff: „Lesebühne Berlin“.**
+Semrush (08.11.2026): „autoren berlin“ 30 Suchen im Monat, „lesebühne berlin“
+10. Für „Lesebühne Berlin“ rankt die Seite derzeit nicht.
 
 - Google braucht die Wortfolge nicht exakt. Stehen „Lesebühne“, „Autoren“ und
   „Berlin“ im Titel und im Text, kann die Seite für beide Begriffe ranken.
@@ -67,7 +69,9 @@ Abschnitt 2).
 So setzen wir es um:
 
 - **Seitentitel** (57 Zeichen): `Autorenforum Berlin: Lesebühne für Autorinnen und Autoren`
-- Alternative ohne „Lesebühne“ (55 Zeichen): `Autorenforum Berlin – Verein für Autorinnen und Autoren`
+- Alternative ohne „Lesebühne“ (55 Zeichen): `Autorenforum Berlin – Verein für Autorinnen und Autoren`.
+  Sie ist die bessere Wahl, falls „autorenverein berlin“ nennenswert gesucht
+  wird.
 - **Meta-Description** (146 Zeichen), aus vorhandenen Sätzen des Vereins:
   `Berlins älteste wöchentliche Lesebühne: Kein Applaus. Konstruktive Kritik.
   Bessere Texte. Immer montags, immer 20 Uhr, in der Schwartzschen Villa.`
