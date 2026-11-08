@@ -4,81 +4,153 @@ Diese Datei ergänzt `docs/seo.md`. `seo.md` beschreibt, wie das Ranking beim
 Relaunch erhalten bleibt. Diese Datei beschreibt, für welche Suchbegriffe wir
 die Seiten bauen.
 
-Stand: 04.11.2026. Grundlage sind Stichproben der Suchergebnisse (mit einem
-Suchwerkzeug, nicht direkt bei Google) und der Bestand der Live-Seite
-(`docs/bestand-live.md`). Suchvolumen fehlen hier mit Absicht, weil niemand sie
-gemessen hat. Für kleine lokale Begriffe zeigen Tools wie Semrush oft gar keine
-oder nur grobe Werte. Die verlässlichste Quelle ist der Search-Console-Export
-(siehe `docs/seo.md`, Abschnitt 1). Sobald er da ist, prüfen wir diese Liste
-gegen die echten Suchanfragen.
+Stand: 08.11.2026. **Vorschlag, die Entscheidung treffen Dominik und der
+Verein.** Grundlage sind Stichproben der Suchergebnisse (mit einem
+Suchwerkzeug, nicht direkt bei Google), der Bestand der Live-Seite
+(`docs/bestand-live.md`) und die Planung des Vereins für die neue Struktur.
+Suchvolumen fehlen hier mit Absicht, weil niemand sie gemessen hat. Für kleine
+lokale Begriffe zeigen Tools wie Semrush oft gar keine oder nur grobe Werte.
+Die verlässlichste Quelle ist der Search-Console-Export (siehe `docs/seo.md`,
+Abschnitt 1).
 
-## Wer sucht?
+## Neue Struktur laut Verein
 
-1. **Schreibende**, die einen Ort zum Vorlesen und ehrliche Rückmeldung suchen.
-   Sie sind die wichtigste Zielgruppe, denn aus ihnen werden Lesende und
-   Mitglieder.
-2. **Publikum**, das in Berlin eine Lesung oder Lesebühne besuchen will.
-3. **Leserinnen und Leser**, die ein Buch oder eine Autorin oder einen Autor
-   aus dem Verein suchen.
-4. **Presse, Partner, Förderer**, die nach dem Verein selbst suchen.
+- Startseite
+- **Werkstattbühne**: neuer Name für den Leseabend, Untertitel „Lesung und
+  Diskussion von unveröffentlichten Texten“
+- **Anregungen zur Textkritik**: eigene Seite. Die Fragen stehen heute mit auf
+  `/offener-leseabend/`.
+- **Termine**: das Quartal mit Moderation. Sichtbar sein sollen Montag, Beginn
+  20 Uhr und Anmeldung zum Lesen ab 19:30 Uhr.
+- **Über uns**, mit Kontaktadresse und Kontoverbindung
+- **Veröffentlichungen der Mitglieder**, mit Suchfeld
+- Impressum und Datenschutz nur im Footer
 
-## Startseite
+Ohne eigene Seite in der neuen Struktur: Wettbewerbe mit den Jahresseiten,
+Nikolauslesung, Der heiße Stuhl, Geschichte, Organisation, Kontakt, Anfahrt,
+Archiv. Ihre Adressen brauchen Weiterleitungen (siehe `docs/seo.md`,
+Abschnitt 2).
 
-**Zielbegriff: „offene Lesebühne Berlin“.** Dazu kommen „Textkritik“ und der
-Vereinsname.
+## Grundsätze
 
-Warum dieser Begriff:
+- Die Texte des Vereins bleiben weitgehend, wie sie sind. Die Suchbegriffe
+  tragen der Seitentitel, die Meta-Description und der Text der Startseite,
+  den wir selbst schreiben.
+- Ein Hauptbegriff gehört auf genau eine Seite. Sonst konkurrieren die Seiten
+  um denselben Begriff.
+- Seitentitel 55 bis 60 Zeichen, Meta-Description bis 155 Zeichen.
+- In Titeln und auf der Startseite steht „Autorinnen und Autoren“. Die
+  Doppelform enthält das Suchwort „Autoren“ sicher. Ob Google „Autor*innen“
+  genauso liest, ist nicht gesichert. In den übrigen Texten bleibt der Stern.
 
-- „Lesebühne Berlin“ beschreibt das Angebot, die Ergebnisse dazu bestehen aber
-  fast nur aus Listen, Ticketportalen und Presseartikeln (visitBerlin,
-  berlin.de, rausgegangen, tip Berlin, top10berlin, Tagesspiegel, taz). Meist
-  geht es dort um Unterhaltungsshows. Eine kleine Vereinsseite überholt diese
-  Seiten kaum. In diese Ergebnisse kommt der Verein nur, wenn er selbst in den
-  Listen steht (siehe unten).
-- „offen“ trifft den Kern des Leseabends: Alle dürfen eigene Texte lesen. Für
-  diese Kombination gibt es in Berlin wenig Konkurrenz, und die Absicht der
-  Suchenden passt.
-- „Textkritik“ ist das zweite Merkmal, das den Verein unterscheidet („Hart zum
-  Text, sanft zum Autor“). Danach wird auch außerhalb Berlins gesucht.
-- „Autorenforum Berlin“ steht schon im Namen. Damit passt der Titel auch
-  teilweise zu Suchen wie „Autoren Berlin“.
+## Startseite `/`
+
+**Hauptbegriffe: „Autoren Berlin“ und „Lesebühne Berlin“.**
+
+- Google braucht die Wortfolge nicht exakt. Stehen „Lesebühne“, „Autoren“ und
+  „Berlin“ im Titel und im Text, kann die Seite für beide Begriffe ranken.
+- Die Texte des Vereins enthalten „Lesebühne“ nicht und „Autoren“ nur als
+  „Autor*innen“. Den Text der Startseite schreiben wir selbst. Deshalb gehören
+  beide Begriffe dorthin und nicht auf eine Unterseite.
+- Die Startseite steht für den ganzen Verein. „Autoren Berlin“ passt zu
+  Schreibenden, die andere Autorinnen und Autoren suchen, und zu Lesenden, die
+  Berliner Autorinnen und Autoren und ihre Bücher suchen. Der Begriff steckt
+  außerdem im Vereinsnamen und in der Domain.
+- Einschränkung: Bei „Lesebühne Berlin“ suchen viele nach Shows mit fertigen,
+  oft lustigen Texten (die Ergebnisse dort: visitBerlin, berlin.de,
+  rausgegangen, tip Berlin, top10berlin, Tagesspiegel, taz). Die Werkstattbühne
+  ist das Gegenteil: keine fertigen Texte, kein Applaus. „Lesebühne für
+  Autorinnen und Autoren“ im Titel sortiert vor.
 
 So setzen wir es um:
 
-- **Seitentitel** (52 Zeichen): `Autorenforum Berlin: offene Lesebühne mit Textkritik`
-- **Meta-Description** (149 Zeichen): `Montags lesen Autorinnen und Autoren
-  unveröffentlichte Texte und bekommen ehrliche Textkritik. Offene Lesebühne in
-  Berlin: zuhören oder selbst lesen.`
-- **H1:** Ein poetischer Satz als Überschrift ist erlaubt. Dann gehören
-  „offene Lesebühne“, „Berlin“ und „Textkritik“ als echter Text in die ersten
-  zwei Sätze darunter, nicht in ein Bild.
+- **Seitentitel** (57 Zeichen): `Autorenforum Berlin: Lesebühne für Autorinnen und Autoren`
+- Alternative ohne „Lesebühne“ (55 Zeichen): `Autorenforum Berlin – Verein für Autorinnen und Autoren`
+- **Meta-Description** (143 Zeichen): `Offene Lesebühne in Berlin: Montags lesen
+  Autorinnen und Autoren unveröffentlichte Texte, das Publikum diskutiert.
+  Komm zum Zuhören oder Lesen.`
+- **H1:** „Werkstattbühne für Autorinnen und Autoren in Berlin“, darunter der
+  Untertitel „Lesung und Diskussion von unveröffentlichten Texten“. Im ersten
+  Absatz steht „offene Lesebühne“.
+- **Interne Links:** Die Startseite verlinkt die Werkstattbühne, die Termine,
+  die Anregungen zur Textkritik und die Veröffentlichungen, mit Linktexten, die
+  sagen, wohin sie führen.
 - Die nächsten Termine stehen als Text auf der Startseite, mit Event-Daten
   (siehe `docs/seo.md`, Abschnitt 4).
+- **Vorher prüfen:** In der Search Console unter Leistung → Suchanfragen nach
+  „autoren“ und nach „lesebühne“ filtern. Begriffe, für die die Seite schon
+  Impressionen hat, müssen den Relaunch überstehen.
 - **Sofort möglich, schon vor dem Relaunch:** Die Startseite heißt heute
-  „Autorenforum Berlin e.V. -“. Der Strich am Ende entsteht, weil der
-  Untertitel der Website leer ist. Dominik kann den Titel in Yoast SEO unter
-  Einstellungen → Inhaltstypen → Startseite setzen, zusammen mit der
-  Meta-Description. Falls die Startseite eine statische Seite ist, führt dort
-  ein Link zu dieser Seite; die Felder stehen dann in deren Yoast-Box unter
-  „Suchdarstellung“. Die Instanz ändert an der Live-Seite nichts.
+  „Autorenforum Berlin e.V. -“, weil der Untertitel der Website leer ist.
+  Dominik kann Titel und Meta-Description in Yoast SEO unter Einstellungen →
+  Inhaltstypen → Startseite setzen. Die Instanz ändert an der Live-Seite
+  nichts.
 
-## Zuordnung: ein Hauptbegriff pro Seite
+## Unterseiten
 
-Auch wenn die Seite stark gekürzt wird: Jede Suchabsicht braucht eine eigene
-URL, die zu ihr passt. Was nur noch ein Abschnitt ist, bekommt eine
-Sprungmarke. Die heutige URL bleibt, oder sie leitet per 301 auf die passende
-neue Seite weiter.
+### Werkstattbühne
 
-| Seite oder Abschnitt | Hauptbegriff | Nebenbegriffe | Heutige URL | Hinweis |
-|---|---|---|---|---|
-| Startseite | offene Lesebühne Berlin | Lesebühne Berlin, Leseabend Berlin, Textkritik, Autorenforum Berlin | `/` | siehe oben |
-| Leseabend: selbst lesen | eigene Texte vorlesen Berlin | Autorengruppe Berlin, Schreibgruppe Berlin, Feedback für eigene Texte, Werkstattbühne | `/offener-leseabend/` | Ablauf, Anmeldung, Regeln. Fragen und Antworten passen hier gut („Darf ich das erste Mal lesen?“, „Wie lang darf mein Text sein?“). |
-| Textkritik | Textkritik | Textkritik in der Gruppe, Feedback Schreibgruppe, heißer Stuhl | `/der-heisse-stuhl/` | Die Methode genau erklären. Das ist der Teil, den andere nicht haben. |
-| Termine | Lesung Berlin Montag | Lesungen Berlin, Lesung mit Ortsteil (z. B. Steglitz) | `/termine/` | Die Event-Daten sind hier wichtiger als der Text. |
-| Veröffentlichungen | Buchtitel und Namen der Mitglieder | Neuerscheinung, Autorin aus Berlin | `/category/veroeffentlichungen_der_mitglieder/` und die Beitrags-URLs | Die Beiträge bringen Besucher über Buchtitel und Namen. Die einzelnen Beitrags-URLs behalten, auch wenn die Übersicht neu wird. |
-| Wettbewerbe | Literaturwettbewerb Berlin, Schreibwettbewerb mit Jahreszahl | Kurzgeschichtenwettbewerb | `/wettbewerbe/` und die Jahresseiten | Aktiv bewerben nur, solange ein Wettbewerb läuft. Alte Jahrgänge bleiben als Archiv. |
-| Nikolauslesung | Nikolauslesung Berlin | Weihnachtslesung Berlin | `/nikolauslesung/` | saisonal, ab Anfang November aktuell halten |
-| Verein und Geschichte | Autorenforum Berlin | Autorenverein Berlin, Literaturverein Berlin (beide noch nicht geprüft) | `/verein/`, `/geschichte/` | für Markensuche und Presse |
+- **Hauptbegriff:** „Feedback zu eigenen Texten“, dazu „unveröffentlichte
+  Texte“ und der Name „Werkstattbühne“. Der Text des Vereins handelt genau
+  davon. „Lesebühne“ steht hier nicht, weil die Startseite den Begriff trägt.
+- **Adresse:** `/offener-leseabend/` bleibt. Will der Verein den neuen Namen in
+  der Adresse, dann `/werkstattbuehne/` mit 301 von der alten Adresse.
+- **Seitentitel** (60 Zeichen): `Werkstattbühne Berlin: Feedback zu unveröffentlichten Texten`
+- **Meta-Description** (145 Zeichen): `Lies deinen unveröffentlichten Text vor
+  und hol dir Rückmeldung von 30 bis 60 Schreibenden und
+  Literaturinteressierten. Jeden Montag in Steglitz.`
+
+### Anregungen zur Textkritik
+
+- **Hauptbegriff:** „Textkritik für Schreibende“, dazu „Fragen an einen
+  literarischen Text“. „Textkritik“ allein meint bei Google vor allem die
+  Editionswissenschaft (alte Handschriften, Bibeltexte).
+- **Adresse:** neu, zum Beispiel `/anregungen-zur-textkritik/`. Die
+  Werkstattbühne verlinkt sie.
+- **Seitentitel** (56 Zeichen): `Textkritik für Schreibende: Fragen an literarische Texte`
+- **Meta-Description** (146 Zeichen): `Fragen an einen literarischen Text:
+  Anregungen zur Textkritik aus der Werkstattbühne des Autorenforums Berlin,
+  für Schreibende und Schreibgruppen.`
+
+### Termine
+
+- **Hauptbegriffe:** „Werkstattbühne Termine“, „Lesung Berlin-Steglitz“,
+  „Schwartzsche Villa“. Wichtiger als der Text sind die Event-Daten.
+- **Adresse:** `/termine/` bleibt.
+- **Seitentitel** (58 Zeichen): `Werkstattbühne Termine: montags 20 Uhr, Schwartzsche Villa`
+- **Meta-Description** (139 Zeichen): `Alle Termine der Werkstattbühne mit
+  Moderation: montags um 20 Uhr in der Schwartzschen Villa in Steglitz.
+  Anmeldung zum Lesen ab 19:30 Uhr.`
+
+### Über uns
+
+- **Hauptbegriff:** „Autorenverein Berlin“.
+- **Adresse:** `/verein/` bleibt. `/geschichte/`, `/organisation/` und
+  `/kontakt/` leiten dorthin weiter.
+- **Seitentitel** (59 Zeichen): `Autorenverein in Berlin: Über das Autorenforum Berlin e. V.`
+- **Meta-Description** (147 Zeichen): `Das Autorenforum Berlin e. V. fördert
+  seit über 40 Jahren unbekannte Autorinnen und Autoren: mit der
+  Werkstattbühne, mit Lesungen und Wettbewerben.`
+- Offen: Die heutige Meta-Description sagt „seit 1987“. Das wären keine 40
+  Jahre. Die Jahreszahl klärt der Verein, die Description passt sich an.
+
+### Veröffentlichungen der Mitglieder
+
+- **Hauptbegriffe:** „Bücher Berliner Autorinnen und Autoren“ sowie Namen und
+  Buchtitel. Die Beiträge zu den Neuerscheinungen stützen zugleich „Autoren
+  Berlin“ auf der Startseite.
+- **Adresse:** `/category/veroeffentlichungen_der_mitglieder/` und die
+  Beitrags-URLs bleiben.
+- **Seitentitel** (56 Zeichen): `Neuerscheinungen: Bücher Berliner Autorinnen und Autoren`
+- **Meta-Description** (132 Zeichen): `Neuerscheinungen von Mitgliedern des
+  Autorenforums Berlin: Romane, Erzählungen, Gedichte und mehr, durchsuchbar
+  nach Titel und Name.`
+- Für die einzelnen Beiträge genügt die Titelvorlage von Yoast.
+
+### Impressum und Datenschutz
+
+Keine Optimierung nötig. Ein kurzer Titel wie „Impressum | Autorenforum Berlin
+e. V.“ reicht.
 
 ## Vereinsname
 
@@ -87,38 +159,41 @@ und visitBerlin mit Terminen des Vereins oben, die eigene Seite nicht. Das war
 nicht Google selbst. Bitte einmal im privaten Fenster bei Google suchen und in
 der Search Console prüfen, auf welcher Position die Seite bei „Autorenforum
 Berlin“ steht. Steht sie nicht auf Platz 1, hat das Vorrang: Die
-`Organization`-Daten (siehe `docs/seo.md`), überall derselbe Name und Links aus
-den Einträgen unten helfen dabei.
+`Organization`-Daten (siehe `docs/seo.md`), überall derselbe Name („Autorenforum
+Berlin e. V.“) und Links aus den Einträgen unten helfen dabei.
 
 ## In die Listen kommen
 
-Bei „Lesebühne Berlin“ entscheiden Listen und Kalender. Jeder Eintrag bringt
-Besucher und einen Link. Er soll auf `/offener-leseabend/` oder `/termine/`
-zeigen, nicht nur auf die Startseite.
+Bei „Lesebühne Berlin“ entscheiden Listen und Kalender, und auch bei „Autoren
+Berlin“ gibt es Listenartikel. Jeder Eintrag bringt Besucher und einen Link.
+Er soll auf die passende Unterseite zeigen, meist auf die Werkstattbühne oder
+die Termine.
 
-- **visitBerlin** führt schon einzelne Veranstaltungen des Vereins. Die
-  Leseabende dort regelmäßig eintragen.
+- **visitBerlin** führt schon einzelne Veranstaltungen des Vereins. Die Abende
+  dort regelmäßig eintragen.
 - **rausgegangen** führt den „Leseabend Werkstattbühne“ schon. Die Einträge
-  aktuell halten.
+  aktuell halten und auf den neuen Namen umstellen.
 - **top10berlin** (Schlagwort Lesebühne), **tip Berlin** und **berlinecho**
-  (Übersicht über Berliner Lesebühnen vom Juni 2026): fragen, ob die offene
-  Lesebühne aufgenommen wird.
+  (Übersicht über Berliner Lesebühnen vom Juni 2026): fragen, ob die
+  Werkstattbühne aufgenommen wird.
+- **berlinecho** hat außerdem eine Übersicht über Berliner Autoren und
+  Schriftsteller (Juni 2026). Ein Hinweis auf den Verein passt dort zu
+  „Autoren Berlin“.
 - **the-berliner.com** hat eine Übersicht über Schreibgruppen in Berlin. Sie ist
-  auf Englisch. Sie lohnt sich nur, wenn auch Gäste kommen sollen, die kaum
+  auf Englisch und lohnt sich nur, wenn auch Gäste kommen sollen, die kaum
   Deutsch verstehen.
-- Noch zu prüfen: der Kalender von literaturport.de und die Kalender der
-  Bezirke.
+- Noch zu prüfen: der Kalender von literaturport.de, die Kalender des Bezirks
+  Steglitz-Zehlendorf und der Schwartzschen Villa.
 
 ## Messen
 
 - **Search Console:** Ausgangslage vor dem Relaunch sichern, danach monatlich
   vergleichen (Klicks, Impressionen, Position).
-- **Begriffe zum Beobachten:** Autorenforum Berlin, offene Lesebühne Berlin,
-  Lesebühne Berlin, eigene Texte vorlesen Berlin, Autorengruppe Berlin,
-  Schreibgruppe Berlin, Textkritik, Nikolauslesung Berlin und die Buchtitel der
-  letzten Neuerscheinungen.
-- **Semrush:** gut für die großen Begriffe (Lesebühne Berlin, Lesung Berlin,
-  Schreibgruppe Berlin, Textkritik) und um zu sehen, für welche Begriffe
-  rausgegangen, tip Berlin oder top10berlin mit ihren Lesebühnen-Seiten ranken.
-  Bei den kleinen Begriffen ist ein leeres Ergebnis normal. Es heißt nicht,
-  dass niemand danach sucht.
+- **Begriffe zum Beobachten:** Autoren Berlin, Lesebühne Berlin, Autorenforum
+  Berlin, Werkstattbühne, Feedback zu eigenen Texten, Textkritik für
+  Schreibende, Autorenverein Berlin, Lesung Steglitz, Schwartzsche Villa und
+  die Buchtitel der letzten Neuerscheinungen.
+- **Semrush:** gut für die großen Begriffe (Autoren Berlin, Lesebühne Berlin,
+  Lesung Berlin) und um zu sehen, wofür rausgegangen, tip Berlin oder
+  top10berlin ranken. Bei den kleinen Begriffen ist ein leeres Ergebnis normal.
+  Es heißt nicht, dass niemand danach sucht.

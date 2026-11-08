@@ -6,7 +6,11 @@ Internetverbindung.
 
 **Sie ist keine Design-Vorgabe.** Das endgültige Design kommt aus Figma. Die
 Datei zeigt, welche Funktionen der Verein gesehen hat und welche er vielleicht
-wiederhaben möchte:
+wiederhaben möchte.
+
+**Der Verein wünscht für die neue Seite keine Animationen** (Vorgaben vom
+November 2026). Die Animationen unten entfallen also. Die übrigen Funktionen
+bleiben möglich.
 
 - Das Programm steht an genau einer Stelle (Array `PROGRAMM` im Skript). Der
   nächste Termin und der Countdown werden daraus berechnet, mit der Zeitzone
