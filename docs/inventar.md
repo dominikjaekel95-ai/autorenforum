@@ -65,8 +65,8 @@ den Permalink weiter.
 `/wordpress/datenschutzerklaerung/`, dazu Facebook. Die `/wordpress/`-Adressen
 funktionieren nur, weil WordPress sie errät und per 301 auf `/kontakt/` usw.
 weiterleitet. Das Gleiche gilt für `/wordpress/offener-leseabend/` und
-`/wordpress/termine/`, die in Inhalten verlinkt sind. `/wordpress/` selbst
-liefert 404.
+`/wordpress/termine/`, die in Inhalten verlinkt sind, sowie für `/datenschutz/`
+(leitet auf `/datenschutzerklaerung/`). `/wordpress/` selbst liefert 404.
 
 ## 4. Seiten (22)
 
@@ -109,8 +109,8 @@ liefert 404.
   (als Unterkategorie von 2019 angelegt)
 - **Jahre:** 2016: 33 (Massenimport älterer Titel), 2017: 3, 2018: 3, 2019: 9,
   2020: 4, 2021: 10, 2022: 6, 2023: 7, 2024: 9, 2025: 6, 2026: 3
-- Alle Seiten und Beiträge haben eine Meta-Beschreibung. Ein Beitrag hat die Zahl als
-  Slug (`/2016/03/03/447/`).
+- Kein Beitrag hat eine eigene Meta-Beschreibung (siehe Abschnitt 7). Ein
+  Beitrag hat die Zahl als Slug (`/2016/03/03/447/`).
 - Es gibt keine Schlagwörter und keine Slug-Gleichheit zwischen Beiträgen und
   Seiten. Eine Umstellung der Beiträge auf `/titel/` wäre ohne Kollision
   möglich.
@@ -133,6 +133,9 @@ liefert 404.
 | Befund | Folge | Behebung |
 |---|---|---|
 | Startseite hat den Titel „Autorenforum Berlin e.V. -“ und keine H1 | schwacher Titel für die wichtigste Seite | sofort in Yoast (siehe `docs/keywords.md`), im neuen Theme mit H1 |
+| Keine Seite hat eine eigene Meta-Beschreibung. Alle 22 Seiten und die Startseite tragen denselben Text (295 Zeichen, Google kürzt ihn), alle 93 Beiträge denselben mit 116 Zeichen, alle Kategorien denselben mit 75 Zeichen. | Suchergebnisse sehen überall gleich aus | eigene Beschreibung je Seite (Vorschläge in `docs/keywords.md`), für Beiträge eine Yoast-Vorlage mit Auszug |
+| Die Beschreibung nennt „seit 1987“, gegründet wurde der Verein 1984 | falsche Angabe in jedem Suchergebnis | mit den neuen Beschreibungen korrigieren |
+| Startseite braucht ohne Cache 3,8 Sekunden (laut HTML-Kommentar) | langsam, wenn der Cache leer ist | schlankes Block-Theme, Cache behalten |
 | 311 Anhangseiten öffentlich, 168 davon in der Sitemap | viele dünne, doppelte Seiten im Index | Anhangseiten abschalten, per 301 auf die Datei |
 | 73 `http://`-Links im Inhalt, meist Bilder | gemischte Inhalte, unnötige Weiterleitungen | beim Umzug per Suchen und Ersetzen auf `https://` |
 | 4 kaputte interne Links auf alte `.htm`-Seiten aus der Zeit vor WordPress (in 2 Beiträgen und 1 Seite) | 404 für Besucher | Links im Inhalt korrigieren oder entfernen |
@@ -146,8 +149,10 @@ liefert 404.
 | `robots.txt` enthält zwei Gruppen für alle Crawler | unschädlich | im neuen Setup vereinfachen |
 
 Unauffällig sind: Canonicals (bis auf 2 Anhangseiten mit Umlaut-Kodierung),
-Sprache, Beschreibungen von Seiten und Beiträgen, Statuscodes (keine Ketten,
-keine Serverfehler).
+Sprache, Statuscodes (keine Ketten, keine Serverfehler).
+
+In der Seitenleiste stehen zwei leere Widgets („Welcome to Arras!“, „Tag
+Cloud“).
 
 ## 8. Plugins und Theme (bitte bestätigen)
 
@@ -170,7 +175,19 @@ Facebook (auf jeder Seite), Amazon (44 Links in Beiträgen) sowie Verlags- und
 Autorenseiten. Ein Link führt über eine Newsletter-Trackingadresse eines
 Verlags. Ihn ersetzen wir bei der Übernahme durch die direkte Adresse.
 
-## 10. Was von außen nicht sichtbar ist
+## 10. Abgleich mit `docs/bestand-live.md`
+
+Die zweite Erhebung (im Browser, 45 Seiten bis Tiefe 2) stimmt in Zahlen,
+Menü, Fußzeile, Hostvarianten und Plugins mit diesem Crawl überein. Sie hat
+zusätzlich gefunden: `/datenschutz/` und die kleingeschriebenen
+`/wordpress/kontakt/` und `/wordpress/impressum/` (alle per WordPress-Raten
+weitergeleitet), die leeren Widgets, die Ladezeit ohne Cache und das falsche
+Gründungsjahr. Dieser Crawl hat zusätzlich alle 311 Anhangseiten, 49
+Datumsarchive, die Autorenarchive und drei weitere tote `.htm`-Links in
+Beiträgen erfasst. Eine Abweichung gibt es bei `/verein/`: Hier liegt im
+gespeicherten HTML nur eine H1, die Browser-Erhebung zählt zwei.
+
+## 11. Was von außen nicht sichtbar ist
 
 - Entwürfe, private Seiten, Benutzer, Einstellungen, Plugin-Versionen:
   kommen aus dem WordPress-Export und dem Website-Zustand.
