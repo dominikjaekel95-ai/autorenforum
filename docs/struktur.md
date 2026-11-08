@@ -159,7 +159,8 @@ Adresse leitet direkt dorthin, mit Sprungmarke.
   bleibt, die Texte der Jahrgänge bleiben vollständig, und „Über uns“ bleibt
   übersichtlich. Der Verein hat nur den Menüpunkt gestrichen.
 - **Alles nach `/verein/#wettbewerbe`:** eine Seite weniger, aber „Über uns“
-  wird lang. Dann ändern sich 12 Zeilen der Liste.
+  wird lang. Dann ändern sich 39 Zeilen der Liste, und `/wettbewerbe/` selbst
+  bekommt eine Weiterleitung.
 
 **E5b – Kontakt**
 
