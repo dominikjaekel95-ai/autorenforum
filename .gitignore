@@ -75,6 +75,10 @@ desktop.ini
 .vscode/*
 !.vscode/extensions.json
 
+# --- Python-Zwischendateien ---
+__pycache__/
+*.pyc
+
 # --- Build-Ausgaben ---
 dist/
 build/
