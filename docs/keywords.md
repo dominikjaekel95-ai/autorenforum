@@ -68,10 +68,9 @@ Semrush (08.11.2026): „autoren berlin“ 30 Suchen im Monat, „lesebühne ber
 
 So setzen wir es um:
 
-- **Seitentitel** (57 Zeichen): `Autorenforum Berlin: Lesebühne für Autorinnen und Autoren`
-- Alternative ohne „Lesebühne“ (55 Zeichen): `Autorenforum Berlin – Verein für Autorinnen und Autoren`.
-  Sie ist die bessere Wahl, falls „autorenverein berlin“ nennenswert gesucht
-  wird.
+- **Seitentitel** (55 Zeichen): `Autorenforum Berlin – Verein für Autorinnen und Autoren`
+- Alternative mit „Lesebühne“ (57 Zeichen): `Autorenforum Berlin: Lesebühne für Autorinnen und Autoren`.
+  „Lesebühne“ kommt in den neuen Texten des Vereins nicht vor.
 - **Meta-Description** (155 Zeichen), aus den neuen Texten des Vereins, ergänzt
   um „für Autorinnen und Autoren in Berlin“: `Werkstattbühne für Autorinnen und
   Autoren in Berlin: Lesung und Diskussion von unveröffentlichten Texten. Jeden
