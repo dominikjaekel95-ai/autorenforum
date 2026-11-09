@@ -72,13 +72,20 @@ So setzen wir es um:
 - Alternative ohne „Lesebühne“ (55 Zeichen): `Autorenforum Berlin – Verein für Autorinnen und Autoren`.
   Sie ist die bessere Wahl, falls „autorenverein berlin“ nennenswert gesucht
   wird.
-- **Meta-Description** (146 Zeichen), aus vorhandenen Sätzen des Vereins:
-  `Berlins älteste wöchentliche Lesebühne: Kein Applaus. Konstruktive Kritik.
-  Bessere Texte. Immer montags, immer 20 Uhr, in der Schwartzschen Villa.`
-- **H1:** „Berlins älteste wöchentliche Lesebühne“ (aus dem Meetup-Text des
-  Vereins), darunter „Kein Applaus. Konstruktive Kritik. Bessere Texte.“ (aus
-  der heutigen Meta-Description). „Autorinnen und Autoren“ steht im ersten
-  Satz des Textes.
+- **Meta-Description** (155 Zeichen), aus den neuen Texten des Vereins, ergänzt
+  um „für Autorinnen und Autoren in Berlin“: `Werkstattbühne für Autorinnen und
+  Autoren in Berlin: Lesung und Diskussion von unveröffentlichten Texten. Jeden
+  Montagabend, drei Texte, drei Diskussionen.`
+- **Die Startseite zeigt immer den aktuellen Termin bzw. die Ankündigungen.**
+  Fest sind nur Titel, H1 und ein kurzer Rahmentext aus den neuen Texten des
+  Vereins.
+- **H1, fest:** „Werkstattbühne für Autorinnen und Autoren in Berlin“, darunter
+  der Untertitel aus dem Plan für die Termine: „Lesung und Diskussion von
+  unveröffentlichten Texten“. Die Überschriften der Ankündigungen sind H2,
+  damit die H1 nicht jede Woche wechselt.
+- Die neuen Texte des Vereins enthalten das Wort „Autoren“ nicht, nur
+  „Autor*innen“. Deshalb tragen Titel, H1 und Description „Autorinnen und
+  Autoren“.
 - **Interne Links:** Die Startseite verlinkt die Werkstattbühne, die Termine,
   die Anregungen zur Textkritik und die Veröffentlichungen, mit Linktexten, die
   sagen, wohin sie führen.
